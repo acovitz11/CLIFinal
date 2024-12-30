@@ -1,0 +1,1102 @@
+ParishID,Adoration_Times,Saturday,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday
+0,,,,,,,,
+1,,,,,,,,
+2,,,,,,,,
+3,,,,,,,,
+4,Tuesday starting 8:30 AM & ending with benediction at 12:00 PM,,,,8:30 AM,,,
+5,,,,,,,,
+6,"{""Tuesday"": ""12:00 PM - 6:30 PM"",""Wednesday"": ""12:00 PM - 6:30 PM"",""Thursday"": ""12:00 PM - 6:30 PM"",""First Friday"": ""8:00 PM - 6:45 AM (next day)"",""Last Monday of the month"": ""8:00 PM (Spanish)""}",,,12:00 PM - 6:30 PM,12:00 PM - 6:30 PM,12:00 PM - 6:30 PM,12:00 PM - 6:30 PM,12:00 PM - 6:30 PM
+7,"{""First Fridays"": {""2024"": [""Jul 5"",""Aug 2"",""Sep 6"",""Oct 4"",""Nov 1"",""Dec 6""],""2025"": [""Jan 3"",""Feb 7"",""Mar 7"",""Apr 4"",""May 2"",""Jun 6"",""Jul 4"",""Aug 1"",""Sep 5"",""Oct 3"",""Nov 7"",""Dec 5""]}}",,,,,,,
+8,,,,,,,,
+9,,,,,,,,
+10,,,,,,,,
+11,"{""Monday"": ""8:30 AM - 9:30 AM"",""Tuesday"": ""8:30 AM - 9:30 AM"",""Wednesday"": ""8:30 AM - 9:30 AM"",""Thursday"": ""8:30 AM - 9:30 AM"",""Friday"": ""8:30 AM - 9:30 AM"",""Saturday"": ""8:30 AM - 9:30 AM""}",8:30 AM - 9:30 AM,,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM
+12,,,,,,,,
+13,"{""1st Friday"": ""11:00 AM to 1:00 PM""}",,,,,,,11:00 AM - 1:00 PM
+14,,,,,,,,
+15,,,,,,,,
+16,"{""First Friday"": ""7:00 PM \u2013 10:00 PM""}",,,,,,,7:00 PM
+17,"{""Thursday"": ""12:30 PM"",""Friday"": ""7:00 AM""}",,,,,,12:30 PM,12:30 PM
+18,"{""Monday"": ""12:00 PM - 3:00 PM"",""Wednesday"": ""12:00 PM - 3:00 PM"",""Friday"": ""12:00 PM - 3:00 PM""}",,,12:00 PM - 3:00 PM,,12:00 PM - 3:00 PM,,12:00 PM - 3:00 PM
+19,,,,,,,,
+20,,,,,,,,
+21,,,,,,,,
+22,,,,,,,,
+23,,,,,,,,
+24,,,,,,,,
+25,,,,,,,,
+26,,,,,,,,
+27,"{""Saturday"": ""6:30 PM""}",6:30 PM,,,,,,
+28,"{""Monday to Saturday"": ""7:00 AM - 7:00 PM"",""Closed"": ""Thursdays 6:00 PM - 7:00 PM and the first Fridays of the month from 12:30 PM - 7:00 PM""}",7:00 AM,,7:00 AM,,,7:00 AM,7:00 AM
+29,"{""Eucharistic Adoration"": ""7:00 PM (1st Wednesday of every month)""}",,,,,7:00 PM,,
+30,,,,,,,,
+31,"{""NA"": ""NA""}",,,,,,,
+32,,,,,,,,
+33,,,,,,,,
+34,"{""Monday"": ""1:00 PM - 11:00 PM"",""Tuesday"": ""1:00 PM - 11:00 PM"",""Thursday"": ""1:00 PM - 11:00 PM""}",,,1:00 PM - 11:00 PM,1:00 PM - 11:00 PM,,1:00 PM - 11:00 PM,
+35,"{""Thursday"": ""3:00 PM - 6:00 PM""}",,,,,,3:00 PM - 6:00 PM,
+36,"{""First Friday"": ""8:00 AM""}",,,,,,,8:00 AM
+37,"{""Saturday"": ""9:00 AM - 11:45 AM""}",9:00 AM - 11:45 AM,,,,,,
+38,,,,,,,,
+39,,,,,,,,
+40,"{""Thursday"": ""8:00 AM to 7:00 PM""}",,,,,,8:00 AM - 7:00 PM,
+41,,,,,,,,
+42,Open 24 hours a day / 7 days a week,,,,,,,
+43,,,,,,,,
+44,"{""Regular"": ""Monday \u2013 Friday 11:00 AM to 2:00 PM"",""Healing Mass"": ""2nd or 3rd Sunday of the month at 5:00 PM"",""2000 Hail Marys"": ""1st Saturday 7:30 AM \u2013 5:30 PM""}",11:00 AM - 2:00 PM,11:00 AM - 2:00 PM,11:00 AM - 2:00 PM,,,,11:00 AM - 2:00 PM
+45,"{""First Friday of every month"": [""12:45 PM to 1:45 PM""]}",,,,,,,12:45 PM - 1:45 PM
+46,,,,,,,,
+47,"{""Monday"": ""7:00 PM"",""Wednesday"": ""7:00 PM""}",,,7:00 PM,,7:00 PM,,
+48,"{""Thursday"": ""7:00 PM""}",,,,,,7:00 PM,
+49,"{""First Friday of the month"": ""9:00 AM - 12:00 PM""}",,,,,,,9:00 AM - 12:00 PM
+50,,,,,,,,
+51,,,,,,,,
+52,,,,,,,,
+53,"{""Friday"": ""6:00 PM""}",,,,,,,6:00 PM
+54,"{""Sunday"": ""Until 4:00 PM""}",,4:00 PM,,,,,
+55,,,,,,,,
+56,,,,,,,,
+57,"{""Spanish"": ""6:30 PM - 7:30 PM Friday"",""Portuguese"": ""5:00 PM - 7:00 PM Last Sunday of the Month""}",,6:30 PM - 7:30 PM,,,,,6:30 PM - 7:30 PM
+58,,,,,,,,
+59,"{""First Friday"": {""Exposition"": ""11:00 AM"",""Benediction"": ""11:50 AM""}}",,,,,,,11:00 AM
+60,"{""1st Friday of the month"": ""7:30 AM (chapel)"",""Monday"": ""9:00 AM - 12:00 PM"",""Wednesday"": ""1:00 PM - 4:00 PM"",""Friday"": ""9:00 AM - 12:00 PM"",""Saturday"": ""1:00 PM - 8:00 PM"",""24-hour Adoration"": ""Available""}",7:30 AM - 12:00 PM,,7:30 AM - 12:00 PM,,7:30 AM - 12:00 PM,,7:30 AM - 12:00 PM
+61,"{""Tuesday"": [""11:00 AM"",""1:00 AM""],""Wednesday"": ""8:00 AM"",""Thursday"": [""2:00 AM"",""12:00 PM""],""Saturday"": [""1:00 AM"",""2:00 AM"",""11:00 AM"",""1:00 PM""],""Sunday"": ""1:00 PM""}",11:00 AM,11:00 AM,,11:00 AM,11:00 AM,11:00 AM,
+62,"{""Monday"": ""8:00 AM - 4:00 PM"",""Tuesday"": ""8:00 AM - 4:00 PM"",""Wednesday"": ""8:00 AM - 4:00 PM"",""Thursday"": ""8:00 AM - 4:00 PM"",""Friday"": ""8:00 AM - 4:00 PM"",""Saturday"": ""9:00 AM - NA"",""Sunday"": ""NA""}",8:00 AM - 4:00 PM,8:00 AM - 4:00 PM,8:00 AM - 4:00 PM,8:00 AM - 4:00 PM,8:00 AM - 4:00 PM,8:00 AM - 4:00 PM,8:00 AM - 4:00 PM
+63,,,,,,,,
+64,"{""Friday"": [""11:00 AM (in church)""],""Daily"": [""24-hour private devotion to the Blessed Sacrament (in the Adoration Chapel)""]}",,,,,,,11:00 AM
+65,,,,,,,,
+66,"{""Friday"": ""Immediately following the 12:00 PM Mass"",""Daily"": ""12:30 PM""}",,,,,,,12:00 PM
+67,,,,,,,,
+68,"{""First Friday"": ""10:00 AM - 12:00 PM"",""Daily"": {""Before Weekday Mass"": ""11:00 AM - 12:00 PM"",""After Weekday Mass"": ""12:30 PM""}}",,,,,,,10:00 AM - 12:00 PM
+69,,,,,,,,
+70,,,,,,,,
+71,"{""Weekdays"": ""8:00 AM - 4:00 PM""}",,,,,,,
+72,"{""Friday"": ""11:00 AM""}",,,,,,,11:00 AM
+73,"{""Monday to Wednesday"": ""8:30 AM - 9:30 AM"",""Thursday"": ""8:30 PM - 3:00 AM (Friday)"",""First Fridays"": ""8:30 PM - 3:00 AM"",""First Saturdays"": ""9:00 AM - 10:00 AM""}",8:30 AM,,8:30 AM,,8:30 AM,8:30 AM,8:30 AM
+74,,,,,,,,
+75,,,,,,,,
+76,,,,,,,,
+77,,,,,,,,
+78,,,,,,,,
+79,First Wednesday of the month (9:00 AM \u2013 4:15 PM),,,,,9:00 AM,,
+80,,,,,,,,
+81,,,,,,,,
+82,Fridays 4:00 PM to 5:45 PM,,,,,,,4:00 PM - 5:45 PM
+83,,,,,,,,
+84,"{""1st Friday of the Month"": ""8:30 AM - 9:00 PM""}",,,,,,,8:30 AM - 9:00 PM
+85,,,,,,,,
+86,,,,,,,,
+87,,,,,,,,
+88,"{""Regular"": ""Half hour before each Mass"",""1st Friday"": ""5:30 PM - 7:00 PM"",""1st Saturday"": ""After Mass""}",5:30 PM - 7:00 PM,,,,,,5:30 PM - 7:00 PM
+89,"{""Saturday"": ""3:00 PM - 8:00 PM""}",3:00 PM - 8:00 PM,,,,,,
+90,"{""Thursday"": ""8:00 PM"",""Friday"": ""NA"",""Saturday"": ""8:00 AM - 12:00 PM (Third Saturday)""}",8:00 PM - 12:00 PM,,,,,8:00 PM - 12:00 PM,8:00 PM - 12:00 PM
+91,"{""First Friday"": ""7:00 PM"",""Third Thursday"": ""7:00 PM""}",,,,,,7:00 PM,7:00 PM
+92,"[""8:00 PM Neocatechumenal Way (Tuesday and Wednesday)"",""8:00 PM Blessed Sacrament (1st Thursday of the month)""]",,,,8:00 PM,8:00 PM,8:00 PM,
+93,"{""First Friday"": ""9:00 AM - 7:00 PM""}",,,,,,,9:00 AM - 7:00 PM
+94,"{""Holy Hour"": {""English/Bilingual"": ""Selected Mondays from 7:00 PM to 8:00 PM"",""Spanish"": ""Last Wednesday of the month from 7:00 PM to 8:15 PM""},""Eucharistic Adoration"": ""Select Mondays from 3:00 PM to 5:00 PM""}",,,7:00 PM - 8:00 PM,,7:00 PM - 8:00 PM,,
+95,,,,,,,,
+96,,,,,,,,
+97,,,,,,,,
+98,,,,,,,,
+99,,,,,,,,
+100,24/7,,,,,,,
+101,"{""Wednesday"": ""7:30 PM to 8:30 PM""}",,,,,7:30 PM - 8:30 PM,,
+102,8:00 PM - Eucharistic Adoration,,,,,,,
+103,"{""Fridays"": ""8:30 AM to 10:00 AM""}",,,,,,,8:30 AM - 10:00 AM
+104,,,,,,,,
+105,"{""Advent Journey"": {""Week 1"": ""December 6 at 6:30 PM"",""Week 2"": ""December 13 at 6:30 PM"",""Week 3"": ""December 20 at 6:30 PM""}}",,,,,,,
+106,,,,,,,,
+107,,,,,,,,
+108,,,,,,,,
+109,,,,,,,,
+110,,,,,,,,
+111,24/7,,,,,,,
+112,,,,,,,,
+113,,,,,,,,
+114,,,,,,,,
+115,"{""First Friday"": ""8:00 AM"",""First Saturday"": ""8:00 AM""}",8:00 AM,,,,,,8:00 AM
+116,,,,,,,,
+117,"{""FirstSaturday"": ""10:00 AM""}",10:00 AM,,,,,,
+118,,,,,,,,
+119,,,,,,,,
+120,,,,,,,,
+121,,,,,,,,
+122,"{""Monday"": ""12:30 PM \u2013 3:00 PM"",""Friday"": ""12:30 PM \u2013 3:00 PM""}",,,12:30 PM,,,,12:30 PM
+123,"{""Wednesday"": ""7:00 PM - 8:00 PM"",""Second Saturday"": ""3:00 PM - 4:00 PM""}",7:00 PM - 8:00 PM,,,,7:00 PM - 8:00 PM,,
+124,,,,,,,,
+125,,,,,,,,
+126,,,,,,,,
+127,"{""Monday to Friday"": ""9:30 AM to 4:00 PM""}",,,9:30 AM,,,,9:30 AM
+128,,,,,,,,
+129,,,,,,,,
+130,"{""Wednesday"": ""12:00 PM - 4:00 PM""}",,,,,12:00 PM - 4:00 PM,,
+131,,,,,,,,
+132,,,,,,,,
+133,,,,,,,,
+134,,,,,,,,
+135,,,,,,,,
+136,Daily between Masses,,,,,,,
+137,,,,,,,,
+138,7:00 PM Every Thursday of the month,,,,,,7:00 PM,
+139,,,,,,,,
+140,"{""2nd Tuesday"": ""2:00 PM - 8:00 PM""}",,,,2:00 PM - 8:00 PM,,,
+141,,,,,,,,
+142,,,,,,,,
+143,,,,,,,,
+144,,,,,,,,
+145,,,,,,,,
+146,"{""Tuesday"": ""6:00 PM - 7:00 PM"",""Last_Sunday_of_the_month"": ""10:00 AM - 11:00 AM""}",,6:00 PM - 7:00 PM,,6:00 PM - 7:00 PM,,,
+147,,,,,,,,
+148,,,,,,,,
+149,"{""1st & 3rd Wednesday"": ""9:00 AM - 9:00 PM""}",,,,,9:00 AM - 9:00 PM,,
+150,"{""Monday"": ""9:00 AM - 9:00 PM"",""Tuesday"": ""9:00 AM - 9:00 PM"",""Wednesday"": ""9:00 AM - 9:00 PM"",""Thursday"": ""9:00 AM - 9:00 PM"",""Friday"": ""9:00 AM - 9:00 PM""}",,,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM
+151,"[""8:30 AM Friday"",""6:00 PM Friday""]",,,,,,,8:30 AM
+152,,,,,,,,
+153,,,,,,,,
+154,,,,,,,,
+155,,,,,,,,
+156,"{""Current"": ""Wednesdays from 1:00 PM - 7:00 PM and First Fridays 7:00 AM - 9:00 AM until Jan. 8"",""After Jan. 8"": ""St. Patrick Chapel""}",,,,,1:00 PM - 7:00 PM,,1:00 PM - 7:00 PM
+157,,,,,,,,
+158,"{""Saturday"": ""4:00 PM"",""Sunday"": ""8:00 AM""}",4:00 PM,4:00 PM,,,,,
+159,"{""Wednesdays"": ""1:00 PM - 7:00 PM"",""First Fridays"": ""7:00 AM - 9:00 AM""}",,,,,1:00 PM - 7:00 PM,,1:00 PM - 7:00 PM
+160,"{""First Friday of the month"": ""NA""}",,,,,,,
+161,,,,,,,,
+162,"{""Regular"": ""Friday before Mass beginning at 5:30 PM"",""Perpetual"": ""Available in the Chapel of the Good Shepherd""}",,,,,,,5:30 PM
+163,,,,,,,,
+164,,,,,,,,
+165,,,,,,,,
+166,,,,,,,,
+167,"{""Wednesday"": ""3:00 PM - 4:00 PM"",""Saturday"": ""7:00 AM - 1:00 PM""}",3:00 PM - 4:00 PM,,,,3:00 PM - 4:00 PM,,
+168,"{""First Friday"": ""After the 8 AM Mass at Enochsburg until 9:30 AM""}",,,,,,,8 AM
+169,"{""Open"": ""Sunday 1:00 PM until Saturday 8:00 AM"",""Drop-in"": ""7:00 AM to 7:00 PM Monday to Friday and Sunday 1:00 PM to 7:00 PM""}",1:00 PM - 7:00 AM,1:00 PM - 7:00 AM,1:00 PM - 7:00 AM,,,,1:00 PM - 7:00 AM
+170,,,,,,,,
+171,"{""1st Sunday"": ""30 min. before Mass"",""2nd & 4th Thursday"": ""4:30 PM - 5:30 PM""}",,4:30 PM - 5:30 PM,,,,4:30 PM - 5:30 PM,
+172,"{""First Tuesday"": ""suspended indefinitely"",""Other Tuesdays"": ""6:00 PM - 8:00 PM"",""First Friday"": ""8:30 AM on Friday to 8:00 AM on Saturday""}",6:00 PM - 8:00 PM,,,6:00 PM - 8:00 PM,,,6:00 PM - 8:00 PM
+173,"{""1st Friday"": ""9:00 AM - 9:00 PM""}",,,,,,,9:00 AM - 9:00 PM
+174,"{""Monday - Wednesday"": ""4:00 AM - Midnight"",""Thursday"": ""4:00 AM - 4:00 PM"",""Chapel"": ""Open for prayer 7 days/week 8:00 AM - 8:00 PM""}",,,4:00 AM,,4:00 AM,4:00 AM,
+175,"{""St. John the Apostle"": ""Exposition and Adoration begins on the eve of the first Friday of the month immediately after the 5:30 PM Mass and concludes with Mass Friday morning at 8:30 AM."",""General"": ""NA""}",,,,,,,5:30 PM
+176,,,,,,,,
+177,Third Thursday each month from 11:00 AM to 7:00 PM,,,,,,11:00 AM - 7:00 PM,
+178,,,,,,,,
+179,"{""St. John the Apostle"": ""Exposition and Adoration begins on the eve of the first Friday of the month immediately after the 5:30 PM Mass and concludes with Mass Friday morning at 8:30 AM."",""General"": ""NA""}",,,,,,,5:30 PM
+180,"{""St. Teresa"": ""Wednesdays - 9:00 AM - 9:00 PM""}",,,,,9:00 AM,,
+181,"{""Tuesday"": ""5:00 PM - 6:00 PM"",""Friday"": ""9:00 AM""}",,,,5:00 PM - 6:00 PM,,,5:00 PM - 6:00 PM
+182,"{""Friday"": ""9:30 AM - 10:30 AM""}",,,,,,,9:30 AM - 10:30 AM
+183,"{""Wednesday"": ""4:00 PM""}",,,,,4:00 PM,,
+184,"{""1st & 3rd Monday"": ""12:00 PM"",""2nd & 4th Wednesday"": ""6:00 PM""}",,,12:00 PM,,12:00 PM,,
+185,,,,,,,,
+186,"{""Monday"": ""7:00 AM - 7:00 PM"",""Tuesday"": ""7:00 AM - 7:00 PM"",""Wednesday"": ""7:00 AM - 7:00 PM"",""Thursday"": ""7:00 AM - 7:00 PM"",""Friday"": ""7:00 AM - 7:00 PM"",""Saturday"": ""9:00 AM - 9:00 PM"",""Sunday"": ""9:00 AM - 9:00 PM""}",7:00 AM - 7:00 PM,7:00 AM - 7:00 PM,7:00 AM - 7:00 PM,7:00 AM - 7:00 PM,7:00 AM - 7:00 PM,7:00 AM - 7:00 PM,7:00 AM - 7:00 PM
+187,"{""First Friday"": ""After 12:05 PM Mass""}",,,,,,,12:05 PM
+188,,,,,,,,
+189,Wednesday after the evening Mass until 7:30 PM,,,,,7:30 PM,,
+190,"{""St. Michael"": {""Thursday"": ""following 8:35 AM Mass until 10:00 AM"",""1st Friday"": ""each month following 7:30 AM Mass until 9:00 AM""},""St. Peter"": {""Wednesday"": ""5:00 PM until Mass at 6:00 PM""}}",,,,,8:35 AM,8:35 AM,8:35 AM
+191,,,,,,,,
+192,"{""Tuesday"": ""6:30 PM - 9:00 PM"",""Wednesday"": ""6:30 PM - 9:00 PM"",""Thursday"": ""6:30 PM - 9:00 PM""}",,,,6:30 PM - 9:00 PM,6:30 PM - 9:00 PM,6:30 PM - 9:00 PM,
+193,"{""Monday"": ""8:30 AM to 9:30 AM"",""Tuesday"": ""8:30 AM to 9:30 AM"",""Wednesday"": ""8:30 AM to 9:30 AM"",""Thursday"": ""8:30 AM to 9:30 AM"",""Friday"": ""12:45 PM to 5:30 PM"",""Monday-Thursday"": ""6:00 PM to 9:00 PM""}",,,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM,8:30 AM - 9:30 AM
+194,"{""1st Sunday of the month"": ""after 11:00 AM Mass"",""Other"": ""12:00 PM""}",,11:00 AM,,,,,
+195,"{""Friday"": ""7:00 P.M.""}",,,,,,,7:00 PM
+196,,,,,,,,
+197,,,,,,,,
+198,,,,,,,,
+199,"{""St. Teresa"": ""Wednesdays - 9:00 AM - 9:00 PM""}",,,,,9:00 AM,,
+200,,,,,,,,
+201,Tuesday at 5:00 PM,,,,5:00 PM,,,
+202,,,,,,,,
+203,"{""Friday"": ""12:30 PM - 4:40 PM""}",,,,,,,12:30 PM - 4:40 PM
+204,"{""Wednesday"": ""9:00 AM - 7:00 PM"",""Friday"": ""9:30 AM - 1:00 PM""}",,,,,9:00 AM - 7:00 PM,,9:00 AM - 7:00 PM
+205,,,,,,,,
+206,"{""Holy Hours"": {""Wednesdays"": ""1:00 PM"",""Thursdays"": ""6:00 PM""},""Adoration Chapel"": ""24 hours a day""}",,,,,1:00 PM,1:00 PM,
+207,,,,,,,,
+208,"{""Wednesday"": ""6:00 PM"",""Thursday"": ""6:00 PM"",""Saturday"": ""6:00 PM"",""First Saturday of the month"": ""8:00 PM - 6:45 AM"",""Weekdays"": ""9:00 AM - 6:00 PM"",""Sunday"": ""9:00 AM - 3:00 PM""}",6:00 PM - 6:45 AM,6:00 PM - 6:45 AM,,,6:00 PM - 6:45 AM,6:00 PM - 6:45 AM,
+209,,,,,,,,
+210,,,,,,,,
+211,"{""1st & 3rd Fridays"": ""9:00 AM to 4:45 PM""}",,,,,,,9:00 AM - 4:45 PM
+212,,,,,,,,
+213,,,,,,,,
+214,,,,,,,,
+215,"{""Sunday"": ""9:30 AM - 12:00 PM"",""Tuesday"": ""1:00 PM - 4:00 PM""}",,9:30 AM - 12:00 PM,,9:30 AM - 12:00 PM,,,
+216,"{""First Friday"": [""9:00 AM - 5:30 PM""]}",,,,,,,9:00 AM - 5:30 PM
+217,,,,,,,,
+218,,,,,,,,
+219,,,,,,,,
+220,,,,,,,,
+221,"{""Wednesday"": ""After Noon Mass to 8:00 PM"",""Sunday"": ""3:30 PM to 4:30 PM""}",,8:00 PM,,,8:00 PM,,
+222,,,,,,,,
+223,,,,,,,,
+224,,,,,,,,
+225,,,,,,,,
+226,"{""Wednesday"": {""Start"": ""8:00 AM"",""End"": ""7:00 PM""}}",,,,,8:00 AM,,
+227,,,,,,,,
+228,,,,,,,,
+229,"{""Monday"": ""Immediately following the 9:00 AM Mass until the Tuesday 9:00 AM Mass (24 continuous hours)"",""Tuesday"": ""Immediately following the 9:00 AM Mass until the 7:00 PM Mass, continues after the Mass until 10:00 PM (Last guardian hour \u2013 9:00 PM to 10:00 PM)"",""Wednesday"": ""Immediately following the 9:00 AM Mass until 10:00 PM"",""Thursday"": ""NA"",""Friday"": ""NA""}",,,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM
+230,"{""Monday"": ""8:30 AM - 9:00 AM"",""Tuesday"": ""NA"",""Wednesday"": ""8:30 AM - 9:00 AM"",""Thursday"": ""NA"",""Friday"": ""8:30 AM - 9:00 AM""}",,,8:30 AM - 9:00 AM,8:30 AM - 9:00 AM,8:30 AM - 9:00 AM,8:30 AM - 9:00 AM,8:30 AM - 9:00 AM
+231,"{""Monday"": ""11:00 AM - 12:00 PM"",""Tuesday"": ""NA"",""Wednesday"": ""11:00 AM - 12:00 PM"",""Thursday"": ""NA"",""Friday"": ""7:00 AM - 8:00 PM"",""Saturday"": ""NA"",""Sunday"": ""NA""}",11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM
+232,,,,,,,,
+233,,,,,,,,
+234,"{""Thursday"": ""6:00 PM - 7:00 PM""}",,,,,,6:00 PM - 7:00 PM,
+235,,,,,,,,
+236,,,,,,,,
+237,,,,,,,,
+238,,,,,,,,
+239,"{""Wednesday"": ""6:00 PM - 7:00 PM""}",,,,,6:00 PM - 7:00 PM,,
+240,,,,,,,,
+241,"{""Thursday"": ""8:00 AM"",""Saturday"": ""9:00 AM""}",8:00 AM,,,,,8:00 AM,
+242,"[""Every Friday 3:00 PM until Saturday 7:00 AM""]",3:00 PM,,,,,,3:00 PM
+243,,,,,,,,
+244,,,,,,,,
+245,"{""Friday"": ""9:00 AM""}",,,,,,,9:00 AM
+246,"{""Holy Hour"": ""Every Wednesday at 6:00 PM"",""First Friday"": ""After 9:00 AM Mass"",""First Saturday"": ""After 8:30 AM Mass""}",6:00 PM,,,,6:00 PM,,6:00 PM
+247,"{""Start"": ""9:30 AM Monday"",""End"": ""9:00 AM Wednesday""}",,,9:30 AM,,9:30 AM,,
+248,"{""Monday_to_Friday"": ""10:00 AM - 12:00 PM"",""Silent"": ""1:00 PM"",""Friday"": ""6:00 PM - 6:45 PM""}",,,10:00 AM,,,,10:00 AM
+249,"{""Friday"": ""7:45 PM to 8:30 PM"",""Christmas Eve"": ""11:30 PM""}",,,,,,,7:45 PM - 8:30 PM
+250,"{""Monday"": ""9:30 AM - 3:00 PM"",""Tuesday"": ""9:30 AM - 3:00 PM"",""Wednesday"": ""9:30 AM - 3:00 PM"",""Thursday"": ""9:00 AM - 3:00 PM"",""Friday"": ""9:30 AM - 3:00 PM""}",,,9:30 AM - 3:00 PM,9:30 AM - 3:00 PM,9:30 AM - 3:00 PM,9:30 AM - 3:00 PM,9:30 AM - 3:00 PM
+251,"{""Friday"": ""9:00 AM - 9:00 PM"",""Monday_Thursday"": ""9:30 AM - 4:00 PM""}",,,9:00 AM - 9:00 PM,,,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM
+252,"{""Silent Adoration"": {""First Friday"": ""9:30 AM - 12:00 PM"",""Other Fridays"": ""9:30 AM - 10:30 AM"",""First Saturday"": ""9:30 AM - 12:00 PM"",""Other Saturdays"": ""9:30 AM - 10:30 AM""},""Adoration with Guided Prayers"": {""Wednesday"": ""6:00 PM - 6:50 PM"",""Second Saturday"": ""8:00 PM - Second Sunday 8:00 AM""}}",9:30 AM - 12:00 PM,9:30 AM - 12:00 PM,,,9:30 AM - 12:00 PM,,9:30 AM - 12:00 PM
+253,,,,,,,,
+254,"{""Monday to Thursday"": ""9:00 AM - 4:00 PM"",""First Friday"": ""9:00 AM - 8:00 PM"",""Holy Hour"": ""Wednesday 7:00 PM - 8:00 PM""}",,,9:00 AM,,9:00 AM,9:00 AM,9:00 AM
+255,,,,,,,,
+256,"{""Nocturnal Adoration"": ""Every first Friday of the month after the 6 PM (Spanish) Mass"",""Holy Hour"": ""Thursday 7:00 PM \u2013 8:00 PM (Spanish)""}",,,,,,6 PM,6 PM
+257,"{""Wednesday"": ""9:30 AM to 6:30 PM Benediction @ 6:30 PM""}",,,,,9:30 AM - 6:30 PM,,
+258,"{""Friday"": [""8:30 AM - 7:00 PM""]}",,,,,,,8:30 AM - 7:00 PM
+259,"Monday, 8:30 AM\u2013Saturday, 8 AM",8:30 AM,,8:30 AM,,,,
+260,,,,,,,,
+261,"{""Monday"": ""8:30 AM - 8:00 PM"",""Friday"": ""8:30 AM - 8:00 PM"",""Wednesday"": ""8:30 AM - 5:00 PM"",""Saturday"": ""8:30 AM - 7:00 PM""}",8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM
+262,"{""Monday"": ""8:00 AM \u2013 11:59 PM"",""Tuesday"": ""12:00 AM \u2013 11:59 PM"",""Wednesday"": ""12:00 AM \u2013 11:59 PM"",""Thursday"": ""12:00 AM \u2013 11:59 PM"",""Friday"": ""12:00 AM \u2013 11:59 PM"",""Saturday"": ""12:00 AM \u2013 9:00 AM""}",8:00 AM,,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+263,Daily between 9:30 AM & 9:00 PM,,,,,,,
+264,"{""Monday"": ""8:30 AM - 8:00 PM"",""Wednesday"": ""12:00 PM - 5:00 PM"",""Friday"": ""8:30 AM - Saturday 8:00 AM"",""Parish_Holy_Hour"": ""Wednesday 5:00 PM - 6:00 PM""}",8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM,,8:30 AM - 8:00 PM
+265,"{""First Friday"": {""Holy Mass"": ""6:30 PM"",""Adoration"": ""9:00 AM to 6:15 PM"",""Benediction"": ""6:15 PM""},""Weekdays"": ""After 5:30 PM Mass on Wednesday""}",,,,,6:30 PM - 6:15 PM,,6:30 PM - 6:15 PM
+266,,,,,,,,
+267,,,,,,,,
+268,"{""Sunday"": [""7:00 AM to 8:15 AM (Observe silent)"",""11:00 AM to 11:50 AM""],""Monday"": ""5:00 PM to 5:45 PM"",""Tuesday"": ""8:00 AM to 8:45 AM (Observe silence)"",""Wednesday"": ""5:00 PM to 5:45 PM"",""Thursday"": ""8:00 AM to 8:45 AM (Observe silence)"",""Saturday"": [""8:00 AM to 8:45 AM (Observe silent)"",""4:00 PM to 4:45 PM (Observe silent)""],""1st Friday"": ""5:00 PM to 6:00 PM""}",7:00 AM - 8:15 AM,7:00 AM - 8:15 AM,7:00 AM - 8:15 AM,7:00 AM - 8:15 AM,7:00 AM - 8:15 AM,7:00 AM - 8:15 AM,7:00 AM - 8:15 AM
+269,"{""Thursday"": ""4:00 PM to 7:00 PM"",""Friday"": ""after 9:30 AM Mass"",""First Friday"": ""6:00 PM to 8:00 PM""}",,,,,,4:00 PM - 7:00 PM,4:00 PM - 7:00 PM
+270,,,,,,,,
+271,,,,,,,,
+272,"24 hours a day, 7 days a week",,,,,,,
+273,"{""Monday"": ""9:30 AM - 5:00 PM"",""Tuesday"": ""9:30 AM - 5:00 PM"",""Wednesday"": ""9:30 AM - 5:00 PM"",""Thursday"": ""9:30 AM - 5:00 PM"",""Friday"": ""9:30 AM - 12:00 PM""}",,,9:30 AM - 5:00 PM,9:30 AM - 5:00 PM,9:30 AM - 5:00 PM,9:30 AM - 5:00 PM,9:30 AM - 5:00 PM
+274,"{""Vigil Adoration"": ""1st Friday of every month starting with the 9:00 AM Mass and ending with the 6:00 AM Mass the following day."",""Monday"": ""9:00 AM - 10:00 PM"",""Tuesday"": ""9:00 AM - 10:00 PM"",""Wednesday"": ""9:00 AM - 10:00 PM"",""Thursday"": ""9:00 AM - 10:00 PM"",""Friday"": ""9:00 AM - 10:00 PM""}",,,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM,9:00 AM - 10:00 PM
+275,"[""1st Saturday of the Month from 4:00 PM to 4:45 PM"",""Fridays from 11:00 AM to 3:00 PM""]",4:00 PM - 4:45 PM,,,,,,4:00 PM - 4:45 PM
+276,,,,,,,,
+277,,,,,,,,
+278,"{""Monday"": ""1 hour following Mass"",""Thursday"": ""1 hour following Mass"",""Friday"": ""1 hour following Mass"",""Wednesday"": ""5:15 PM - 6:15 PM"",""FirstFriday"": ""9:00 AM - 8:00 AM (Saturday)""}",5:15 PM - 6:15 PM,,5:15 PM - 6:15 PM,,5:15 PM - 6:15 PM,5:15 PM - 6:15 PM,5:15 PM - 6:15 PM
+279,,,,,,,,
+280,"{""Monday - Friday"": ""9:00 AM - 10:00 AM"",""Monday and Wednesday"": ""7:00 PM - 8:00 PM"",""First Friday"": ""12:15 PM - Saturday 8:15 AM""}",9:00 AM,,9:00 AM,,9:00 AM,,9:00 AM
+281,"{""Thursday"": ""10:00 AM - 7:00 PM"",""Friday"": ""7:00 PM - 8:00 PM""}",,,,,,10:00 AM - 7:00 PM,10:00 AM - 7:00 PM
+282,"{""Weekdays"": ""Following the noon Mass until 2:00 PM"",""First Friday"": ""12:00 PM""}",,,,,,,2:00 PM
+283,Following Thursday Spanish Mass,,,,,,,
+284,,,,,,,,
+285,,,,,,,,
+286,,,,,,,,
+287,"{""Monday - Friday"": ""9:00 AM - 9:00 PM"",""Sunday"": ""6:00 PM - 9:00 PM""}",,9:00 AM,9:00 AM,,,,9:00 AM
+288,,,,,,,,
+289,"{""Wednesday"": ""1:00 PM - 4:45 PM"",""RESTORE"": ""Third Sunday of the month from 7:00 PM - 8:00 PM""}",,1:00 PM - 4:45 PM,,,1:00 PM - 4:45 PM,,
+290,,,,,,,,
+291,"{""Tuesday"": ""8:45 AM - 7:00 PM"",""Sunday"": ""3:00 PM - 9:00 PM""}",,8:45 AM - 7:00 PM,,8:45 AM - 7:00 PM,,,
+292,,,,,,,,
+293,"{""Wednesdays"": ""6:30 PM - 8:00 PM"",""1st_Friday_of_the_Month"": ""3:00 PM - 5:00 PM""}",,,,,6:30 PM - 8:00 PM,,6:30 PM - 8:00 PM
+294,,,,,,,,
+295,,,,,,,,
+296,,,,,,,,
+297,,,,,,,,
+298,,,,,,,,
+299,Following First Friday Mass,,,,,,,
+300,24/7 at the Confessional window on the parking lot side of Our Mother of Sorrows Church,,,,,,,
+301,,,,,,,,
+302,,,,,,,,
+303,"{""Tuesday"": ""9:00 AM - 12:00 PM"",""Friday"": ""9:00 AM - 12:00 PM""}",,,,9:00 AM - 12:00 PM,,,9:00 AM - 12:00 PM
+304,"{""Wednesday"": ""12:00 PM - 6:15 PM""}",,,,,12:00 PM - 6:15 PM,,
+305,,,,,,,,
+306,,,,,,,,
+307,"{""Monday"": ""6:30 PM - 8:00 PM"",""Tuesday"": ""8:30 AM - 12:30 PM"",""Wednesday"": ""9:30 AM - 12:30 PM"",""Thursday"": ""8:30 AM - 12:30 PM"",""Friday"": ""8:30 AM - 5:30 PM"",""Saturday"": ""8:30 AM - 9:00 AM""}",6:30 PM - 8:00 PM,,6:30 PM - 8:00 PM,6:30 PM - 8:00 PM,6:30 PM - 8:00 PM,6:30 PM - 8:00 PM,6:30 PM - 8:00 PM
+308,,,,,,,,
+309,"{""Tuesday"": ""6:30 PM to 7:30 PM"",""Friday"": ""8:30 AM to 10:30 AM"",""First Friday"": ""9:00 AM to 1:00 PM""}",,,,6:30 PM - 7:30 PM,,,6:30 PM - 7:30 PM
+310,"{""Monday"": ""6:00 PM - 7:00 PM"",""Wednesday"": ""11:30 AM - 12:30 PM""}",,,6:00 PM - 7:00 PM,,6:00 PM - 7:00 PM,,
+311,,,,,,,,
+312,,,,,,,,
+313,,,,,,,,
+314,"{""Tuesday"": ""After 8:00 AM Mass""}",,,,8:00 AM,,,
+315,,,,,,,,
+316,"{""Tuesday"": ""1:30 PM - 6:30 PM""}",,,,1:30 PM - 6:30 PM,,,
+317,,,,,,,,
+318,,,,,,,,
+319,"{""1st & 3rd Monday"": ""6:00 PM""}",,,6:00 PM,,,,
+320,"{""First and Last Tuesday of the Month"": ""11:00 AM - 11:45 AM""}",,,,11:00 AM - 11:45 AM,,,
+321,"{""1st Friday of each month"": ""After 12:00 PM Mass""}",,,,,,,12:00 PM
+322,,,,,,,,
+323,Wednesday 9:30 AM - 10:30 AM,,,,,9:30 AM - 10:30 AM,,
+324,"[""12:30 PM""]",,,,,,,
+325,,,,,,,,
+326,,,,,,,,
+327,,,,,,,,
+328,,,,,,,,
+329,,,,,,,,
+330,,,,,,,,
+331,"{""Thursday"": ""7:00 PM""}",,,,,,7:00 PM,
+332,,,,,,,,
+333,,,,,,,,
+334,"{""Date"": ""November 6, 2023"",""Time"": ""6:30 PM - 9:00 PM"",""Location"": ""Christ the King Parish | 54 Lyman St., Brockton, MA 02302""}",,,,,,,
+335,"{""Wednesday"": ""8:00 AM - 9:30 AM"",""Tuesday"": ""8:30 AM"",""Thursday"": ""8:30 AM"",""Friday"": ""8:30 AM""}",,,,8:00 AM - 9:30 AM,8:00 AM - 9:30 AM,8:00 AM - 9:30 AM,8:00 AM - 9:30 AM
+336,"{""Thursdays"": ""12:00 PM - 3:00 PM at Sacred Heart""}",,,,,,12:00 PM - 3:00 PM,
+337,,,,,,,,
+338,,,,,,,,
+339,"{""Wednesday"": ""after 6:00 PM Mass until 7:00 PM"",""First Friday"": ""6:00 PM - 9:00 PM""}",,,,,6:00 PM - 9:00 PM,,6:00 PM - 9:00 PM
+340,,,,,,,,
+341,,,,,,,,
+342,,,,,,,,
+343,"{""Wednesday"": ""Following Mass at 5:30 PM in Our Lady of Good Voyage Church""}",,,,,5:30 PM,,
+344,,,,,,,,
+345,Every Thursday Evening 7 PM - Holy Hour with Opportunity for Confession,,,,,,7 PM,
+346,"{""Perpetual Adoration"": ""Available in Divine Mercy Chapel""}",,,,,,,
+347,,,,,,,,
+348,"{""Friday"": ""10:00 AM - 3:00 PM (except during Mass)""}",,,,,,,10:00 AM - 3:00 PM
+349,"{""First Friday"": ""7:00 PM \u2013 10:00 PM""}",,,,,,,7:00 PM
+350,"{""Monday"": ""8:00 AM to 9:00 AM"",""Tuesday"": ""8:00 AM to 9:00 AM"",""Wednesday"": [""8:00 AM to 9:00 AM"",""7:00 PM to 8:00 PM""],""Thursday"": ""8:00 AM to 9:00 AM"",""Friday"": ""8:00 AM to 9:00 AM""}",,,8:00 AM - 9:00 AM,8:00 AM - 9:00 AM,8:00 AM - 9:00 AM,8:00 AM - 9:00 AM,8:00 AM - 9:00 AM
+351,,,,,,,,
+352,,,,,,,,
+353,"{""Daily"": ""6:30 A.M. - 7:30 A.M.""}",,,,,,,
+354,Monday to Friday 10:00 AM to 5:00 PM (except holidays),,,10:00 AM,,,,10:00 AM
+355,"{""Wednesday"": ""7:00 PM to 8:00 PM St. James"",""Saturday"": ""12:00 PM to 1:30 PM Immaculate Conception""}",7:00 PM - 8:00 PM,,,,7:00 PM - 8:00 PM,,
+356,,,,,,,,
+357,,,,,,,,
+358,,,,,,,,
+359,"{""Friday"": [""6:30 AM - 7:30 AM"",""11:30 AM - 12:30 PM""],""Saturday"": [""8:00 AM - 9:00 AM""]}",6:30 AM - 7:30 AM,,,,,,6:30 AM - 7:30 AM
+360,"{""Monday"": ""6:00 PM to 7:00 PM""}",,,6:00 PM - 7:00 PM,,,,
+361,,,,,,,,
+362,,,,,,,,
+363,"{""First Fridays"": ""12:00 PM - 2:00 PM at Most Precious Blood""}",,,,,,,12:00 PM - 2:00 PM
+364,"{""Additional"": ""First Thursdays & First Fridays following 9AM Mass""}",,,,,,9AM,9AM
+365,Monday \u2013 Friday: 9:00 AM - 1:00 PM,,,9:00 AM - 1:00 PM,,,,9:00 AM - 1:00 PM
+366,"[""First Friday of the Month 6:00 PM \u2013 6:30 PM""]",,,,,,,6:00 PM
+367,"{""Holy Hour"": ""Every Thursday"",""Lectio Divina"": ""Tuesday 10:30 AM - 11:30 AM"",""Adoration"": ""Thursday, 11:00 AM - 6:00 PM""}",,,,10:30 AM - 11:30 AM,,10:30 AM - 11:30 AM,
+368,"{""Friday"": ""5:00 PM - 6:00 PM"",""Sunday"": ""3:00 PM - 4:00 PM""}",,5:00 PM - 6:00 PM,,,,,5:00 PM - 6:00 PM
+369,"{""Tuesday"": ""6:00 PM to 7:00 PM at St. John the Evangelist"",""Thursday"": ""6:00 PM to 7:00 PM at St. Joseph"",""Friday"": ""6:00 AM to 12:00 PM at St. Joseph"",""First Friday"": ""7:00 PM to 8:00 PM at St. John the Evangelist"",""First Saturday"": ""11:00 AM to 11:30 AM at St. John the Evangelist""}",6:00 PM - 7:00 PM,,,6:00 PM - 7:00 PM,,6:00 PM - 7:00 PM,6:00 PM - 7:00 PM
+370,"{""First Fridays"": ""After Daily Mass until 10:00 AM""}",,,,,,,10:00 AM
+371,,,,,,,,
+372,"{""Wednesdays"": ""4:00 PM to 5:00 PM""}",,,,,4:00 PM - 5:00 PM,,
+373,,,,,,,,
+374,Friday 9:30 AM to Noon,,,,,,,9:30 AM
+375,,,,,,,,
+376,"{""Monday"": ""8:30 AM - 12:00 PM"",""Tuesday"": ""8:30 AM - 12:00 PM"",""Wednesday"": ""8:30 AM - 12:00 PM"",""Thursday"": ""8:30 AM - 12:00 PM"",""Friday"": ""8:30 AM - 12:00 PM""}",,,8:30 AM - 12:00 PM,8:30 AM - 12:00 PM,8:30 AM - 12:00 PM,8:30 AM - 12:00 PM,8:30 AM - 12:00 PM
+377,"{""Friday"": ""8:30 AM - 9:00 AM""}",,,,,,,8:30 AM - 9:00 AM
+378,Open 7 days a week 7:00 AM to 7:00 PM for individual devotion,,,,,,,
+379,,,,,,,,
+380,,,,,,,,
+381,"{""Thursday"": ""5:30 PM to 6:30 PM""}",,,,,,5:30 PM - 6:30 PM,
+382,,,,,,,,
+383,,,,,,,,
+384,,,,,,,,
+385,,,,,,,,
+386,"{""Monday to Friday"": ""2:00 PM - 5:00 PM""}",,,2:00 PM,,,,2:00 PM
+387,"{""Sunday"": ""5:00 PM - 6:00 PM - Saint Rose""}",,5:00 PM - 6:00 PM,,,,,
+388,,,,,,,,
+389,,,,,,,,
+390,6:00 AM Wednesday - Sunday,,6:00 AM,,,6:00 AM,,
+391,"{""First Monday of the Month"": ""8:30 AM - 10:00 AM""}",,,8:30 AM - 10:00 AM,,,,
+392,"{""Monday"": ""9:00 AM to 12:45 PM"",""Tuesday"": ""9:00 AM to 12:45 PM"",""Wednesday"": ""9:00 AM to 12:45 PM"",""Thursday"": ""9:00 AM to 12:45 PM"",""Friday"": ""9:00 AM to 12:45 PM"",""Saturday"": ""NA""}",9:00 AM - 12:45 PM,,9:00 AM - 12:45 PM,9:00 AM - 12:45 PM,9:00 AM - 12:45 PM,9:00 AM - 12:45 PM,9:00 AM - 12:45 PM
+393,,,,,,,,
+394,,,,,,,,
+395,,,,,,,,
+396,,,,,,,,
+397,"{""Everyday"": ""8:00 AM to 5:00 PM""}",,,,,,,
+398,"{""Thursday"": ""1:00 PM - 6:45 PM""}",,,,,,1:00 PM - 6:45 PM,
+399,"{""Thursday"": {""English"": ""6:00 PM - 7:30 PM"",""Vietnamese"": ""7:30 PM - 8:30 PM""}}",,,,,,6:00 PM - 7:30 PM,
+400,"{""First Monday of the Month"": ""6:00 PM""}",,,6:00 PM,,,,
+401,,,,,,,,
+402,,,,,,,,
+403,,,,,,,,
+404,"{""Monday"": ""12:30 PM - 8:00 PM"",""Tuesday"": ""12:30 PM - 8:00 PM"",""Wednesday"": ""12:30 PM - 8:00 PM"",""Thursday"": ""12:30 PM - 8:00 PM"",""Friday"": ""12:30 PM - 8:00 PM"",""Saturday"": ""11:30 AM - 8:00 PM"",""Sunday"": ""12:00 PM - 8:00 PM""}",12:30 PM - 8:00 PM,12:30 PM - 8:00 PM,12:30 PM - 8:00 PM,12:30 PM - 8:00 PM,12:30 PM - 8:00 PM,12:30 PM - 8:00 PM,12:30 PM - 8:00 PM
+405,"{""Friday"": ""6:00 PM - 6:45 PM (Spanish, Lower Church)"",""Saturday"": ""7:45 AM - 8:45 AM (Lower Church)""}",6:00 PM - 6:45 PM,,,,,,6:00 PM - 6:45 PM
+406,,,,,,,,
+407,"{""Monday"": [""8:30 AM \u2013 11:50 PM"",""12:30 PM \u2013 4:30 PM""],""Tuesday"": [""8:30 AM \u2013 11:50 PM"",""12:30 PM \u2013 4:30 PM""],""Wednesday"": [""8:30 AM \u2013 11:50 PM"",""12:30 PM \u2013 4:30 PM""],""Thursday"": [""8:30 AM \u2013 11:50 PM"",""12:30 PM \u2013 4:30 PM""],""Friday"": [""8:30 AM \u2013 11:50 PM"",""12:30 PM \u2013 4:30 PM""],""Saturday"": [""9:30 AM \u2013 11:45 AM"",""12:30 PM \u2013 3:30 PM""],""Sunday"": [""2:30 PM \u2013 3:30 PM""]}",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+408,,,,,,,,
+409,"{""Monday"": ""7:00 PM - Adoration (Spanish) - St. James"",""Tuesday"": ""9:30 AM - Adoration - St. James"",""Thursday"": ""9:30 AM - Adoration - St. James""}",,,7:00 PM,7:00 PM,,7:00 PM,
+410,Saturday from 12:00 PM to 1:00 PM,12:00 PM - 1:00 PM,,,,,,
+411,,,,,,,,
+412,,,,,,,,
+413,,,,,,,,
+414,,,,,,,,
+415,,,,,,,,
+416,,,,,,,,
+417,,,,,,,,
+418,"{""Wednesday"": ""6:00 AM"",""Thursday"": ""6:00 AM"",""Friday"": ""6:00 AM"",""Saturday"": ""6:00 AM"",""Sunday"": ""6:00 AM""}",6:00 AM,6:00 AM,,,6:00 AM,6:00 AM,6:00 AM
+419,,,,,,,,
+420,"{""Friday"": ""7:30 AM - 8:45 AM""}",,,,,,,7:30 AM - 8:45 AM
+421,,,,,,,,
+422,,,,,,,,
+423,Fridays 7:00 PM - 9:00 PM,,,,,,,7:00 PM - 9:00 PM
+424,,,,,,,,
+425,,,,,,,,
+426,"{""Monday"": ""After 9:00 AM Mass"",""Tuesday"": ""After 9:00 AM Mass"",""Friday"": ""After 9:00 AM Mass"",""Saturday"": ""After 9:00 AM Mass""}",9:00 AM,,9:00 AM,9:00 AM,,,9:00 AM
+427,,,,,,,,
+428,"{""Monday"": ""9:30 AM \u2013 8 PM"",""Tuesday"": ""9:30 AM \u2013 8 PM"",""Wednesday"": ""9:30 AM \u2013 8 PM"",""Thursday"": ""9:30 AM \u2013 8 PM"",""Friday"": ""9:30 AM \u2013 8 PM"",""Saturday"": ""NA"",""Sunday"": ""7 PM \u2013 8 PM""}",9:30 AM,9:30 AM,9:30 AM,9:30 AM,9:30 AM,9:30 AM,9:30 AM
+429,"{""FirstWednesday"": ""NA"",""Saturday"": [""After noon Mass until 4:00 PM Mass""],""FirstFridays"": [""After noon Mass until 5:30 PM Mass""]}",4:00 PM,,,,4:00 PM,,4:00 PM
+430,"{""Fridays"": ""12:00 PM to 1:00 PM""}",,,,,,,12:00 PM - 1:00 PM
+431,"{""First Friday of every month"": ""Following 8:00 AM Daily Mass""}",,,,,,,8:00 AM
+432,"{""Wednesdays"": ""6:00 PM - 7:00 PM"",""Saturdays"": ""9:30 AM - 2:30 PM""}",6:00 PM - 7:00 PM,,,,6:00 PM - 7:00 PM,,
+433,"{""Daily"": ""6:00 AM - 11:00 PM"",""Perpetual Eucharistic Adoration"": ""Open to the public from 6:00 AM to 11:00 PM""}",,,,,,,
+434,,,,,,,,
+435,"First Fridays, 9:30-10:30 AM",,,,,,,10:30 AM
+436,,,,,,,,
+437,"{""First_Thursday_of_the_month"": ""6:30 PM to 7:30 PM""}",,,,,,6:30 PM - 7:30 PM,
+438,Fridays 7:00 PM - 9:00 PM,,,,,,,7:00 PM - 9:00 PM
+439,"{""Friday"": ""10:00 AM to 4:00 PM"",""Last Friday of Each Month"": ""6:00 PM to 8:00 PM""}",,,,,,,10:00 AM - 4:00 PM
+440,,,,,,,,
+441,"{""Monday"": ""9:30 AM - 10:30 AM"",""Thursday"": ""5:00 PM - 7:00 PM""}",,,9:30 AM - 10:30 AM,,,9:30 AM - 10:30 AM,
+442,,,,,,,,
+443,,,,,,,,
+444,"{""Friday"": ""12:00 PM - 7:00 PM""}",,,,,,,12:00 PM - 7:00 PM
+445,,,,,,,,
+446,,,,,,,,
+447,"{""Friday"": ""11:00 AM - 12:00 PM""}",,,,,,,11:00 AM - 12:00 PM
+448,"{""Upcoming"": {""Thursday"": ""6:00 PM""}}",,,,,,6:00 PM,
+449,,,,,,,,
+450,,,,,,,,
+451,,,,,,,,
+452,,,,,,,,
+453,,,,,,,,
+454,,,,,,,,
+455,"{""First Fridays"": ""9:30 AM - 6:00 PM"",""Saturday"": ""9:45 AM - 10:30 AM""}",9:30 AM - 6:00 PM,,,,,,9:30 AM - 6:00 PM
+456,"{""Wednesday"": ""9:00 AM (All Night Adoration)"",""Saturday"": ""8:00 AM (All Night Adoration)""}",9:00 AM,,,,9:00 AM,,
+457,,,,,,,,
+458,,,,,,,,
+459,"{""Every Friday"": ""5:00 PM - 7:00 PM at St. Dorothy's"",""First Friday of the Month"": ""2:00 PM - 7:00 PM at St. Dorothy\u2019s""}",,,,,,,5:00 PM - 7:00 PM
+460,,,,,,,,
+461,"{""First Friday"": {""Start"": ""7:00 PM"",""End"": ""7:30 AM (next day)""},""First Saturday"": {""Start"": ""7:00 PM"",""End"": ""7:30 AM (next day)""},""Tuesday"": {""Start"": ""7:00 PM"",""End"": ""8:15 PM""}}",7:00 PM,,,7:00 PM,,,7:00 PM
+462,,,,,,,,
+463,,,,,,,,
+464,,,,,,,,
+465,"{""Monday"": ""7:30 AM to 4:30 PM"",""Thursday"": ""1:00 PM to 5:00 PM""}",,,7:30 AM - 4:30 PM,,,7:30 AM - 4:30 PM,
+466,"{""Tuesday"": ""7:00 AM - 7:00 PM"",""Thursday"": ""7:00 AM - 7:00 PM""}",,,,7:00 AM - 7:00 PM,,7:00 AM - 7:00 PM,
+467,"{""Eucharistic Adoration"": ""Tuesdays 9:00 AM - 7:00 PM""}",,,,9:00 AM - 7:00 PM,,,
+468,,,,,,,,
+469,,,,,,,,
+470,"{""Saturdays"": [""3:30 PM - 4:30 PM""],""First Friday"": [""8:30 AM - 11:45 AM""]}",3:30 PM - 4:30 PM,,,,,,3:30 PM - 4:30 PM
+471,"{""Monday"": ""6:00 AM - 6:00 PM"",""Tuesday"": ""6:00 AM - 6:00 PM"",""Wednesday"": ""6:00 AM - 6:00 PM"",""Thursday"": ""6:00 AM - 6:00 PM"",""Friday"": ""6:00 AM - 6:00 PM""}",,,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM
+472,"{""Tuesday"": ""12:00 PM to 6:00 PM""}",,,,12:00 PM - 6:00 PM,,,
+473,"{""First Friday"": ""Following 8:00 AM Mass"",""Other"": ""NA""}",,,,,,,8:00 AM
+474,,,,,,,,
+475,"{""Tuesday"": ""9:00 AM until Wednesday 6:00 AM""}",,,,9:00 AM,9:00 AM,,
+476,"{""Weekdays"": ""9:00 AM - 6:00 AM"",""Saturdays"": ""12:00 AM - 7:00 AM"",""Closed"": ""7:00 AM Saturday until 9:00 AM Monday"",""Adoration/Benediction"": {""Mondays"": ""1:00 PM - 7:00 PM"",""Benediction"": ""Approximately 6:50 PM""}}",9:00 AM - 6:00 AM,,9:00 AM - 6:00 AM,,,,
+477,,,,,,,,
+478,"{""Wednesday"": ""8:30 AM \u2013 12:00 PM"",""2nd Thursday of the month"": ""5:30 PM \u2013 7:00 PM""}",,,,,8:30 AM,8:30 AM,
+479,6:00 PM on December 6th (Optional holy hour before the main program),,,,,,,
+480,,,,,,,,
+481,"{""Tuesday"": ""8:30 AM - 6:00 PM""}",,,,8:30 AM - 6:00 PM,,,
+482,"{""Monday"": ""After 8:00 AM Mass"",""Tuesday"": ""NA"",""Wednesday"": ""NA"",""Thursday"": ""NA"",""Friday"": ""Until noon""}",,,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+483,,,,,,,,
+484,"{""First Wednesday of the month"": {""Time"": ""8:00 AM - 8:00 PM"",""Specific Hours"": [""9:00 AM - 10:00 AM"",""3:00 PM - 4:00 PM"",""7:00 PM - 8:00 PM""]}}",,,,,8:00 AM - 8:00 PM,,
+485,"{""Wednesday"": [""5:00 PM - 6:00 PM""]}",,,,,5:00 PM - 6:00 PM,,
+486,"{""Our Lady - Festus"": ""Tuesday: 9:00 AM - 10:00 PM"",""Good Shepherd - Hillsboro"": ""First Friday following 8:00 AM Mass"",""Sacred Heart - Crystal City"": ""24/7""}",,,,9:00 AM,,,9:00 AM
+487,,,,,,,,
+488,"{""Eucharistic Adoration"": ""24 hours a day, 7 days a week"",""Exposition"": {""Monday"": ""After 8:00 AM Mass until Tuesday before 8:00 AM Mass"",""Wednesday"": ""After 8:00 AM Mass until Thursday morning before Mass""}}",,,8:00 AM,8:00 AM,8:00 AM,8:00 AM,
+489,"{""Tuesday"": ""9:00 AM - 4:00 PM""}",,,,9:00 AM - 4:00 PM,,,
+490,,,,,,,,
+491,,,,,,,,
+492,"{""First Thursdays"": ""6:00 PM - 8:00 PM"",""First Fridays"": ""Following the 8:00 AM Mass""}",,,,,,6:00 PM - 8:00 PM,6:00 PM - 8:00 PM
+493,"{""Monday"": ""6:00 AM - 6:00 PM"",""Tuesday"": ""6:00 AM - 6:00 PM"",""Wednesday"": ""6:00 AM - 6:00 PM"",""Thursday"": ""6:00 AM - 6:00 PM"",""Friday"": ""6:00 AM - 6:00 PM""}",,,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM
+494,"{""Wednesdays"": ""following 8:00 AM Mass until 8:00 PM""}",,,,,8:00 AM,,
+495,,,,,,,,
+496,"{""Friday"": ""6:00 PM""}",,,,,,,6:00 PM
+497,,,,,,,,
+498,,,,,,,,
+499,,,,,,,,
+500,,,,,,,,
+501,,,,,,,,
+502,,,,,,,,
+503,24/7 Adoration,,,,,,,
+504,,,,,,,,
+505,,,,,,,,
+506,,,,,,,,
+507,"{""Thursday"": ""8:00 AM - 6:00 PM""}",,,,,,8:00 AM - 6:00 PM,
+508,"{""Friday"": ""3:00 PM to 4:00 PM""}",,,,,,,3:00 PM - 4:00 PM
+509,"{""Thursday"": ""After Mass""}",,,,,,,
+510,"{""Eucharistic Adoration"": ""Tuesdays 9:00 AM - 7:00 PM""}",,,,9:00 AM - 7:00 PM,,,
+511,,,,,,,,
+512,"{""Thursday"": ""8:30 AM to 5:30 PM"",""1st Friday"": ""8:30 AM to 2:30 PM""}",,,,,,8:30 AM - 5:30 PM,8:30 AM - 5:30 PM
+513,"{""Tuesday"": ""7:00 PM to 8:00 PM"",""Wednesday"": ""7:00 PM""}",,,,7:00 PM - 8:00 PM,7:00 PM - 8:00 PM,,
+514,"{""Sunday"": ""7:30 AM - 6:00 PM"",""Monday"": ""7:30 AM - 6:00 PM"",""Tuesday"": ""7:30 AM - 6:00 PM"",""Wednesday"": ""7:30 AM - 6:00 PM"",""Thursday"": ""7:30 AM - 6:00 PM"",""Friday"": ""7:30 AM - 6:00 PM"",""Saturday"": ""7:30 AM - 6:00 PM""}",7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM
+515,,,,,,,,
+516,,,,,,,,
+517,"{""1st Friday of the month"": ""8:30 AM - 5:45 PM""}",,,,,,,8:30 AM - 5:45 PM
+518,"{""Perpetual Adoration"": ""24/7"",""Exposition"": ""Tuesday after 8:15 AM Mass"",""Benediction"": ""Thursday at 9:00 PM""}",,,,8:15 AM,,8:15 AM,
+519,,,,,,,,
+520,,,,,,,,
+521,,,,,,,,
+522,"{""Sunday"": ""7:30 AM - 6:00 PM"",""Monday"": ""7:30 AM - 6:00 PM"",""Tuesday"": ""7:30 AM - 6:00 PM"",""Wednesday"": ""7:30 AM - 6:00 PM"",""Thursday"": ""7:30 AM - 6:00 PM"",""Friday"": ""7:30 AM - 6:00 PM"",""Saturday"": ""7:30 AM - 6:00 PM""}",7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM,7:30 AM - 6:00 PM
+523,,,,,,,,
+524,,,,,,,,
+525,,,,,,,,
+526,,,,,,,,
+527,"{""Chapel"": ""Open 24/7, call Parish office for access code""}",,,,,,,
+528,,,,,,,,
+529,,,,,,,,
+530,"{""Wednesdays"": ""8:30 AM - 7:00 PM"",""Saturdays"": ""3:00 PM - 4:00 PM""}",8:30 AM - 7:00 PM,,,,8:30 AM - 7:00 PM,,
+531,"{""Wednesday"": ""9:00 AM - 9:00 PM""}",,,,,9:00 AM - 9:00 PM,,
+532,,,,,,,,
+533,,,,,,,,
+534,,,,,,,,
+535,,,,,,,,
+536,"{""Monday"": ""8:30 AM"",""Tuesday"": ""5:00 AM"",""Wednesday"": ""8:30 AM"",""Thursday"": ""6:15 AM"",""Friday"": ""8:30 AM"",""Saturday"": ""7:45 AM""}",8:30 AM,,8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+537,"{""Thursday"": ""8:30 AM to 5:30 PM"",""1st Friday"": ""8:30 AM to 2:30 PM""}",,,,,,8:30 AM - 5:30 PM,8:30 AM - 5:30 PM
+538,,,,,,,,
+539,"{""Tuesdays"": ""9:00 AM - 9:00 PM"",""Wednesdays"": ""9:00 AM - 9:00 PM"",""Thursdays"": ""9:00 AM - 9:00 PM""}",,,,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM,9:00 AM - 9:00 PM,
+540,"{""Tuesday"": ""8:30 AM - 6:55 PM""}",,,,8:30 AM - 6:55 PM,,,
+541,"{""1st Thursday of the Month"": ""After 6:30 AM Mass until 1:00 PM"",""Thursdays During Lent"": ""After 6:30 AM Mass until 1:00 PM""}",,,,,,6:30 AM,
+542,,,,,,,,
+543,,,,,,,,
+544,"{""Sunday"": ""1:00 PM"",""End"": ""Saturday 7:30 AM""}",1:00 PM,1:00 PM,,,,,
+545,,,,,,,,
+546,,,,,,,,
+547,"{""Chapel"": ""Open 24/7, call Parish office for access code""}",,,,,,,
+548,,,,,,,,
+549,,,,,,,,
+550,,,,,,,,
+551,"{""Wednesday"": ""7:30 AM - 8:00 PM"",""Night_Prayer_Benediction"": ""7:45 PM""}",,,,,7:30 AM - 8:00 PM,,
+552,"{""Wednesday"": ""9:00 AM - 9:00 PM""}",,,,,9:00 AM - 9:00 PM,,
+553,"{""Monday"": ""7:00 AM"",""Friday"": ""8:00 PM""}",,,7:00 AM,,,,7:00 AM
+554,,,,,,,,
+555,Spend an hour in prayer in our Adoration Chapel.,,,,,,,
+556,"{""Tuesday"": ""8:30 AM to 8:00 PM"",""Monday"": ""8:30 AM"",""Wednesday"": ""8:30 AM"",""Thursday"": ""8:30 AM"",""Friday"": ""8:30 AM""}",,,8:30 AM - 8:00 PM,8:30 AM - 8:00 PM,8:30 AM - 8:00 PM,8:30 AM - 8:00 PM,8:30 AM - 8:00 PM
+557,"{""Wednesday"": ""5:00 PM - 6:00 PM""}",,,,,5:00 PM - 6:00 PM,,
+558,,,,,,,,
+559,"{""Perpetual Adoration"": ""24/7"",""Exposition"": ""Tuesday after 8:15 AM Mass"",""Benediction"": ""Thursday at 9:00 PM""}",,,,8:15 AM,,8:15 AM,
+560,6:30 PM \u2013 9:30 PM,,,,,,,
+561,24 hours a day,,,,,,,
+562,,,,,,,,
+563,,,,,,,,
+564,"{""Monday"": ""6:00 AM - 6:00 PM"",""Tuesday"": ""6:00 AM - 6:00 PM"",""Wednesday"": ""6:00 AM - 6:00 PM"",""Thursday"": ""6:00 AM - 6:00 PM"",""Friday"": ""6:00 AM - 6:00 PM""}",,,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM,6:00 AM - 6:00 PM
+565,,,,,,,,
+566,"{""First Sunday of the Month"": ""1:00 PM""}",,1:00 PM,,,,,
+567,"{""Description"": ""The Perpetual Adoration Chapel is open 24 hours/day. Adoration is for one hour on a weekly or monthly basis.""}",,,,,,,
+568,"{""Wednesdays"": ""7:30 AM - 7:00 PM""}",,,,,7:30 AM - 7:00 PM,,
+569,,,,,,,,
+570,"{""Description"": ""The Perpetual Adoration Chapel is open 24 hours/day. Adoration is for one hour on a weekly or monthly basis.""}",,,,,,,
+571,"{""First Friday"": [""7:00 PM - 10:00 PM"",""10:00 AM - 11:00 AM""]}",,,,,,,7:00 PM - 10:00 PM
+572,"{""Thursday"": ""9:30 AM to 12:00 PM""}",,,,,,9:30 AM - 12:00 PM,
+573,"{""Friday"": ""10:00 AM - 7:00 PM""}",,,,,,,10:00 AM - 7:00 PM
+574,"{""St. Frances Xavier Cabrini"": {""Wednesdays"": ""Following the 9:00 AM Mass""},""St. John Nepomucene"": {""Wednesdays"": ""1:15 PM""}}",,,,,9:00 AM,,
+575,,,,,,,,
+576,"{""Wednesday"": ""7:00 PM""}",,,,,7:00 PM,,
+577,Friday 6:00 AM to 1:00 PM,,,,,,,6:00 AM - 1:00 PM
+578,,,,,,,,
+579,,,,,,,,
+580,"{""Tuesday"": ""7:00 PM - 8:00 PM"",""First Friday of the Month"": ""12:45 PM - 6:00 PM""}",,,,7:00 PM - 8:00 PM,,,7:00 PM - 8:00 PM
+581,"{""Friday"": ""8:30 AM - 11:45 AM""}",,,,,,,8:30 AM - 11:45 AM
+582,Perpetual Adoration available,,,,,,,
+583,,,,,,,,
+584,,,,,,,,
+585,,,,,,,,
+586,,,,,,,,
+587,"{""Weekdays"": ""After 9:00 AM Mass until 12:00 PM"",""Special"": ""9:30 AM to 12:00 PM on December 9, 2024""}",,,,,,,
+588,,,,,,,,
+589,First Fridays after 8:00 AM Mass until 11:00 AM (September-June only),,,,,,,8:00 AM
+590,,,,,,,,
+591,"{""Holy Hour"": ""Wednesday 12:45 PM to 1:45 PM (OLV), Benediction 1:45 PM""}",,,,,12:45 PM - 1:45 PM,,
+592,,,,,,,,
+593,"{""Friday"": ""8:15 AM to 11:50 AM""}",,,,,,,8:15 AM - 11:50 AM
+594,"{""1st Friday"": ""1:00 PM to 8:00 PM"",""1st Saturday"": ""4:00 PM to 5:00 PM""}",1:00 PM - 8:00 PM,,,,,,1:00 PM - 8:00 PM
+595,,,,,,,,
+596,"{""Regular"": ""11:00 AM - 12:00 PM Friday"",""Nocturnal"": ""8:15 PM - 5:00 AM, 1st and 3rd Saturday-Sunday of the month"",""Saturday"": {""Exposition"": ""8:15 PM"",""Benediction"": ""10:00 PM""},""Sunday"": {""Exposition"": ""4:00 AM"",""Benediction"": ""5:00 AM""}}",11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,,,,,11:00 AM - 12:00 PM
+597,"{""Monday through Friday"": ""1:45 PM - 2:45 PM"",""Monday Evenings"": ""7:00 PM - 8:00 PM"",""First Friday"": ""1:45 PM - 5:00 PM (Holy Hour begins after the 5:10 PM Mass)""}",,,1:45 PM - 2:45 PM,,,,1:45 PM - 2:45 PM
+598,,,,,,,,
+599,,,,,,,,
+600,"{""1st Friday"": ""8:00 PM to 8:00 AM (Saturday)""}",8:00 PM - 8:00 AM,,,,,,8:00 PM - 8:00 AM
+601,,,,,,,,
+602,Perpetual Adoration,,,,,,,
+603,"{""Friday"": ""9:30 AM to 6:00 PM""}",,,,,,,9:30 AM - 6:00 PM
+604,,,,,,,,
+605,,,,,,,,
+606,"{""Monday - Saturday"": ""7:30 AM"",""Sunday"": ""4:00 PM"",""First Friday"": ""following the Mass at 6:00 PM""}",7:30 AM,7:30 AM,7:30 AM,,,,7:30 AM
+607,,,,,,,,
+608,,,,,,,,
+609,,,,,,,,
+610,,,,,,,,
+611,,,,,,,,
+612,,,,,,,,
+613,Fridays 8:30 AM - 12:30 PM in the Chapel,,,,,,,8:30 AM - 12:30 PM
+614,,,,,,,,
+615,,,,,,,,
+616,"{""Tuesday"": ""6:00 PM - 8:00 PM""}",,,,6:00 PM - 8:00 PM,,,
+617,"{""Weekdays"": ""8:00 AM - 11:30 AM"",""Saturday"": ""Until 4:45 PM"",""Sunday"": ""Noon - 3:45 PM""}",8:00 AM - 11:30 AM,8:00 AM - 11:30 AM,,,,,
+618,"{""Thursday"": ""9:00 AM - 9:00 PM""}",,,,,,9:00 AM - 9:00 PM,
+619,,,,,,,,
+620,"{""Sunday"": ""7:00 AM to 9:00 PM"",""Monday to Friday"": ""7:00 AM to 9:00 PM"",""Saturday"": ""7:00 AM to 9:00 PM""}",7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,,,,7:00 AM - 9:00 PM
+621,,,,,,,,
+622,,,,,,,,
+623,,,,,,,,
+624,"{""Sunday"": ""Afternoons""}",,,,,,,
+625,"{""type"": ""Perpetual Adoration""}",,,,,,,
+626,"{""December 6"": ""7:00 PM - 9:00 PM""}",,,,,,,
+627,"{""Wednesday"": [""12:00 PM - 5:00 PM""],""Thursday"": [""12:00 PM - 5:00 PM""],""Friday"": [""12:00 PM - 5:00 PM""]}",,,,,12:00 PM - 5:00 PM,12:00 PM - 5:00 PM,12:00 PM - 5:00 PM
+628,9:00 AM until Noon on Tuesdays & Fridays (Includes Exposition and Benediction Until Noon),,,,9:00 AM,,,9:00 AM
+629,"{""Friday"": ""9:30 AM to 10:30 AM""}",,,,,,,9:30 AM - 10:30 AM
+630,,,,,,,,
+631,"{""Exposition"": ""Fridays after the 12:00 PM Mass until 3:00 PM"",""Divine Mercy Chaplet"": ""Every Friday at 3:00 PM"",""Vespers"": ""Fridays, 5:10 PM - 5:30 PM at St. Elizabeth of Hungary Chapel""}",,,,,,,12:00 PM - 5:30 PM
+632,,,,,,,,
+633,,,,,,,,
+634,,,,,,,,
+635,,,,,,,,
+636,"{""Monday-Friday"": ""12:45 PM to 1:15 PM (Our Lady of Victory)"",""Wednesday"": ""12:45 PM to 1:45 PM (Our Lady of Victory)""}",,,12:45 PM,,12:45 PM,,12:45 PM
+637,,,,,,,,
+638,"{""Monday"": ""7:15 AM - 9:00 PM"",""Tuesday"": ""7:10 AM - 1:00 PM"",""Wednesday"": ""7:15 AM - 9:00 PM"",""Thursday"": ""7:10 AM - 1:00 PM"",""Friday"": ""7:15 AM - 8:00 PM"",""Saturday"": ""NA"",""Sunday"": ""NA""}",7:15 AM - 9:00 PM,7:15 AM - 9:00 PM,7:15 AM - 9:00 PM,7:15 AM - 9:00 PM,7:15 AM - 9:00 PM,7:15 AM - 9:00 PM,7:15 AM - 9:00 PM
+639,,,,,,,,
+640,"{""Thursday"": ""7:00 PM to 8:00 PM"",""First Friday"": ""10:00 AM to 7:00 PM (Benediction at 7:15 PM)""}",,,,,,7:00 PM - 8:00 PM,7:00 PM - 8:00 PM
+641,"{""Tuesday"": ""3:00 PM \u2013 6:00 PM"",""Friday"": ""3:00 PM \u2013 6:00 PM""}",,,,3:00 PM,,,3:00 PM
+642,,,,,,,,
+643,"{""First Friday"": {""Exposition"": ""After 8:30 AM and 12:00 PM Masses"",""Concludes"": ""3:00 PM with Divine Mercy Holy Hour and Benediction""}}",,,,,,,8:30 AM
+644,,,,,,,,
+645,"{""St. Vincent Ferrer"": {""Wednesday"": {""Exposition"": ""6:30 PM"",""Preaching and Confessions"": ""7:00 PM"",""Compline and Benediction"": ""8:00 PM""}},""St. Catherine of Siena"": {""Thursday"": {""Holy Hour for the Sick"": ""5:15 PM"",""Evening Prayer with Preaching"": ""6:00 PM"",""Night Prayer, Benediction, and Visiting of the Altars"": ""7:00 PM""},""Sunday"": {""Eucharistic Adoration"": ""3:00 PM (Suspended until September 17)""}}}",,6:30 PM,,,6:30 PM,6:30 PM,
+646,,,,,,,,
+647,,,,,,,,
+648,"{""First Friday"": ""8:00 AM - 7:00 PM"",""Wednesday"": ""7:30 AM - 8:30 AM during the school year""}",,,,,8:00 AM - 7:00 PM,,8:00 AM - 7:00 PM
+649,"{""First Friday of the Month"": ""7:30 PM - 8:00 PM"",""Sunday"": ""9:00 AM""}",,7:30 PM - 8:00 PM,,,,,7:30 PM - 8:00 PM
+650,"{""Thursday"": ""5:00 PM - 6:15 PM (Spanish)""}",,,,,,5:00 PM - 6:15 PM,
+651,,,,,,,,
+652,,,,,,,,
+653,"{""1st Friday"": ""9:00 AM to 8:00 PM""}",,,,,,,9:00 AM - 8:00 PM
+654,,,,,,,,
+655,,,,,,,,
+656,"{""Wednesdays"": ""12:30 PM to 8:00 PM"",""Fridays"": ""12:40 PM to 1:40 PM"",""First Saturday of the month"": ""8:30 AM to 9:30 AM"",""Fourth Friday of the month"": ""6:00 PM to 7:00 PM""}",12:30 PM - 8:00 PM,,,,12:30 PM - 8:00 PM,,12:30 PM - 8:00 PM
+657,,,,,,,,
+658,"{""Friday"": ""9:00 AM until Noon""}",,,,,,,9:00 AM
+659,,,,,,,,
+660,"{""Thursday"": [""8:30 AM - 5:30 PM""]}",,,,,,8:30 AM - 5:30 PM,
+661,,,,,,,,
+662,,,,,,,,
+663,"24 hours a day, 7 days a week",,,,,,,
+664,"{""Monday to Friday"": [""9:00 AM - 8:30 PM""]}",,,9:00 AM,,,,9:00 AM
+665,,,,,,,,
+666,,,,,,,,
+667,,,,,,,,
+668,"{""Monday-Friday"": ""8:00 AM - 9:00 AM"",""Wednesdays during the School Year"": ""All Day Adoration 8:00 AM - 7:30 PM"",""Daily"": ""All Day""}",,,8:00 AM,,8:00 AM,,8:00 AM
+669,,,,,,,,
+670,,,,,,,,
+671,,,,,,,,
+672,"{""Fridays"": ""9:00 AM - 6:30 PM""}",,,,,,,9:00 AM - 6:30 PM
+673,"{""Wednesday"": [""12:45 PM - 5:00 PM""],""Friday"": [""12:45 PM - 5:00 PM""]}",,,,,12:45 PM - 5:00 PM,,12:45 PM - 5:00 PM
+674,"{""Monday - Friday"": ""7:30 AM"",""First Friday of the month"": ""9:00 AM - 6:30 PM"",""Chaplet of Divine Mercy"": ""6:30 PM""}",,,7:30 AM,,,,7:30 AM
+675,"{""Sunday"": ""NA"",""Monday"": ""NA"",""Tuesday"": ""NA"",""Wednesday"": ""9:00 AM to 6:45 PM"",""Thursday"": ""NA"",""Friday"": ""NA"",""Saturday"": ""NA""}",9:00 AM - 6:45 PM,9:00 AM - 6:45 PM,9:00 AM - 6:45 PM,9:00 AM - 6:45 PM,9:00 AM - 6:45 PM,9:00 AM - 6:45 PM,9:00 AM - 6:45 PM
+676,"{""Wednesday"": ""Following the 8:30 AM Mass until 5:50 PM""}",,,,,8:30 AM,,
+677,"{""Sunday"": ""9:30 AM to 10:20 AM"",""Thursday"": ""6:30 PM""}",,9:30 AM - 10:20 AM,,,,9:30 AM - 10:20 AM,
+678,,,,,,,,
+679,"{""Friday"": ""9:30 AM - 3:00 PM""}",,,,,,,9:30 AM - 3:00 PM
+680,,,,,,,,
+681,,,,,,,,
+682,,,,,,,,
+683,,,,,,,,
+684,"{""Monday"": ""9:00 AM - 12:00 PM"",""Tuesday"": ""9:00 AM - 12:00 PM"",""Wednesday"": ""9:00 AM - 12:00 PM & 6:00 PM - 6:50 PM"",""Thursday"": ""9:00 AM - 7:00 PM"",""Friday"": ""9:00 AM - 12:00 PM""}",,,9:00 AM - 12:00 PM,9:00 AM - 12:00 PM,9:00 AM - 12:00 PM,9:00 AM - 12:00 PM,9:00 AM - 12:00 PM
+685,"{""Monday"": ""8:00 AM to 11:59 PM"",""Tuesday"": ""12:00 AM to 11:59 PM"",""Wednesday"": ""12:00 AM to 11:59 PM"",""Thursday"": ""12:00 AM to 5:00 PM"",""Friday"": ""12:00 AM to 11:59 PM"",""Saturday"": ""12:00 AM to 8:00 AM""}",8:00 AM - 11:59 PM,,8:00 AM - 11:59 PM,8:00 AM - 11:59 PM,8:00 AM - 11:59 PM,8:00 AM - 11:59 PM,8:00 AM - 11:59 PM
+686,"{""Eucharistic Adoration"": ""Thursday: 8:00 PM - 9:00 PM"",""Nocturnal Adoration"": ""First Friday of the month: 9:00 PM""}",,,,,,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM
+687,"{""Tuesday"": ""1:00 PM - 9:00 PM""}",,,,1:00 PM - 9:00 PM,,,
+688,,,,,,,,
+689,"{""First Friday"": ""7:30 AM to 12:00 PM""}",,,,,,,7:30 AM - 12:00 PM
+690,First Thursday of every month at 8:00 PM,,,,,,8:00 PM,
+691,,,,,,,,
+692,"{""Special Event"": ""December 5th immediately following the 8:15 AM Mass until December 7th at 1:00 AM""}",,,,,,,
+693,,,,,,,,
+694,,,,,,,,
+695,,,,,,,,
+696,,,,,,,,
+697,,,,,,,,
+698,"{""Wednesday"": ""During Adoration and after daily Mass at 6:30 pm""}",,,,,,,
+699,"{""Tuesdays"": ""Following Mass until 10:00 AM""}",,,,10:00 AM,,,
+700,,,,,,,,
+701,,,,,,,,
+702,,,,,,,,
+703,Saturdays 9:00 AM - 10:00 AM,9:00 AM - 10:00 AM,,,,,,
+704,24/7 in the Chapel,,,,,,,
+705,Wednesdays after 9:00 AM Mass,,,,,9:00 AM,,
+706,"{""Monday-Friday"": ""6:00 AM - 9:00 PM"",""Saturday"": ""7:00 AM - 9:00 PM"",""Sunday"": ""7:00 AM - 9:00 PM""}",6:00 AM,6:00 AM,6:00 AM,,,,6:00 AM
+707,,,,,,,,
+708,Friday 6:00 PM - 8:00 PM,,,,,,,6:00 PM - 8:00 PM
+709,"{""Eucharistic Adoration"": ""9:00 AM Friday to 8:00 AM Saturday""}",9:00 AM - 8:00 AM,,,,,,9:00 AM - 8:00 AM
+710,"{""Friday"": ""12:00 PM"",""1st Friday"": ""12:00 PM on Saturday (overnight)""}",12:00 PM,,,,,,12:00 PM
+711,Exposition of the Blessed Sacrament during hours of Confession,,,,,,,
+712,"{""Monday"": ""10:30 AM - 1:30 PM"",""Tuesday"": ""10:30 AM - 1:30 PM"",""Wednesday"": ""8:30 AM - 1:30 PM"",""Friday"": ""8:30 AM - 1:30 PM"",""Thursday"": ""8:30 AM - 7:00 PM""}",,,10:30 AM - 1:30 PM,10:30 AM - 1:30 PM,10:30 AM - 1:30 PM,10:30 AM - 1:30 PM,10:30 AM - 1:30 PM
+713,,,,,,,,
+714,,,,,,,,
+715,"{""Wednesday"": ""9:00 AM - 10:00 AM St. Mary in Castle Rock"",""Thursday"": ""10:00 AM - 10:00 PM St. Rose in Longview"",""Friday"": ""7:00 AM - 7:00 PM Immaculate Heart of Mary in Kelso"",""Saturday"": ""2:00 PM - 3:00 PM St. Catherine in Cathlamet""}",9:00 AM - 10:00 AM,,,,9:00 AM - 10:00 AM,9:00 AM - 10:00 AM,9:00 AM - 10:00 AM
+716,,,,,,,,
+717,"{""Wednesday"": ""10:00 AM - 1:00 PM"",""Thursday"": ""9:30 AM - 7:00 PM""}",,,,,10:00 AM - 1:00 PM,10:00 AM - 1:00 PM,
+718,"{""1st Friday"": ""After Mass""}",,,,,,,
+719,"{""Sunday"": [],""Monday"": [],""Tuesday"": [],""Wednesday"": [""8:00 PM - 9:00 PM""],""Thursday"": [],""Friday"": [],""Saturday"": [],""M/T/Th/F"": [""11:30 AM - 12:30 PM""]}",8:00 PM - 9:00 PM,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM,8:00 PM - 9:00 PM
+720,"{""Friday"": ""6:00 PM - 7:10 PM"",""Benediction"": ""7:10 PM""}",,,,,,,6:00 PM - 7:10 PM
+721,,,,,,,,
+722,,,,,,,,
+723,,,,,,,,
+724,Friday at 5:30 PM,,,,,,,5:30 PM
+725,"{""Tuesday"": ""9:00 AM - 10:00 AM (Temporarily suspended)"",""Friday"": ""9:45 AM - 10:45 AM""}",,,,9:00 AM - 10:00 AM,,,9:00 AM - 10:00 AM
+726,6:00 PM on December 10,,,,,,,
+727,,,,,,,,
+728,First Friday 9:30 AM,,,,,,,9:30 AM
+729,"{""Thursday"": ""7:00 PM""}",,,,,,7:00 PM,
+730,See updated times,,,,,,,
+731,"{""Thursdays"": [""8:30 AM - 10:00 AM (English)"",""10:00 AM - 4:00 PM (private Adoration in the chapel room)"",""4:00 PM - 6:00 PM (holy hour, English)"",""After the 7:00 PM Viet Mass (Vietnamese)""],""First Fridays"": ""After the 7:00 PM Viet Mass (Vietnamese)""}",,,,,,8:30 AM - 10:00 AM,8:30 AM - 10:00 AM
+732,,,,,,,,
+733,,,,,,,,
+734,"{""Friday"": ""After 9:30 AM Mass until noon""}",,,,,,,9:30 AM
+735,,,,,,,,
+736,"{""Thursdays"": ""2:00 PM \u2013 4:00 PM"",""Fridays"": ""9:30 AM \u2013 11:00 AM""}",,,,,,2:00 PM,2:00 PM
+737,"{""Thursday"": ""9:30 AM - 9:00 PM""}",,,,,,9:30 AM - 9:00 PM,
+738,,,,,,,,
+739,"{""Thursday"": ""after 9:00 AM Mass"",""Friday"": ""until 4:30 PM"",""Saturday"": ""until 4:30 PM""}",9:00 AM,,,,,9:00 AM,9:00 AM
+740,"{""Thursday"": ""3:00 PM to 6:30 PM"",""Friday"": ""8:30 AM to 11:00 AM""}",,,,,,3:00 PM - 6:30 PM,3:00 PM - 6:30 PM
+741,"{""Thursdays"": [""8:30 AM - 10:00 AM (English)"",""10:00 AM - 4:00 PM (private Adoration in the chapel room)"",""4:00 PM - 6:00 PM (holy hour, English)"",""After the 7:00 PM Viet Mass (Vietnamese)""],""First Fridays"": ""After the 7:00 PM Viet Mass (Vietnamese)""}",,,,,,8:30 AM - 10:00 AM,8:30 AM - 10:00 AM
+742,"{""Tuesday"": ""After 8:30 AM Mass for one hour""}",,,,8:30 AM,,,
+743,,,,,,,,
+744,,,,,,,,
+745,,,,,,,,
+746,Daily (secured access provided on an individual basis),,,,,,,
+747,"{""Tuesday"": ""6:00 PM""}",,,,6:00 PM,,,
+748,"{""Thursday"": ""5:00 PM - 7:00 PM"",""First Friday"": ""7:30 PM - 8:30 PM""}",,,,,,5:00 PM - 7:00 PM,5:00 PM - 7:00 PM
+749,"{""Wednesday"": ""9:30 AM"",""Friday"": ""9:30 AM"",""Thursday"": ""10:00 AM""}",,,,,9:30 AM,9:30 AM,9:30 AM
+750,"{""First Friday of each month"": ""Following daily Mass (9:00 AM)""}",,,,,,,9:00 AM
+751,"{""Mondays"": ""1:00 PM - 2:00 PM"",""Tuesdays"": [""4:00 PM - 5:00 PM"",""5:00 PM - 6:00 PM""],""Wednesdays"": [""3:00 PM - 4:00 PM"",""4:00 PM - 5:00 PM"",""5:00 PM - 6:00 PM""],""Thursdays"": [""3:00 PM - 4:00 PM"",""5:00 PM - 6:00 PM""],""Fridays"": [""10:00 AM - 11:00 AM"",""11:00 AM - 12:00 PM"",""12:00 PM - 1:00 PM"",""1:00 PM - 2:00 PM"",""2:00 PM - 3:00 PM"",""3:00 PM - 4:00 PM"",""4:00 PM - 5:00 PM"",""5:00 PM - 6:00 PM""],""First Friday"": ""24-hour Adoration begins after daily Mass""}",,,1:00 PM - 2:00 PM,1:00 PM - 2:00 PM,1:00 PM - 2:00 PM,1:00 PM - 2:00 PM,1:00 PM - 2:00 PM
+752,"{""Start"": ""10:00 AM on Friday"",""End"": ""4:00 PM on Saturday""}",10:00 AM,,,,,,10:00 AM
+753,"{""Wednesday"": ""4:00 PM - 5:45 PM""}",,,,,4:00 PM - 5:45 PM,,
+754,,,,,,,,
+755,,,,,,,,
+756,"{""First Friday"": ""6:30 PM at St. Columban""}",,,,,,,6:30 PM
+757,"{""Monday"": ""2:00 PM"",""Wednesday"": ""2:00 PM"",""Friday"": ""2:00 PM""}",,,2:00 PM,,2:00 PM,,2:00 PM
+758,,,,,,,,
+759,"{""First Fridays"": [""Following 8:30 AM Mass""],""First Saturday"": [""8:00 AM - 9:00 AM""]}",8:30 AM - 9:00 AM,,,,,,8:30 AM - 9:00 AM
+760,"{""First Friday"": [""December 6, 9:30 AM - 10:30 AM"",""January 3, 9:30 AM - 11:30 AM""]}",,,,,,,9:30 AM - 10:30 AM
+761,,,,,,,,
+762,,,,,,,,
+763,"{""FirstFriday"": {""Start"": ""9:30 AM"",""End"": ""1:00 PM""}}",,,,,,,9:30 AM
+764,,,,,,,,
+765,"{""Wednesday"": ""8:38 AM"",""Thursday"": ""8:38 AM"",""Friday"": ""8:38 AM"",""First Friday"": ""After 9:00 AM Mass""}",,,,,8:38 AM,8:38 AM,8:38 AM
+766,,,,,,,,
+767,,,,,,,,
+768,,,,,,,,
+769,Exposition of the Blessed Sacrament during hours of Confession,,,,,,,
+770,"{""Tuesday"": ""3:00 PM - 5:00 PM""}",,,,3:00 PM - 5:00 PM,,,
+771,,,,,,,,
+772,,,,,,,,
+773,"{""St. Joseph"": {""Thursday"": ""9:30 AM - 10:30 AM"",""First Friday of the Month"": {""Adoration"": ""9:30 AM - 6:00 PM"",""Benediction"": ""5:30 PM""}}}",,,,,,9:30 AM - 10:30 AM,9:30 AM - 10:30 AM
+774,,,,,,,,
+775,"{""Wednesday"": ""After 8:00 AM Mass"",""Friday"": ""Before Mass"",""First Saturday"": ""After 7:00 AM Mass""}",8:00 AM,,,,8:00 AM,,8:00 AM
+776,"{""Tuesday"": ""9:15 AM to 7:00 PM""}",,,,9:15 AM - 7:00 PM,,,
+777,"{""Fridays"": ""After 9:00 AM Mass until 9:00 PM""}",,,,,,,9:00 AM
+778,,,,,,,,
+779,"{""Fridays"": ""6:30-7:30 PM (except First Friday of the month)"",""FirstFriday"": ""After Mass until 10:00 PM"",""FirstSunday"": ""After 9:45 AM Mass until 10:45 AM""}",,7:30 PM,,,,,7:30 PM
+780,,,,,,,,
+781,"{""Fridays"": ""Following 8:00 AM Mass""}",,,,,,,8:00 AM
+782,,,,,,,,
+783,,,,,,,,
+784,"{""Thursday"": ""9:30 AM - 10:30 AM"",""First Friday"": ""10:00 PM - 6:00 AM""}",,,,,,9:30 AM - 10:30 AM,9:30 AM - 10:30 AM
+785,"{""First Fridays"": ""After 12:00 PM Mass for 20 hours until 9:00 AM Saturday"",""Fridays"": ""12:00 PM \u2013 6:00 PM (regular - not first)""}",12:00 PM,,,,,,12:00 PM
+786,"{""Wednesday"": ""9:00 AM - 10:00 AM St. Mary in Castle Rock"",""Thursday"": ""10:00 AM - 10:00 PM St. Rose in Longview"",""Friday"": ""7:00 AM - 7:00 PM Immaculate Heart of Mary in Kelso"",""Saturday"": ""2:00 PM - 3:00 PM St. Catherine in Cathlamet""}",9:00 AM - 10:00 AM,,,,9:00 AM - 10:00 AM,9:00 AM - 10:00 AM,9:00 AM - 10:00 AM
+787,"{""Wednesday"": ""9:30 AM"",""Thursday"": ""10:00 AM"",""Friday"": ""9:30 AM""}",,,,,9:30 AM,9:30 AM,9:30 AM
+788,"{""First Friday"": ""11:15 AM to 8:50 AM next day"",""Exposition"": ""Offered during Confession times""}",,,,,,,11:15 AM - 8:50 AM
+789,,,,,,,,
+790,,,,,,,,
+791,,,,,,,,
+792,"{""First Saturday"": ""9:00 AM"",""Every Thursday"": ""6:00 PM - 7:00 PM""}",9:00 AM - 7:00 PM,,,,,9:00 AM - 7:00 PM,
+793,"{""Monday"": ""10:00 AM - 7:00 PM"",""Friday"": ""9:30 AM - 9:00 PM""}",,,10:00 AM - 7:00 PM,,,,10:00 AM - 7:00 PM
+794,"{""Friday"": ""6:00 PM - 7:00 PM"",""Daily"": ""24 hours a day, except during the celebration of the Mass""}",,,,,,,6:00 PM - 7:00 PM
+795,"{""Thursday"": ""9:30 AM - 11:45 AM""}",,,,,,9:30 AM - 11:45 AM,
+796,,,,,,,,
+797,"{""First Thursday"": ""07:30 PM - Mass""}",,,,,,07:30 PM,
+798,"{""Tuesday"": ""3:00 PM - 5:45 PM""}",,,,3:00 PM - 5:45 PM,,,
+799,,,,,,,,
+800,,,,,,,,
+801,,,,,,,,
+802,8:30 AM (Tuesday - Friday),,,,8:30 AM,,,8:30 AM
+803,,,,,,,,
+804,"{""Every First Friday"": ""9:00 AM - 8:00 PM""}",,,,,,,9:00 AM - 8:00 PM
+805,,,,,,,,
+806,,,,,,,,
+807,"{""Friday"": ""6:00 PM \u2013 7:00 PM""}",,,,,,,6:00 PM
+808,,,,,,,,
+809,,,,,,,,
+810,,,,,,,,
+811,"{""Wednesday"": ""6:00 PM - 7:00 PM""}",,,,,6:00 PM - 7:00 PM,,
+812,,,,,,,,
+813,"{""Every Friday"": ""Holy Hour of Eucharistic Adoration""}",,,,,,,
+814,"{""Monday to Friday"": ""4:00 PM to 8:30 PM""}",,,4:00 PM,,,,4:00 PM
+815,,,,,,,,
+816,,,,,,,,
+817,"{""Wednesday"": ""7:00 AM before the 7:30 AM Mass"",""Friday"": ""7:00 AM before the 7:30 AM Mass"",""Tuesday"": ""7:00 PM - 8:00 PM"",""Thursday"": ""7:00 PM - 8:00 PM""}",,,,7:00 AM - 8:00 PM,7:00 AM - 8:00 PM,7:00 AM - 8:00 PM,7:00 AM - 8:00 PM
+818,"{""Thursday"": ""8:45 AM - 7:00 PM""}",,,,,,8:45 AM - 7:00 PM,
+819,,,,,,,,
+820,,,,,,,,
+821,"{""First Thursday"": ""6:30 PM - 7:30 PM""}",,,,,,6:30 PM - 7:30 PM,
+822,"{""Tuesday"": ""6:00 PM - 9:00 PM""}",,,,6:00 PM - 9:00 PM,,,
+823,"{""Sunday"": ""7:30 AM to 8:30 AM"",""Monday"": ""7:30 AM to 9:00 AM"",""Tuesday"": ""8:00 AM to 9:00 AM"",""Wednesday"": ""6:00 PM to 7:00 PM"",""Thursday"": ""8:00 PM to 9:00 PM"",""Friday"": ""7:30 AM to 9:00 AM""}",,7:30 AM - 8:30 AM,7:30 AM - 8:30 AM,7:30 AM - 8:30 AM,7:30 AM - 8:30 AM,7:30 AM - 8:30 AM,7:30 AM - 8:30 AM
+824,"{""Perpetual"": ""In the Adoration Chapel in the Parish House. Doors are open between 8:30 AM and 5:00 PM. For access after hours, call the Parish House for the code."",""Monday to Friday"": ""7:30 AM to 8:30 AM (Between the 7 AM and 8:30 AM Masses)""}",,,8:30 AM - 7:30 AM,,,,8:30 AM - 7:30 AM
+825,,,,,,,,
+826,"{""Regular"": ""Wednesday 8:00 PM - 9:00 PM"",""Extended"": ""On special occasions throughout the year""}",,,,,8:00 PM - 9:00 PM,,
+827,"{""Friday"": {""8:30 AM"": ""Ch\u1ea7u Th\u00e1nh Th\u1ec3"",""6:00 PM"": ""L\u1ea7n Chu\u1ed7i M\u00e2n C\u00f4i"",""6:30 PM"": ""\u0110\u00e0ng Th\u00e1nh Gi\u00e1""},""Saturday"": {""8:30 AM"": ""L\u1ea7n Chu\u1ed7i M\u00e2n C\u00f4i & Kinh C\u1ea7u \u0110\u1ee9c B\u00e0""}}",8:30 AM,,,,,,8:30 AM
+828,,,,,,,,
+829,,,,,,,,
+830,,,,,,,,
+831,"{""Regular"": ""Every Friday, 4:30 PM \u2013 6:30 PM"",""First Saturday"": ""9:00 AM""}",4:30 PM,,,,,,4:30 PM
+832,"{""Friday"": ""8:30 AM to 9:30 AM""}",,,,,,,8:30 AM - 9:30 AM
+833,,,,,,,,
+834,,,,,,,,
+835,"{""Monday"": ""6:00 PM to 7:45 PM"",""Friday"": ""8:30 AM to 9:30 AM""}",,,6:00 PM - 7:45 PM,,,,6:00 PM - 7:45 PM
+836,"{""Friday"": [""4:00 PM - 8:00 PM""]}",,,,,,,4:00 PM - 8:00 PM
+837,,,,,,,,
+838,,,,,,,,
+839,"{""Thursday"": [""5:00 PM - 6:00 PM""]}",,,,,,5:00 PM - 6:00 PM,
+840,,,,,,,,
+841,"{""Wednesday"": ""6:30 PM"",""Thursday"": ""6:30 PM \u2013 8:00 PM"",""Friday"": ""After 7:00 PM Mass""}",,,,,6:30 PM,6:30 PM,6:30 PM
+842,Friday: 8:30 AM to 3:00 PM,,,,,,,8:30 AM - 3:00 PM
+843,,,,,,,,
+844,"{""Daily"": ""6:00 AM - 7:00 AM (M-F)"",""Saturday"": ""6:30 AM - 7:30 AM"",""24/7"": ""Available""}",6:00 AM - 7:00 AM,,,,,,
+845,"{""Sunday"": ""5:30 AM to 7:15 PM"",""Tuesday to Friday"": ""6:00 AM to 8:30 PM"",""Saturday"": ""6:30 AM to 6:30 PM""}",5:30 AM - 7:15 PM,5:30 AM - 7:15 PM,,5:30 AM - 7:15 PM,,,5:30 AM - 7:15 PM
+846,"{""Monday"": ""6:00 PM"",""Reflection_Talk"": ""7:15 PM""}",,,6:00 PM,,,,
+847,"{""Wednesdays"": ""5:15 PM - 6:15 PM""}",,,,,5:15 PM - 6:15 PM,,
+848,"{""Tuesday"": ""11:30 AM""}",,,,11:30 AM,,,
+849,"{""First Friday"": ""6:00 PM - 7:00 PM""}",,,,,,,6:00 PM - 7:00 PM
+850,,,,,,,,
+851,"{""Days"": ""Every day except holidays"",""Hours"": ""7:00 AM - 10:00 PM""}",,,,,,,
+852,"{""Monday"": [""7:00 AM - 9:00 PM""],""Tuesday"": [""7:00 AM - 9:00 PM""],""Wednesday"": [""7:00 AM - 9:00 PM""],""Thursday"": [""7:00 AM - 9:00 PM""],""Friday"": [""7:00 AM - 9:00 PM""],""Saturday"": [""7:00 AM - 9:00 AM"",""11:00 AM - 9:00 PM""],""Sunday"": [""7:00 AM - 9:00 PM""]}",7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM,7:00 AM - 9:00 PM
+853,,,,,,,,
+854,,,,,,,,
+855,"{""Tuesday"": ""8:30 AM to 9:00 PM"",""Benediction"": ""9:00 PM""}",,,,8:30 AM - 9:00 PM,,,
+856,"{""Tuesday"": ""9:30 AM - 6:30 PM""}",,,,9:30 AM - 6:30 PM,,,
+857,"{""Monday"": ""6:00 PM to 8:00 PM""}",,,6:00 PM - 8:00 PM,,,,
+858,"{""Wednesdays"": ""5:00 PM"",""Saturdays"": ""7:00 AM"",""First Fridays"": ""5:00 PM""}",5:00 PM,,,,5:00 PM,,5:00 PM
+859,"{""Tuesday"": ""6:45 PM to 7:45 PM"",""Thursday"": ""9:30 AM to 7:15 PM"",""1st Friday"": ""6:00 PM to 7:00 PM""}",,,,6:45 PM - 7:45 PM,,6:45 PM - 7:45 PM,6:45 PM - 7:45 PM
+860,,,,,,,,
+861,,,,,,,,
+862,"{""1st Friday of Each Month"": ""3:00 PM - 6:00 PM""}",,,,,,,3:00 PM - 6:00 PM
+863,,,,,,,,
+864,,,,,,,,
+865,,,,,,,,
+866,"{""Wednesday"": ""7:30 AM - 8:30 AM"",""Friday"": ""7:30 AM - 8:30 AM""}",,,,,7:30 AM - 8:30 AM,,7:30 AM - 8:30 AM
+867,"{""Monday"": ""9:00 AM - 7:00 PM"",""Tuesday"": ""NA"",""Wednesday"": ""NA"",""Thursday"": ""NA"",""Friday"": ""NA"",""Saturday"": ""NA"",""Sunday"": ""11:00 AM - 5:00 PM""}",9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM
+868,"{""Thursday"": ""6:00 PM"",""Friday"": ""6:00 PM""}",,,,,,6:00 PM,6:00 PM
+869,"{""Thursday"": ""11:00 AM - 6:00 PM""}",,,,,,11:00 AM - 6:00 PM,
+870,,,,,,,,
+871,,,,,,,,
+872,,,,,,,,
+873,,,,,,,,
+874,,,,,,,,
+875,"At this time, there is no Eucharistic Adoration at Blessed Trinity.",,,,,,,
+876,,,,,,,,
+877,"{""Tuesday"": ""Following 8:15 AM Mass until 10:00 AM"",""Wednesday"": ""4:45 PM \u2013 5:45 PM""}",,,,8:15 AM,8:15 AM,,
+878,,,,,,,,
+879,,,,,,,,
+880,3:00 PM - 7:00 PM,,,,,,,
+881,,,,,,,,
+882,"{""Monday"": ""3:00 PM - 7:00 PM""}",,,3:00 PM - 7:00 PM,,,,
+883,"{""Roraty"": {""Monday"": ""6:00 am"",""Tuesday"": ""6:00 am"",""Wednesday"": ""6:00 am"",""Thursday"": ""6:00 am"",""Friday"": ""6:00 pm""}}",,,,,,,
+884,,,,,,,,
+885,,,,,,,,
+886,,,,,,,,
+887,"{""Perpetual"": ""Beginning at 5:00 AM""}",,,,,,,
+888,"{""St. Mary Chapel"": {""Monday"": ""9:00 AM - 6:00 PM"",""Tuesday"": ""Noon - 8:00 PM"",""Wednesday"": ""Noon - 4:00 PM""},""St. Joseph Church"": {""Wednesday"": ""9:00 AM - 6:00 PM""},""St. Charles Church"": {""Thursday"": ""7:00 PM - 8:00 PM""}}",,,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,
+889,,,,,,,,
+890,,,,,,,,
+891,"{""Saturday"": ""9:30 AM - 10:30 AM (Holy Name), 4:00 PM - 4:45 PM (St. Dominic)""}",9:30 AM - 10:30 AM,,,,,,
+892,,,,,,,,
+893,"{""Regular"": [{""Day"": ""1st Friday"",""Time"": ""6:00 PM - 7:00 PM""}, {""Day"": ""1st Saturday"",""Time"": ""5:30 PM - 7:00 PM""}],""Weekday"": ""8:00 AM - 8:30 AM before each weekday Mass"",""Wednesday"": ""8:00 AM - 4:00 PM"",""Divine Mercy Chaplet"": ""3:00 PM"",""Benediction"": ""4:00 PM"",""Parish Holy Hour"": ""1st Thursdays, September - May 6:00 PM - 8:00 PM"",""Quarterly 24-Hr Adoration"": ""Noon - Noon (Friday-Saturday)""}",6:00 PM - 7:00 PM,,,,6:00 PM - 7:00 PM,6:00 PM - 7:00 PM,6:00 PM - 7:00 PM
+894,"{""1st Monday"": ""2:00-5:30 PM at St. Rose Chapel-Fredonia"",""Wednesdays"": ""Time and location will vary"",""Thursdays"": ""5:00-7:00 PM at St. Mary's Chapel-RL"",""Seasonal"": ""2nd Sunday 1:30-3:30 PM at St. Nicholas Chapel-Dacada""}",,5:30 PM,5:30 PM,,5:30 PM,5:30 PM,
+895,"{""Tuesday"": ""1:00 PM - 7:30 PM""}",,,,1:00 PM - 7:30 PM,,,
+896,"{""Saturday"": ""9:30 AM - 10:30 AM (Holy Name), 4:00 PM - 4:45 PM (St. Dominic)""}",9:30 AM - 10:30 AM,,,,,,
+897,,,,,,,,
+898,"{""Day"": ""Wednesday"",""Time"": ""6:30 AM to 9:30 PM""}",,,,,6:30 AM - 9:30 PM,,
+899,"{""Thursday"": ""8:30 AM to 7:00 PM""}",,,,,,8:30 AM - 7:00 PM,
+900,24\u00d77,,,,,,,
+901,,,,,,,,
+902,,,,,,,,
+903,"{""Tuesday"": ""6:30 PM - 7:30 PM"",""Wednesday"": ""9:00 AM - 12:00 PM""}",,,,6:30 PM - 7:30 PM,6:30 PM - 7:30 PM,,
+904,,,,,,,,
+905,"{""Monday to Friday"": ""8:00 AM to 3:00 PM"",""Before and After Mass"": ""NA""}",,,8:00 AM,,,,8:00 AM
+906,,,,,,,,
+907,,,,,,,,
+908,Sundays 7:00 PM - Saturdays 8:00 AM,7:00 PM - 8:00 AM,7:00 PM - 8:00 AM,,,,,
+909,"{""Monday - Thursday"": ""6:00 AM - 8:00 PM"",""Friday"": ""6:00 AM - 3:00 PM"",""Friday (Silent Prayer)"": ""3:00 PM - 8:00 PM"",""Saturday - Sunday"": ""6:00 AM - 8:00 PM""}",6:00 AM,6:00 AM,6:00 AM,,,6:00 AM,6:00 AM
+910,"{""Regular"": ""NA"",""Special"": ""All-night Adoration vigil on August 14, 2024""}",,,,,,,
+911,"{""Tuesday"": ""5:30 PM - 8:00 PM"",""Friday"": ""8:30 AM - 2:30 PM""}",,,,5:30 PM - 8:00 PM,,,5:30 PM - 8:00 PM
+912,,,,,,,,
+913,"{""Thursday"": ""6:00 PM"",""Friday"": ""6:00 PM""}",,,,,,6:00 PM,6:00 PM
+914,Thursdays from 7:30 AM - Friday 7:00 AM,,,,,,7:30 AM - 7:00 AM,7:30 AM - 7:00 AM
+915,"{""St. Mary Chapel"": {""Monday"": ""9:00 AM - 6:00 PM"",""Tuesday"": ""Noon - 8:00 PM"",""Wednesday"": ""Noon - 4:00 PM""},""St. Joseph Church"": {""Wednesday"": ""9:00 AM - 6:00 PM""},""St. Charles Church"": {""Thursday"": ""7:00 PM - 8:00 PM""}}",,,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,
+916,"{""First Friday"": ""6:00 PM - 7:00 PM""}",,,,,,,6:00 PM - 7:00 PM
+917,,,,,,,,
+918,"{""Tuesday"": ""8:30 AM - 4:00 PM"",""Holy Hour & Rosary"": ""4:00 PM - 5:00 PM"",""Saturday"": ""7:00 AM - 8:00 AM""}",8:30 AM - 4:00 PM,,,8:30 AM - 4:00 PM,,,
+919,,,,,,,,
+920,,,,,,,,
+921,"{""Thursday"": ""After 6:45 AM Mass until 8:30 PM""}",,,,,,6:45 AM,
+922,,,,,,,,
+923,"{""Monday"": ""6:00 PM - 7:00 PM""}",,,6:00 PM - 7:00 PM,,,,
+924,Every Wednesday from 3:00 PM - 5:00 PM,,,,,3:00 PM - 5:00 PM,,
+925,"{""Tuesday"": ""6:30 PM - 7:30 PM"",""Wednesday"": ""9:00 AM - 12:00 PM""}",,,,6:30 PM - 7:30 PM,6:30 PM - 7:30 PM,,
+926,"24 hours, seven days a week",,,,,,,
+927,"{""Wednesday"": ""9:00 AM - 5:30 PM""}",,,,,9:00 AM - 5:30 PM,,
+928,"{""Wednesdays"": ""4:30 PM - 6:00 PM"",""First Friday of each month"": ""9:00 AM - 4:00 PM""}",,,,,4:30 PM - 6:00 PM,,4:30 PM - 6:00 PM
+929,,,,,,,,
+930,"{""St. Mary Chapel"": {""Monday"": ""9:00 AM - 6:00 PM"",""Tuesday"": ""Noon - 8:00 PM"",""Wednesday"": ""Noon - 4:00 PM""},""St. Joseph Church"": {""Wednesday"": ""9:00 AM - 6:00 PM""},""St. Charles Church"": {""Thursday"": ""7:00 PM - 8:00 PM""}}",,,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,9:00 AM - 6:00 PM,
+931,"{""Wednesday"": ""8:30 AM""}",,,,,8:30 AM,,
+932,"{""Third Wednesday"": ""following Mass""}",,,,,,,
+933,"{""Monday"": ""8:45 AM - 9:30 AM"",""First_Thursday"": ""6:30 PM - 7:30 PM""}",,,8:45 AM - 9:30 AM,,,8:45 AM - 9:30 AM,
+934,"{""Tuesday"": ""6:00 PM - 6:50 PM""}",,,,6:00 PM - 6:50 PM,,,
+935,,,,,,,,
+936,,,,,,,,
+937,,,,,,,,
+938,,,,,,,,
+939,"{""Tuesday"": ""9:00 AM - 4:00 PM"",""Wednesday"": ""9:00 AM - 4:00 PM"",""Thursday"": ""10:00 AM - 4:00 PM""}",,,,9:00 AM - 4:00 PM,9:00 AM - 4:00 PM,9:00 AM - 4:00 PM,
+940,,,,,,,,
+941,First Wednesday of the month at 6:00 PM,,,,,6:00 PM,,
+942,"{""Monday"": ""9:00 AM to 8:00 PM"",""Tuesday"": ""9:00 AM to 8:00 PM"",""Wednesday"": ""9:00 AM to 8:00 PM"",""Thursday"": ""9:00 AM to 8:00 PM""}",,,9:00 AM - 8:00 PM,9:00 AM - 8:00 PM,9:00 AM - 8:00 PM,9:00 AM - 8:00 PM,
+943,"{""First Fridays"": ""After 8:15 AM Mass for one hour""}",,,,,,,8:15 AM
+944,,,,,,,,
+945,"{""Monday"": ""6:00 PM""}",,,6:00 PM,,,,
+946,,,,,,,,
+947,"{""Thursday"": {""Regular"": ""5:00 PM - 8:00 PM"",""Family Adoration Hour"": ""4:00 PM - 5:00 PM""},""Friday"": ""After 8:00 AM Mass until 10:00 AM""}",,,,,,5:00 PM - 8:00 PM,5:00 PM - 8:00 PM
+948,,,,,,,,
+949,,,,,,,,
+950,"{""Monday"": ""9:00 AM - 7:00 PM"",""Tuesday"": ""NA"",""Wednesday"": ""NA"",""Thursday"": ""NA"",""Friday"": ""NA"",""Saturday"": ""NA"",""Sunday"": ""11:00 AM - 5:00 PM""}",9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM,9:00 AM - 7:00 PM
+951,"{""Wednesday"": ""9:00 AM - 6:00 PM""}",,,,,9:00 AM - 6:00 PM,,
+952,,,,,,,,
+953,"{""December 15th"": ""11:00 AM""}",,,,,,,
+954,,,,,,,,
+955,"{""Wednesday"": ""6:30 PM (Spanish) followed by Mass on the first Wednesday of each month"",""Saturday"": ""10:00 AM""}",6:30 PM,,,,6:30 PM,,
+956,"{""Thursday"": [""8:30 AM to 7:00 PM""]}",,,,,,8:30 AM - 7:00 PM,
+957,,,,,,,,
+958,"{""Tuesday"": ""3:30 PM - 8:00 PM""}",,,,3:30 PM - 8:00 PM,,,
+959,,,,,,,,
+960,,,,,,,,
+961,,,,,,,,
+962,,,,,,,,
+963,"{""Tuesday"": ""3:00 PM to 5:30 PM""}",,,,3:00 PM - 5:30 PM,,,
+964,,,,,,,,
+965,"{""1st Monday"": ""2:00-5:30 PM at St. Rose Chapel-Fredonia"",""Wednesdays"": ""Time and location will vary"",""Thursdays"": ""5:00-7:00 PM at St. Mary's Chapel-RL"",""Seasonal"": ""2nd Sunday 1:30-3:30 PM at St. Nicholas Chapel-Dacada""}",,5:30 PM,5:30 PM,,5:30 PM,5:30 PM,
+966,"{""Wednesday"": ""5:00 PM""}",,,,,5:00 PM,,
+967,,,,,,,,
+968,,,,,,,,
+969,,,,,,,,
+970,,,,,,,,
+971,,,,,,,,
+972,,,,,,,,
+973,"{""Fridays"": ""8:30 AM - 6:00 PM""}",,,,,,,8:30 AM - 6:00 PM
+974,"{""Thursday"": ""8:30 AM - 6:45 PM""}",,,,,,8:30 AM - 6:45 PM,
+975,,,,,,,,
+976,,,,,,,,
+977,"{""Wednesday"": ""5:15 PM - 6:15 PM"",""Thursday"": ""8:30 AM - 6:45 PM""}",,,,,5:15 PM - 6:15 PM,5:15 PM - 6:15 PM,
+978,,,,,,,,
+979,,,,,,,,
+980,"{""Saturday"": ""Following the 4:30 PM Mass until 8:00 AM Sunday"",""Wednesday"": ""7:00 PM""}",4:30 PM,4:30 PM,,,4:30 PM,,
+981,,,,,,,,
+982,"{""Wednesday"": ""6:30 PM (Spanish) followed by Mass on the first Wednesday of each month"",""Saturday"": ""10:00 AM""}",6:30 PM,,,,6:30 PM,,
+983,,,,,,,,
+984,,,,,,,,
+985,"{""Regular"": ""2nd & 4th Fridays of the Month at 6:00 PM"",""Upcoming"": ""Friday, December 13""}",,,,,,,6:00 PM
+986,"{""Tuesday"": ""5:00 PM"",""Thursdays"": ""7:30 AM - Friday 7:00 AM""}",,,,5:00 PM - 7:00 AM,,5:00 PM - 7:00 AM,5:00 PM - 7:00 AM
+987,"{""Wednesday"": ""9:00 AM - Noon"",""First_Fridays"": ""9:00 AM - Noon""}",,,,,9:00 AM - 9:00 AM,,9:00 AM - 9:00 AM
+988,,,,,,,,
+989,"{""Schedule"": ""Every Thursday after 8 AM Mass until approximately 9 AM""}",,,,,,8 AM,
+990,After every Friday 6:30 PM Mass,,,,,,,6:30 PM
+991,"{""Tuesday"": ""5:00 PM""}",,,,5:00 PM,,,
+992,"{""Monday"": ""7:30 AM - 7:55 AM"",""Tuesday"": ""7:30 AM - 7:55 AM"",""Wednesday"": ""6:30 PM - 7:30 PM"",""Thursday"": ""7:30 AM - 7:55 AM"",""Friday"": ""7:30 AM - 7:55 AM""}",,,7:30 AM - 7:55 AM,7:30 AM - 7:55 AM,7:30 AM - 7:55 AM,7:30 AM - 7:55 AM,7:30 AM - 7:55 AM
+993,"{""Advent Reconciliation"": {""Start"": ""Friday, Dec 13 at 4 PM"",""End"": ""Sunday, Dec 15 at 9 AM"",""Confession"": {""Friday"": ""5:00 PM - 7:00 PM"",""Saturday"": ""9:00 AM - 11:00 AM and before 4:30 PM Mass""}}}",4 PM - 7:00 PM,4 PM - 7:00 PM,,,,,4 PM - 7:00 PM
+994,,,,,,,,
+995,"{""Wednesday"": ""5:30 PM at STP""}",,,,,5:30 PM,,
+996,"{""Friday"": {""Regular"": ""Follows 8:00 AM Mass until 5:00 PM"",""First Friday"": ""Continues through the night until 6:00 AM Saturday""},""1st Sunday"": ""After 8:30 AM Mass for 45 minutes""}",8:00 AM,8:00 AM,,,,,8:00 AM
+997,Wednesdays after 8:00 AM Mass,,,,,8:00 AM,,
+998,Every Thursday following the 8 AM Mass until 8 PM,,,,,,8 AM,
+999,,,,,,,,
+1000,"{""Thursday"": ""5:30 PM""}",,,,,,5:30 PM,
+1001,,,,,,,,
+1002,,,,,,,,
+1003,"{""Friday"": ""8:00 AM - 5:00 PM"",""Saturday"": ""8:00 AM - 9:00 AM"",""First Saturday"": ""10:00 AM - 11:00 AM""}",8:00 AM - 5:00 PM,,,,,,8:00 AM - 5:00 PM
+1004,"{""Monday"": ""11:00 AM - 12:00 PM"",""Tuesday"": ""11:00 AM - 12:00 PM"",""Wednesday"": ""11:00 AM - 12:00 PM"",""Thursday"": ""7:00 PM - 8:00 PM"",""Friday"": ""11:00 AM - 12:00 PM"",""Saturday"": ""3:30 PM - 4:30 PM"",""First Fridays"": ""7:30 AM - 8:00 AM""}",11:00 AM - 12:00 PM,,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM,11:00 AM - 12:00 PM
+1005,"{""Tuesday"": ""8:45 AM & 6:30 PM""}",,,,8:45 AM,,,
+1006,"{""Thursday"": ""9:00 am - 7:00 pm"",""First Friday of the Month"": ""9:00 am - 7:00 pm""}",,,,,,,
+1007,"{""Wednesday"": ""9:00 AM - Midnight"",""Thursday"": ""9:00 AM - 6:00 PM""}",,,,,9:00 AM - 9:00 AM,9:00 AM - 9:00 AM,
+1008,"{""Friday"": [""8:30 am - 9:30 am""]}",,,,,,,
+1009,"{""Regular"": ""7:45 AM - 3:50 PM on Saturdays"",""Special"": ""2:00 PM - 7:00 PM on the 1st and 3rd Wednesdays of each month""}",7:45 AM - 3:50 PM,,,,7:45 AM - 3:50 PM,,
+1010,"{""Sunday"": ""5:00 PM - 6:00 PM""}",,5:00 PM - 6:00 PM,,,,,
+1011,During office hours and Saturday: 3:00 PM - 4:00 PM,3:00 PM - 4:00 PM,,,,,,
+1012,"{""Monday - Friday"": ""10:00 AM - 5:00 PM"",""Monday - Saturday"": ""7:30 AM to 8:00 AM"",""Saturday"": ""3:00 - 4:15 PM"",""First Friday"": ""9 PM Friday - 8 AM Saturday""}",10:00 AM,,10:00 AM,,,,10:00 AM
+1013,"{""Wednesdays"": ""6:30 PM - 8:00 PM"",""Fridays"": ""9:30 AM - 11:00 AM""}",,,,,6:30 PM - 8:00 PM,,6:30 PM - 8:00 PM
+1014,"{""Friday"": ""7:00 PM - 8:00 PM""}",,,,,,,7:00 PM - 8:00 PM
+1015,,,,,,,,
+1016,"{""Tuesdays"": ""11:00 AM - 7:00 PM""}",,,,11:00 AM - 7:00 PM,,,
+1017,"{""Tuesday"": ""After 8:00 AM Mass"",""Thursday"": ""After 8:00 AM Mass"",""Wednesday"": ""4:00 PM - 5:00 PM"",""Saturday"": ""3:00 PM - 4:30 PM"",""First Friday"": ""4:00 PM - 5:00 PM"",""First Saturday"": ""3:00 PM - 4:30 PM"",""Special"": ""December 8 and 9 during the Feast of the Immaculate Conception""}",8:00 AM - 5:00 PM,,,8:00 AM - 5:00 PM,8:00 AM - 5:00 PM,8:00 AM - 5:00 PM,8:00 AM - 5:00 PM
+1018,,,,,,,,
+1019,,,,,,,,
+1020,"{""Tuesday"": ""7:00 PM - 10:00 PM""}",,,,7:00 PM - 10:00 PM,,,
+1021,"{""St. Michael (Craig, CO)"": ""Tuesday, Thursday, and Friday from 5:00 PM - 6:00 PM; Wednesday from 6:00 PM - 7:00 PM"",""Holy Family (Meeker, CO)"": ""First Sunday of Every Month from 12:00 PM - 1:00 PM"",""St. Ignatius (Rangely, CO)"": ""First Sunday of Every Month from 9:00 AM - 10:00 AM""}",,5:00 PM - 6:00 PM,,5:00 PM - 6:00 PM,5:00 PM - 6:00 PM,5:00 PM - 6:00 PM,5:00 PM - 6:00 PM
+1022,"{""Holy Family"": ""First Saturday of the Month 9:00 AM \u2013 3:00 PM""}",9:00 AM,,,,,,
+1023,"{""Monday - Friday"": ""7:30 AM - 3:00 PM"",""Sundays"": ""4:30 PM - 5:00 PM""}",,7:30 AM,7:30 AM,,,,7:30 AM
+1024,"{""Thursday"": ""8:30 AM \u2013 9:00 PM"",""Sunday"": ""9:15 \u2013 10:30 AM""}",,8:30 AM,,,,8:30 AM,
+1025,"{""Monday"": ""after 12:10 PM Mass until 2:00 PM"",""Wednesday"": ""after 12:10 PM Mass until 2:00 PM"",""Thursday"": ""after 12:10 PM Mass until 2:00 PM""}",,,12:10 PM,,12:10 PM,12:10 PM,
+1026,,,,,,,,
+1027,,,,,,,,
+1028,"{""Monday - Tuesday"": ""5:00 AM - 10:00 PM"",""Wednesday - Friday"": ""5:00 AM - Midnight"",""Sunday"": ""12:00 AM - 10:00 PM"",""Saturday"": [""12:00 AM - 5:00 AM"",""8:00 AM - Midnight""]}",5:00 AM,5:00 AM,5:00 AM,5:00 AM,5:00 AM,,5:00 AM
+1029,,,,,,,,
+1030,,,,,,,,
+1031,,,,,,,,
+1032,"{""First Friday"": ""7:30 AM""}",,,,,,,7:30 AM
+1033,"{""In the Church"": {""Thursday"": [""12:00 PM - 6:00 PM"",""Solemn Holy Hour: 5:00 PM - 6:00 PM""]},""In the Chapel"": {""Monday - Friday"": [""8:00 AM - 5:00 PM""]}}",,,12:00 PM - 6:00 PM,,,12:00 PM - 6:00 PM,12:00 PM - 6:00 PM
+1034,"{""Tuesday"": ""9:00 AM - 4:00 PM"",""Wednesday"": ""9:00 AM - 4:00 PM"",""Thursday"": ""9:00 AM - 4:00 PM"",""Friday"": ""9:00 AM - 4:00 PM"",""Saturday"": ""8:45 AM - 3:00 PM""}",9:00 AM - 4:00 PM,,,9:00 AM - 4:00 PM,9:00 AM - 4:00 PM,9:00 AM - 4:00 PM,9:00 AM - 4:00 PM
+1035,,,,,,,,
+1036,,,,,,,,
+1037,,,,,,,,
+1038,,,,,,,,
+1039,"{""Special Event"": ""December 19th at 7 PM (during Encounter Penance Service)""}",,,,,,,
+1040,"{""Tuesday"": ""5:00 PM""}",,,,5:00 PM,,,
+1041,,,,,,,,
+1042,"{""Weekly"": ""Thursdays from 7:00 PM - 8:00 PM"",""First Friday"": ""All day""}",,,,,,7:00 PM - 8:00 PM,7:00 PM - 8:00 PM
+1043,,,,,,,,
+1044,"{""Monday"": ""6:00 PM (Every 1st Monday at OLP)"",""Wednesday"": ""6:30 PM to 7:30 PM (St. Elizabeth)"",""Friday"": ""9:00 AM to 10:00 AM (Our Lady of the Pines)""}",,,6:00 PM - 7:30 PM,,6:00 PM - 7:30 PM,,6:00 PM - 7:30 PM
+1045,"{""Thursday"": ""6:00 PM - 7:00 PM"",""Friday"": ""7:15 AM - 8:15 AM""}",,,,,,6:00 PM - 7:00 PM,6:00 PM - 7:00 PM
+1046,"{""Weekdays"": ""After each morning weekday Mass"",""Thursday"": ""6:00 PM to 8:00 PM - Our Lady of the Snow, Granby"",""Friday"": ""6:00 PM to 7:00 PM - St. Peter, Kremmling""}",,,,,,6:00 PM - 8:00 PM,6:00 PM - 8:00 PM
+1047,"{""Monday"": ""10:00 AM - 8:00 PM"",""Tuesday"": ""5:00 AM - 10:00 PM"",""Wednesday"": ""6:00 AM - 10:00 PM"",""Thursday"": ""4:00 AM - 11:00 PM""}",,,10:00 AM - 8:00 PM,10:00 AM - 8:00 PM,10:00 AM - 8:00 PM,10:00 AM - 8:00 PM,
+1048,24/7,,,,,,,
+1049,,,,,,,,
+1050,"{""Regular"": ""Monday through Friday 8:30 AM - 12:00 PM"",""Special Events"": ""Dec. 10 & 11, 8:30 AM \u2013 12:00 PM"",""December 16"": ""6:30 PM""}",,,8:30 AM - 12:00 PM,,,,8:30 AM - 12:00 PM
+1051,"{""Wednesday"": ""7:00 PM - 7:45 PM"",""Friday"": ""9:00 AM - 12:00 PM"",""First Friday"": ""5:00 PM - 6:00 PM""}",,,,,7:00 PM - 7:45 PM,,7:00 PM - 7:45 PM
+1052,"{""Monthly"": {""1st Friday"": [""1:00 PM - Saturday, 8:00 AM""],""1st Sunday"": [""3:00 PM - 4:00 PM""]},""St. Catherine of Siena"": ""No Adoration_Times Currently"",""Sacred Heart"": ""No Adoration_Times Currently""}",1:00 PM - 8:00 AM,1:00 PM - 8:00 AM,,,,,1:00 PM - 8:00 AM
+1053,"{""Tuesday"": ""8:00 AM - 12:00 PM, 1:00 PM - 9:00 PM"",""Thursday"": ""8:00 AM - 12:00 PM, 1:00 PM - 9:00 PM""}",,,,8:00 AM - 12:00 PM,,8:00 AM - 12:00 PM,
+1054,"{""Fridays"": ""8:00 AM - 10:00 AM"",""Not_Held"": ""12/13/24""}",,,,,,,8:00 AM - 10:00 AM
+1055,"{""Monday - Thursday"": ""9:30 AM \u2013 12:00 PM"",""Friday"": ""9:30 AM \u2013 3:00 PM"",""First Thursdays"": ""6:00 PM \u2013 7:00 PM""}",,,9:30 AM,,,9:30 AM,9:30 AM
+1056,"{""St. Andrew the Apostle"": {""Monday"": ""7:00 AM \u2013 8:00 AM"",""Tuesday"": ""6:00 PM \u2013 8:00 PM"",""Wednesday"": ""11:30 AM \u2013 12:30 PM"",""Thursday"": ""7:00 AM \u2013 8:00 AM"",""Friday"": ""8:30 AM \u2013 9:30 AM""},""St. John the Evangelist"": {""Wednesday"": ""8:30 AM \u2013 9:30 AM""}}",,,7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+1057,"{""Tuesday"": ""6:00 PM - 7:30 PM""}",,,,6:00 PM - 7:30 PM,,,
+1058,,,,,,,,
+1059,"{""Saturday"": ""10:00 AM - 3:45 PM""}",10:00 AM - 3:45 PM,,,,,,
+1060,"{""PerpetualAdoration"": ""24 hours/day""}",,,,,,,
+1061,,,,,,,,
+1062,"{""Friday"": [""8:30 AM - 9:30 AM""],""4th Saturday of the month"": [""8:00 AM - 8:00 AM 24-Hour Adoration""]}",8:30 AM - 9:30 AM,,,,,,8:30 AM - 9:30 AM
+1063,,,,,,,,
+1064,,,,,,,,
+1065,Morning to evening,,,,,,,
+1066,"{""Friday"": ""After Friday morning Mass""}",,,,,,,
+1067,,,,,,,,
+1068,"{""Monday"": ""9:15 AM - 10:15 AM"",""Tuesday"": ""9:15 AM - 10:15 AM"",""Thursday"": ""9:15 AM - 10:15 AM"",""Wednesday"": ""5:45 PM - 6:45 PM"",""Friday"": ""4:15 PM - 5:15 PM"",""First Thursday"": ""9:00 AM - 6:00 PM""}",,,9:15 AM - 10:15 AM,9:15 AM - 10:15 AM,9:15 AM - 10:15 AM,9:15 AM - 10:15 AM,9:15 AM - 10:15 AM
+1069,"{""Monday - Wednesday"": ""5:00 PM - 6:00 PM"",""Friday"": ""5:00 PM - 6:00 PM"",""Thursday"": ""5:30 PM - 6:30 PM (Holy Hour)""}",,,5:00 PM,,5:00 PM,5:00 PM,5:00 PM
+1070,"{""Monday"": ""7:00 AM - 8:00 AM"",""Tuesday"": ""7:00 AM - 8:00 AM"",""Wednesday"": ""7:00 AM - 8:00 AM"",""Thursday"": ""7:00 AM - 8:00 AM"",""Friday"": ""7:00 AM - 8:00 AM"",""Saturday"": ""7:00 AM - 8:00 AM""}",7:00 AM - 8:00 AM,,7:00 AM - 8:00 AM,7:00 AM - 8:00 AM,7:00 AM - 8:00 AM,7:00 AM - 8:00 AM,7:00 AM - 8:00 AM
+1071,,,,,,,,
+1072,"Mondays, 4:00 PM - 7:00 PM",,,4:00 PM - 7:00 PM,,,,
+1073,,,,,,,,
+1074,"{""Thursday"": ""10:00 AM \u2013 10:00 PM""}",,,,,,10:00 AM,
+1075,"{""Monday-Friday"": ""8:00 AM - 5:00 PM""}",,,8:00 AM,,,,8:00 AM
+1076,,,,,,,,
+1077,"{""Monday"": ""8:30 AM - 10:00 PM"",""Tuesday"": ""8:30 AM - 10:00 PM"",""Wednesday"": ""8:00 AM - 9:00 PM (Perpetual)"",""Thursday"": ""8:00 AM - 9:00 PM (Perpetual)"",""Friday"": ""8:00 AM - 9:00 PM (Perpetual)"",""Saturday"": ""8:00 AM - 8:50 AM""}",8:30 AM - 10:00 PM,,8:30 AM - 10:00 PM,8:30 AM - 10:00 PM,8:30 AM - 10:00 PM,8:30 AM - 10:00 PM,8:30 AM - 10:00 PM
+1078,"{""Friday"": ""6:00 PM""}",,,,,,,6:00 PM
+1079,"{""Thursday"": [""1:00 PM - 7:00 PM""]}",,,,,,1:00 PM - 7:00 PM,
+1080,"{""Thursday"": ""1:00 pm-3:00 pm"",""First Friday of the Month"": ""11:00 am-12:00 pm"",""Friday Evenings"": ""7:00 pm-8:00 pm""}",,,,,,,
+1081,,,,,,,,
+1082,,,,,,,,
+1083,,,,,,,,
+1084,"{""Saturday"": ""3:30 PM \u2013 4:30 PM (during confessions)""}",3:30 PM,,,,,,
+1085,"{""Thursday"": ""7:00 PM""}",,,,,,7:00 PM,
+1086,,,,,,,,
+1087,"{""Monday"": ""4:30-5:30 PM""}",,,5:30 PM,,,,
+1088,,,,,,,,
+1089,"{""Monday"": ""9:00 AM - 10:00 PM"",""Wednesday"": ""9:00 AM - 10:00 PM"",""Daily"": ""6:30 AM - 6:30 PM"",""Entry_Code_Required"": ""6:30 PM - 6:30 AM""}",,,9:00 AM - 10:00 PM,,9:00 AM - 10:00 PM,,
+1090,"{""St. Mary of the Crown"": {""Tuesdays"": ""8:00 AM \u2013 9:00 AM"",""Thursdays"": ""8:00 AM \u2013 9:00 AM"",""First Fridays"": ""8:00 PM \u2013 12:00 AM""},""St. Vincent"": {""Wednesdays"": ""8:00 AM \u2013 9:00 AM"",""Fridays"": ""8:00 AM \u2013 9:00 AM"",""First Thursdays"": ""5:00 AM \u2013 8:15 AM""}}",,,,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1091,"{""Monday"": ""5:00 PM - 6:00 PM"",""Friday"": ""4:00 PM - 5:00 PM""}",,,5:00 PM - 6:00 PM,,,,5:00 PM - 6:00 PM
+1092,"{""Start"": ""12:45 PM"",""End"": ""5:00 PM"",""Days"": ""Monday to Thursday""}",,,12:45 PM,,,12:45 PM,
+1093,,,,,,,,
+1094,,,,,,,,
+1095,"{""Weekdays"": ""8:00 AM to 6:00 PM"",""Holy Hour"": ""Every Friday after the 8:00 AM Mass"",""First Friday"": ""All day after Daily Mass until 6:00 PM""}",,,,,,,8:00 AM - 6:00 PM
+1096,,,,,,,,
+1097,"{""Perpetual Eucharistic Adoration"": ""24 hours a day, seven days a week""}",,,,,,,
+1098,"{""Monday"": ""8:00 AM - 8:00 PM"",""Wednesday"": ""8:00 AM - 8:00 PM"",""Thursday"": ""8:00 AM - 8:00 PM""}",,,8:00 AM - 8:00 PM,,8:00 AM - 8:00 PM,8:00 AM - 8:00 PM,
+1099,"{""Monday"": ""6:30 AM - 2:00 PM"",""Tuesday"": ""6:30 AM - 2:00 PM"",""Wednesday"": ""6:30 AM - 2:00 PM"",""Thursday"": ""6:30 AM - 2:00 PM"",""Friday"": ""6:30 AM - 2:00 PM"",""Saturday"": ""3:30 PM - 6:30 PM"",""Sunday"": ""6:30 AM - 1:30 PM""}",6:30 AM - 2:00 PM,6:30 AM - 2:00 PM,6:30 AM - 2:00 PM,6:30 AM - 2:00 PM,6:30 AM - 2:00 PM,6:30 AM - 2:00 PM,6:30 AM - 2:00 PM
+1100,,,,,,,,

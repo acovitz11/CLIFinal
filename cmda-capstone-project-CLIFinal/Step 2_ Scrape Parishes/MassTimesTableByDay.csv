@@ -1,0 +1,1102 @@
+ParishID,Saturday,Sunday,Monday,Tuesday,Wednesday,Thursday,Friday
+0,NA,NA,NA,NA,NA,NA,NA
+1,NA,NA,NA,NA,NA,NA,NA
+2,5:30 PM,"8:00 AM, 10:00 AM, 12:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+3,4:00 PM,"7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM (Spanish)",6:30 AM,6:30 AM,6:30 AM,6:30 AM,6:30 AM
+4,5:30 PM,"8:00 AM, 10:30 AM, 12:15 PM","{'Monday': ['7:00 AM', '8:00 AM'], 'Tuesday': ['7:00 AM', '8:00 AM'], 'Wednesday': ['7:00 AM', '8:00 AM'], 'Thursday': ['7:00 AM', '8:00 AM'], 'Friday': '8:00 AM', 'Saturday': '8:00 AM'}","{'Monday': ['7:00 AM', '8:00 AM'], 'Tuesday': ['7:00 AM', '8:00 AM'], 'Wednesday': ['7:00 AM', '8:00 AM'], 'Thursday': ['7:00 AM', '8:00 AM'], 'Friday': '8:00 AM', 'Saturday': '8:00 AM'}","{'Monday': ['7:00 AM', '8:00 AM'], 'Tuesday': ['7:00 AM', '8:00 AM'], 'Wednesday': ['7:00 AM', '8:00 AM'], 'Thursday': ['7:00 AM', '8:00 AM'], 'Friday': '8:00 AM', 'Saturday': '8:00 AM'}","{'Monday': ['7:00 AM', '8:00 AM'], 'Tuesday': ['7:00 AM', '8:00 AM'], 'Wednesday': ['7:00 AM', '8:00 AM'], 'Thursday': ['7:00 AM', '8:00 AM'], 'Friday': '8:00 AM', 'Saturday': '8:00 AM'}","{'Monday': ['7:00 AM', '8:00 AM'], 'Tuesday': ['7:00 AM', '8:00 AM'], 'Wednesday': ['7:00 AM', '8:00 AM'], 'Thursday': ['7:00 AM', '8:00 AM'], 'Friday': '8:00 AM', 'Saturday': '8:00 AM'}"
+5,NA,NA,NA,NA,NA,NA,NA
+6,"7:00 AM, 9:00 AM, 5:30 PM, 7:00 PM (Spanish)","7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM, 1:15 PM (Spanish)","7:00 AM, 9:00 AM, 6:30 PM (Spanish)","7:00 AM, 9:00 AM, 6:30 PM (Spanish)","7:00 AM, 9:00 AM, 6:30 PM (Spanish)","7:00 AM, 9:00 AM, 6:30 PM (Spanish)","7:00 AM, 9:00 AM, 6:30 PM (Spanish)"
+7,9:00 AM,"8:30 AM, 11:30 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+8,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",11:30 AM,11:30 AM,11:30 AM,11:30 AM,11:30 AM
+9,NA,NA,"{'Monday': '12:00 PM', 'Tuesday': '12:00 PM', 'Wednesday': '12:00 PM', 'Thursday': '12:00 PM', 'Friday': '12:00 PM', 'Saturday': '12:00 PM'}","{'Monday': '12:00 PM', 'Tuesday': '12:00 PM', 'Wednesday': '12:00 PM', 'Thursday': '12:00 PM', 'Friday': '12:00 PM', 'Saturday': '12:00 PM'}","{'Monday': '12:00 PM', 'Tuesday': '12:00 PM', 'Wednesday': '12:00 PM', 'Thursday': '12:00 PM', 'Friday': '12:00 PM', 'Saturday': '12:00 PM'}","{'Monday': '12:00 PM', 'Tuesday': '12:00 PM', 'Wednesday': '12:00 PM', 'Thursday': '12:00 PM', 'Friday': '12:00 PM', 'Saturday': '12:00 PM'}","{'Monday': '12:00 PM', 'Tuesday': '12:00 PM', 'Wednesday': '12:00 PM', 'Thursday': '12:00 PM', 'Friday': '12:00 PM', 'Saturday': '12:00 PM'}"
+10,5:00 PM,"8:30 AM, 10:30 AM, 12:30 PM - Español","8:00 AM, 12:10 PM",NA,"8:00 AM, 12:10 PM",NA,NA
+11,"5:00 PM, 5:00 PM - 5:30 PM, 12:00 AM, 4:30 PM, 6:30 PM, 8:00 AM","5:00 PM, 8:00 AM, 10:00 AM, 12:00 PM (Spanish), 9:00 AM - 9:30 AM, 7:30 AM, 5:00 PM, 6:00 PM","8:00 AM, 8:00 AM - 8:30 AM, 12:00 PM, 6:30 PM, 8:00 PM","8:00 AM, 8:00 AM - 8:30 AM, 7:00 PM","8:00 AM, 8:00 AM - 8:30 AM","8:00 AM, 8:00 AM - 8:30 AM, 7:00 PM, 8:00 PM","8:00 AM, 8:00 AM - 8:30 AM"
+12,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,NA
+13,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+14,NA,NA,NA,NA,NA,NA,NA
+15,5:30 PM,"7:45 AM, 10:00 AM, Noon",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+16,5:30 PM,"9:00 AM, 11:30 AM",['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM']
+17,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 1:30 PM (Spanish Mass)",NA,NA,NA,NA,NA
+18,5:30 PM,"8:00 AM, 11:00 AM, 12:30 PM (Spanish)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+19,"5:00 PM (English), 6:30 PM (Spanish)","8:30 AM (Spanish), 10:00 AM (English), 11:30 AM (Spanish), 1:00 PM (French-Creole)","['5:30 PM (English) - Wednesdays (Novena)', '6:00 PM (Creole) - Mon., Tues., Fri.', '7:00 PM (Creole & Spanish) - Wednesdays', '7:00 PM (Spanish) - Mon., Tues., Wed., Thurs., Fri.']","['5:30 PM (English) - Wednesdays (Novena)', '6:00 PM (Creole) - Mon., Tues., Fri.', '7:00 PM (Creole & Spanish) - Wednesdays', '7:00 PM (Spanish) - Mon., Tues., Wed., Thurs., Fri.']","['5:30 PM (English) - Wednesdays (Novena)', '6:00 PM (Creole) - Mon., Tues., Fri.', '7:00 PM (Creole & Spanish) - Wednesdays', '7:00 PM (Spanish) - Mon., Tues., Wed., Thurs., Fri.']","['5:30 PM (English) - Wednesdays (Novena)', '6:00 PM (Creole) - Mon., Tues., Fri.', '7:00 PM (Creole & Spanish) - Wednesdays', '7:00 PM (Spanish) - Mon., Tues., Wed., Thurs., Fri.']","['5:30 PM (English) - Wednesdays (Novena)', '6:00 PM (Creole) - Mon., Tues., Fri.', '7:00 PM (Creole & Spanish) - Wednesdays', '7:00 PM (Spanish) - Mon., Tues., Wed., Thurs., Fri.']"
+20,6:00 PM,"8:30 AM, 10:00 AM, 12:30 PM",7:00 PM,7:00 PM,7:00 PM,7:00 PM,7:00 PM
+21,5:30 PM,"7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM","7:00 AM, 8:00 AM, 7:00 PM (Novena Mass)","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM"
+22,"5:00 PM (English), 6:00 PM (Español)","9:00 AM (English), 10:30 AM (Español), 12:00 PM (Español)",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+23,5:00 PM,"8:30 AM, 10:30 AM, 12:30 PM (Español)",12:10 PM (Monday – Friday),12:10 PM (Monday – Friday),12:10 PM (Monday – Friday),12:10 PM (Monday – Friday),12:10 PM (Monday – Friday)
+24,"8:45 AM, 5:15 PM (Vigil)","7:30 AM, 9:30 AM, 11:30 AM, 6:00 PM","['7:30 AM', '8:45 AM']","['7:30 AM', '8:45 AM']","['7:30 AM', '8:45 AM']","['7:30 AM', '8:45 AM']","['7:30 AM', '8:45 AM']"
+25,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+26,NA,NA,NA,NA,NA,NA,NA
+27,"8:30 AM, 5:30 PM, 8:00 PM (Korean)","7:30 AM, 9:00 AM (Korean), 10:30 AM, 12:00 PM, 1:30 PM (Korean)",8:30 AM,8:30 AM,"8:30 AM, 8:00 PM (Korean)",8:30 AM,"8:30 AM, 8:00 PM (Korean)"
+28,"{'Day': '12:00 PM', 'Evening': '5:30 PM'}","{'Spanish': '12:00 PM', 'English': '10:00 AM'}",12:00 PM,12:00 PM,12:00 PM,7:00 PM,12:00 PM
+29,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+30,"{'Morning': '7:30 AM', 'Vigil': '5:30 PM'}","{'Morning': '9:30 AM', 'Late Morning': '11:00 AM'}",7:30 AM,7:00 PM,7:30 AM,7:30 AM,7:00 PM
+31,NA,NA,NA,NA,NA,NA,NA
+32,NA,NA,NA,NA,NA,NA,NA
+33,"8:00 AM, 4:30 PM","7:30 AM, 9:00 AM, 11:00 AM, 7:00 PM, 2:00 PM (Chinese, Except 2nd Sunday of the Month)",['12:10 PM'],['12:10 PM'],['12:10 PM'],['12:10 PM'],['12:10 PM']
+34,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+35,"8:00 AM, 4:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 1:30 PM, 4:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+36,5:30 PM,"8:00 AM, 9:30 AM (Vietnamese), 11:00 AM, 7:00 PM (Portuguese)",NA,NA,NA,NA,7:00 PM (Portuguese)
+37,"4:00 PM English, 7:00 PM Spanish","7:30 AM English, 9:00 AM Portuguese, 11:00 AM Spanish, 12:30 PM English","7:30 AM English, 7:00 PM Spanish","7:30 AM English, 7:00 PM Spanish","7:30 AM English, 7:00 PM Portuguese",7:30 AM English,"7:30 AM English, 7:00 PM Spanish"
+38,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+39,3:30 PM - 6:00 PM,8:00 AM - 1:00 PM,NA,NA,NA,NA,NA
+40,"{'Daily': '8:00 AM', 'Vigil': '5:00 PM'}","7:30 AM, 9:30 AM, 11:00 AM (Italian), 12:15 PM, 6:00 PM",8:00 AM,8:00 AM,8:00 AM,"{'Mass': '7:00 PM', 'Adoration': '8:00 AM to 7:00 PM'}",8:00 AM
+41,5:00 PM,"9:00 AM, 10:30 AM, 1:30 PM (Spanish), 7:30 PM",NA,NA,NA,NA,NA
+42,"{'Morning': '8:00 AM', 'Evening': '5:00 PM'}","{'English': '9:00 AM', 'Spanish': '11:00 AM', 'Creole': '4:00 PM'}","{'Monday-Thursday': '8:00 AM', 'Friday': '7:00 PM'}","{'Monday-Thursday': '8:00 AM', 'Friday': '7:00 PM'}","{'Monday-Thursday': '8:00 AM', 'Friday': '7:00 PM'}","{'Monday-Thursday': '8:00 AM', 'Friday': '7:00 PM'}","{'Monday-Thursday': '8:00 AM', 'Friday': '7:00 PM'}"
+43,5:30 PM,"9:00 AM, 11:00 AM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+44,5:30 PM,"10:00 AM, 12:00 PM","7:30 AM, 12:10 PM","7:30 AM, 12:10 PM",7:30 AM,"7:30 AM, 12:10 PM","7:30 AM, 12:10 PM"
+45,5:30 PM,"9:00 AM, 1:00 PM (English), 11:00 AM (Spanish)",12:10 PM,12:10 PM,12:10 PM,12:10 PM,12:10 PM
+46,"8:30 AM, 5:00 PM","7:30 AM, 8:45 AM, 10:00 AM - Spanish, 11:30 AM, 1:00 PM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM"
+47,"9:00 AM (English), 5:30 PM (English), 4:00 PM","8:00 AM (English), 9:00 AM (Tagalog, First Sunday Only), 10:00 AM (Spanish), 12:00 PM (English)",7:00 AM,"7:00 AM (English), 7:00 PM (Spanish)",7:00 AM,7:00 PM (Spanish),7:00 AM
+48,"{'Vigil': '4:00 PM', 'Daily': '8:00 AM'}","{'English': ['8:00 AM', '12:00 PM'], 'Spanish': ['10:00 AM'], 'At St. Ann’s Nursing Home': '11:00 AM'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+49,"8:30 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 PM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM"
+50,"{'Regular': '5:00 PM', 'Spanish': '7:00 PM'}","8:00 AM, 10:00 AM, 12:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+51,5:30 PM,"9:00 AM, 12:00 Noon, 10:30 AM (Spanish)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+52,8:30 AM,"9:00 AM, 11:00 AM (Spanish)",8:30 AM,"8:30 AM, 6:30 PM (Spanish)",8:30 AM,"8:30 AM, 6:30 PM (Spanish)",8:30 AM
+53,"8:30 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 NOON","8:30 AM, 6:30 PM",8:30 AM,"8:30 AM, 6:30 PM",8:30 AM,"8:30 AM, 6:30 PM"
+54,{'Vigil': '4:30 PM (English)'},"{'Mass': ['8:00 AM (English)', '10:00 AM (Polish)', '12:00 PM (English)']}",8:00 AM (Polish),6:00 PM (English),6:00 PM (English),8:00 AM (Polish),6:00 PM (English)
+55,5:00 PM,"{'Bilingual': '9:00 AM', 'English': '11:30 AM'}",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+56,"{'Vigil': '5:00 PM', 'Morning': 'NA'}",9:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+57,"{""Time"": ""5:00 PM"", ""Language"": ""English""}","{""Time"": ""9:00 AM"", ""Language"": ""Portuguese""}, {""Time"": ""10:30 AM"", ""Language"": ""English""}, {""Time"": ""12:00 PM"", ""Language"": ""Spanish""}","{""Time"": ""12:00 PM"", ""Language"": ""English""}","{""Time"": ""12:00 PM"", ""Language"": ""English""}, {""Time"": ""7:30 PM"", ""Language"": ""Spanish""}","{""Time"": ""12:00 PM"", ""Language"": ""English""}, {""Time"": ""7:00 PM"", ""Language"": ""Portuguese""}","{""Time"": ""12:00 PM"", ""Language"": ""English""}","{""Time"": ""12:00 PM"", ""Language"": ""English""}"
+58,5:30 PM,"9:00 AM, 10:30 AM, 12:00 PM, 5:00 PM",NA,NA,NA,NA,NA
+59,"12:05 PM, 4:00 PM, 7:30 PM (en Espanol)","8:00 AM, 10:00 AM, 12:00 PM","8:00 AM, 12:05 PM","8:00 AM, 12:05 PM","8:00 AM, 12:05 PM","8:00 AM, 12:05 PM","8:00 AM, 12:05 PM"
+60,5:00 PM,"7:30 AM, 11:00 AM, 7:00 PM, 12:30 PM (English), 1:30 PM (Polish)","7:00 AM (chapel), 7:00 PM","7:00 AM (chapel), 7:00 PM","7:00 AM (chapel), 7:00 PM","7:00 AM (chapel), 7:00 PM","7:00 AM (chapel), 7:00 PM"
+61,"5:30 PM, 8:30 AM","8:00 AM, 10:00 AM, 12:00 PM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM"
+62,5:30 PM,"{'Regular': '8:00 AM, 10:00 AM, 12:00 PM', 'Summer': '9:00 AM, 11:30 AM'}",12:00 PM (Monday through Friday),12:00 PM (Monday through Friday),12:00 PM (Monday through Friday),12:00 PM (Monday through Friday),12:00 PM (Monday through Friday)
+63,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 6:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+64,"7:30 AM, 5:00 PM","7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM"
+65,"5:00 PM, 12:00 PM","7:00 PM (Español), 7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM (Español)",12:00 PM,7:30 AM,12:00 PM,12:00 PM,8:00 PM (Español)
+66,"9:00 AM, 5:00 PM (Anticipated Mass of Sunday)","7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM, 1:30 PM (Spanish), 3:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+67,4:30 PM,"8:30 AM, 10:30 AM, 12:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+68,5:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",NA,NA,NA,NA,NA
+69,8:00 PM,"8:00 AM, 10:30 AM",9:30 AM,9:30 AM,9:30 AM,9:30 AM,9:30 AM
+70,5:00 PM,9:00 AM & 11:30 AM,NA,NA,NA,NA,NA
+71,NA,NA,NA,NA,7:00 PM,NA,NA
+72,"12:10 PM, 5:00 PM","8:00 AM, 10:15 AM, 12:00 PM","12:10 PM, 7:30 PM",12:10 PM,12:10 PM,12:10 PM,12:10 PM
+73,NA,7:00 PM,5:30 PM,5:30 PM,5:30 PM,8:00 PM,8:30 AM
+74,4:30 PM,"11:00 AM, 6:00 PM",8:30 AM,NA,8:30 AM,8:30 AM,8:30 AM
+75,NA,"{'English': '9:00 AM', 'Español': '11:00 AM', 'French/Creole': '1:00 PM'}",NA,NA,NA,NA,NA
+76,5:00 PM,10:30 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+77,5:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+78,NA,NA,NA,NA,NA,NA,NA
+79,5:00 PM,"7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM",NA,NA,NA,NA,NA
+80,"8:30 AM, 5:00 PM (Sunday Vigil)","7:30 AM, 10:00 AM, 12:00 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM"
+81,NA,NA,NA,NA,NA,NA,NA
+82,5:00 PM Bilingual,"8:00 AM English, 11:00 AM Español, 9:30 AM Bilingual (St. Augustine Church 170 Sussex Ave, Newark)",6:00 PM Spanish,7:30 AM English,6:00 PM Spanish,7:30 AM English,6:00 PM Spanish
+83,NA,NA,NA,NA,NA,NA,NA
+84,5:30 PM,"7:30 AM (Port), 9:00 AM (Port), 10:15 AM (Eng), 11:30 AM (Port)",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+85,"7:00 AM, 9:00 AM, 6:00 PM","8:00 AM (Italian), 9:00 AM (Spanish), 11:00 AM (English), 12:30 PM (English), 5:30 PM (English), 12:30 PM (1st Sunday of the month, St. Gerard Mass), 5:30 PM (Last Sunday of the month, French Mass)","7:00 AM, 9:00 AM, 5:30 PM","7:00 AM, 9:00 AM, 5:30 PM","7:00 AM, 9:00 AM, 5:30 PM","7:00 AM, 9:00 AM, 5:30 PM","7:00 AM, 9:00 AM, 5:30 PM"
+86,NA,"7:00 AM (Spanish), 8:30 AM (English), 10:00 AM (Spanish), 11:30 AM (English), 1:00 PM (Spanish)","['8:00 AM (English)', '7:00 PM (Spanish)']","['8:00 AM (English)', '7:00 PM (Spanish)']","['8:00 AM (English)', '7:00 PM (Spanish)']","['8:00 AM (English)', '7:00 PM (Spanish)']","['8:00 AM (English)', '7:00 PM (Spanish)']"
+87,10:30 AM,"{'Spanish': ['8:00 AM', '12:00 PM'], 'English': '10:00 AM'}",6:00 PM,6:00 PM,6:00 PM,6:00 PM,6:00 PM
+88,7:30 AM,"9:00 AM, 10:30 AM, 12:00 PM",7:00 PM,7:30 AM,7:30 AM,7:30 AM,7:00 PM
+89,3:00 PM - 4:00 PM,9:00 AM - 10:00 AM,NA,NA,NA,NA,NA
+90,"{'English': ['4:00 PM: Missa em Inglês'], 'Portuguese': ['7:00 PM: Missa em Português']}","{'Portuguese': ['7:30 AM: Missa em Português', '9:00 AM: Missa em Português', '10:00 AM: Catequese para Adultos', '10:45 AM: Missa em Português', '6:00 PM: Missa em Português'], 'English': ['12:00 PM: Missa em Inglês']}","7:30 PM: Preparação para o Batismo (Second Monday of the month), 8:00 PM: Terço Masculino (Last Monday of the month)",NA,"7:30 PM: Missa seguida da Novena a Nossa Senhora do Perpétuo Socorro, 8:30 PM: Grupo de Oração Kairós",8:00 PM: Missa do Santíssimo (every Thursday),7:30 PM: Missa e Adoração ao Santíssimo (First Friday of the month)
+91,"{'Morning': '8:00 AM', 'Evening': '6:30 PM'}","{'First Mass': '8:00 AM', 'Second Mass': '10:00 AM', 'Igbo Mass': '12:30 PM'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+92,5:00 PM,"8:30 AM English Mass, 9:30 AM Portugues Mass, 11:30 AM Spanish Mass, 1:00 PM",NA,8:00 PM Neocatechumenal Way,8:00 PM Neocatechumenal Way,"7:30 PM Portugues Mass, 8:00 PM Blessed Sacrament (1st Thursday of the month), 8:00 PM Prayer group",5:00 PM English Mass (no during Summer time)
+93,"5:00 PM, 7:15 PM","8:30 AM, 10:00 AM, 12:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+94,"7:30 AM, 9:00 AM, 5:00 PM (Anticipated Mass)","7:30 AM, 9:00 AM (Spanish), 10:30 AM, 12:00 Noon","7:30 AM, 9:00 AM, 5:30 PM (English), 5:30 PM (Spanish)","7:30 AM, 9:00 AM, 5:30 PM (Spanish)","7:30 AM, 9:00 AM, 5:30 PM (English)","7:30 AM, 9:00 AM, 5:30 PM (Spanish)","7:30 AM, 9:00 AM, 5:30 PM (English)"
+95,5:00 PM,"8:00 AM, 9:30 AM, 11:00 AM, 12:30 PM",NA,NA,NA,NA,NA
+96,NA,NA,NA,NA,NA,NA,NA
+97,NA,NA,NA,NA,NA,NA,NA
+98,"{'Morning': '8:00 AM', 'Evening': '5:00 PM'}","7:30 AM, 9:15 AM, 10:45 AM, 12:15 PM",NA,NA,NA,NA,NA
+99,{'Vigil': '5:00 PM'},"7:30 AM, 10:00 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+100,5:00 PM,"7:30 AM, 8:30 AM, 10:30 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+101,"5:30 PM English, 7:00 PM Spanish","9:00 AM English, 10:30 AM English, 12:00 PM Spanish","9:00 AM English, 7:00 PM Spanish","9:00 AM English, 7:00 PM Spanish","9:00 AM English, 7:00 PM Spanish","9:00 AM English, 7:00 PM Spanish","9:00 AM English, 7:00 PM Spanish"
+102,"5:30 PM - English Mass, 9:00 AM - English Mass","7:30 AM - English Mass, 9:30 AM - Korean Mass, 11:30 AM - English Mass, 1:30 PM - Spanish Mass, 5:30 PM - Korean Mass, 10:00 AM - 11:15 AM",NA,"7:30 PM - Korean Memorial Mass, 7:30 PM - Korean Praise and Healing Mass",8:00 PM - Spanish Mass,8:00 PM - Eucharistic Adoration,NA
+103,"7:00 AM, 8:00 AM, 5:00 PM","7:30 AM, 9:30 AM, 11:00 AM (Italian), 12:30 PM (English), 6:00 PM (Portuguese)",NA,NA,NA,NA,"7:00 AM, 8:00 AM"
+104,NA,11:00 AM,NA,NA,NA,NA,NA
+105,"9:00 AM, 5:00 PM","8:30 AM, 10:30 AM, 12:00 PM","7:00 AM, 8:45 AM","7:00 AM, 8:45 AM","7:00 AM, 8:45 AM","7:00 AM, 8:45 AM","7:00 AM, 8:45 AM"
+106,"{'Morning': '9:00 AM', 'Evening': '5:00 PM'}","{'English': ['9:00 AM', '1:00 PM'], 'Polish': '11:00 AM'}",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+107,NA,NA,"['7:30 AM', '7:00 PM']","['7:30 AM', '7:00 PM']","['7:30 AM', '7:00 PM']","['7:30 AM', '7:00 PM']","['7:30 AM', '7:00 PM']"
+108,"5:00 PM, 9:00 AM (Daily Mass)","8:00 AM, 10:00 AM (Livestream), 12:00 PM, 5:00 PM, 1:30 PM (Spanish Mass)",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+109,"{'Morning': '9:00 AM', 'Anticipation': '4:00 PM'}","{'Morning': ['8:00 AM', '10:00 AM', '12:00 PM']}",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+110,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM, 1:00 PM (Spanish)",NA,NA,NA,NA,NA
+111,5:30 PM,"8:00 AM, 9:30 AM, 11:00 AM, 12:30 PM, 3:00 PM (Spanish), 6:30 PM","['6:30 AM', '8:30 AM', '12:00 PM']","['6:30 AM', '8:30 AM', '12:00 PM']","['6:30 AM', '8:30 AM', '12:00 PM']","['6:30 AM', '8:30 AM', '12:00 PM']","['6:30 AM', '8:30 AM', '12:00 PM']"
+112,NA,NA,NA,NA,NA,NA,NA
+113,NA,NA,NA,NA,NA,NA,NA
+114,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",8:45 AM,8:45 AM,8:45 AM,8:45 AM,8:45 AM
+115,"{'Daily': '7:30 AM', 'Vigil': ['5:00 PM', '7:00 PM in Spanish']}","8:00 AM, 10:00 AM, 12:00 PM",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+116,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",5:00 PM,8:30 AM,8:30 AM,8:30 AM,12:00 PM
+117,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",8:30 AM,8:30 AM,10:00 AM,8:30 AM,"8:30 AM, 8:00 PM"
+118,8:00 AM - 9:00 AM,8:00 AM - 12:00 PM,NA,NA,NA,NA,NA
+119,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM","['7:00 AM', '8:30 AM']","['7:00 AM', '8:30 AM']","['7:00 AM', '8:30 AM']","['7:00 AM', '8:30 AM']","['7:00 AM', '8:30 AM']"
+120,5:30 PM,"7:30 AM, 9:00 AM (Spanish), 10:30 AM, 12:00 PM, 5:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+121,9:00 AM,7:30 AM | 9:30 AM | 11:30 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+122,"5:00 PM, 5:30 PM","8:00 AM, 10:00 AM, 11:30 AM, 12:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+123,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+124,NA,"7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM, 5:00 PM",NA,NA,NA,NA,NA
+125,5:30 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+126,NA,NA,NA,NA,NA,NA,NA
+127,"{'Regular': '9:00 AM', 'Vigil': ['4:00 PM', '6:00 PM (Spanish)']}","8:45 AM, 10:30 AM (Spanish), 12:00 PM, 6:00 PM",9:00 AM,"{'Regular': '9:00 AM', 'Additional': '6:00 PM'}",9:00 AM,9:00 AM,9:00 AM
+128,"8:30 AM (English), 4:00 PM (Espanol), 5:30 PM (English), 7:00 PM (Espanol)","9:00 AM (English), 11:00 AM (Espanol), 12:30 PM (Espanol)","8:30 AM (English), 7:00 PM (Espanol)","8:30 AM (English), 7:00 PM (Espanol)","8:30 AM (English), 7:00 PM (English)","8:30 AM (English), 7:00 PM (Espanol)","8:30 AM (English), 7:00 PM (Espanol)"
+129,8:15 AM,"7:30 AM, 9:30 AM, 11:30 AM, 1:15 PM",NA,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+130,5:00 PM,"8:00 AM, 10:00 AM, 11:30 AM, 6:30 PM",NA,NA,NA,NA,NA
+131,"5:30 PM, 12:00 PM","7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+132,"{'Vigil': ['5:00 PM', '6:30 PM'], 'Regular': '7:00 AM'}","7:00 AM, 8:15 AM, 9:30 AM, 10:45 AM, 12:15 PM, 6:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+133,"8:45 AM, 5:00 PM","8:00 AM, 11:00 AM",8:45 AM,8:45 AM,8:45 AM,8:45 AM,8:45 AM
+134,6:00 PM,"8:00 AM, 10:30 AM, 12:00 PM",NA,NA,NA,NA,NA
+135,"8:00 AM St. Johns English, Saturday Vigil Masses","8:00 AM St. Marys English, 9:00 AM St. Marys Español, 10:00 AM Libera English, 10:15 AM St. Johns Croatian, 11:00 AM St. Marys English, 12:00 PM Libera Español, 12:30 PM St. Marys Espanol, 2:00 PM St. Johns Español, 6:00 PM St. Marys Español","7:30 AM St. Johns English, 8:00 AM St. Marys English, 9:00 AM Libera Español, 7:00 PM St. Marys Español","7:30 AM St. Johns English, 8:00 AM St. Marys English, 9:00 AM Libera Español, 7:00 PM St. Marys Español","7:30 AM St. Johns English, 8:00 AM St. Marys English, 9:00 AM Libera Español, 7:00 PM St. Marys Español","7:30 AM St. Johns English, 8:00 AM St. Marys English, 9:00 AM Libera Español, 7:00 PM St. Marys Español, 4:30 PM St. Johns English, 6:00 PM Libera Español, 6:00 PM St. Marys English, 7:00 PM St. Johns Español","7:30 AM St. Johns English, 8:00 AM St. Marys English, 9:00 AM Libera Español, 7:00 PM St. Marys Español"
+136,"5:00 PM, 6:30 PM, 3:45 PM","12:00 PM, 10:00 AM, 8:30 AM, 10:30 AM, 1:30 PM, 5:00 PM, 11:00 AM, 10:45 AM","8:30 AM, 7:00 PM","8:30 AM, 7:00 PM","8:30 AM, 7:00 PM","8:30 AM, 7:00 PM","8:30 AM, 7:00 PM"
+137,"8:30 AM, 5:00 PM","7:30 AM, 9:00 AM, 11:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM","7:00 AM, 8:30 AM"
+138,9:00 AM,"7:30 AM, 9:00 AM, 11:00 AM (High Mass)",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+139,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+140,"9:00 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 6:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+141,"8:30 AM, 5:30 PM (livestreamed)","10:00 AM (LiveStreamed), 12:00 PM, 5:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+142,"{'Eve': ['5:30 PM', '8:00 PM (Neocatechumenal Way Eucharist)']}","8:30 AM, 10:30 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+143,5:30 PM,"8:00 AM, 9:30 AM, 11:00 AM",NA,NA,NA,NA,NA
+144,8:45 AM,"7:30 AM, 10:00 AM, 5:00 PM","12:15 PM, 5:00 PM","12:15 PM, 5:00 PM","12:15 PM, 5:00 PM","12:15 PM, 5:00 PM","12:15 PM, 5:00 PM"
+145,NA,NA,NA,NA,NA,NA,NA
+146,7:00 PM,9:00 AM,NA,5:30 PM,NA,NA,9:00 AM
+147,4:30 PM,"{'Regular': '9:00 AM', 'Ordinariate': '11:00 AM'}",NA,NA,9:00 AM,NA,NA
+148,4:00 PM,9:00 AM,NA,NA,9:00 AM,NA,NA
+149,"{'Vigil': '5:00 PM', 'Morning': '8:00 AM'}","8:00 AM, 10:30 AM, 6:00 PM",NA,6:00 PM,8:00 AM,8:00 AM,8:00 AM
+150,5:30 PM,"8:00 AM, 10:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+151,6:30 PM,"9:30 AM, 12:00 PM",NA,NA,NA,NA,NA
+152,5:30 PM,"8:00 AM, 9:30 AM, 11:15 AM",5:30 PM,5:30 PM,5:30 PM,5:30 PM,8:00 AM
+153,NA,9:00 AM,NA,NA,NA,6:00 PM,NA
+154,5:00 PM,"8:00 AM, 10:30 AM",No Mass,5:30 PM,8:30 AM,5:30 PM,8:30 AM
+155,5:00 PM,11:00 AM,NA,NA,NA,4:30 PM,NA
+156,"4:00 PM, 6:00 PM","8:00 AM, 10:00 AM, 12:00 PM (Hispanic)",Noon Prayer and Communion Service,5:30 PM,"8:30 AM Shawe High School Mass, Noon Pope John School Mass",Noon,Noon
+157,NA,NA,NA,NA,NA,NA,NA
+158,"{'Mass': '5:00 PM', 'Confession': '4:00 PM - 4:30 PM', 'Adoration': '4:00 PM', 'Rosary': '4:10 PM'}","{'Mass': '9:00 AM', 'Confession': '8:00 AM - 8:30 AM', 'Adoration': '8:00 AM', 'Rosary': '8:10 AM'}",6:30 AM,6:30 AM,6:30 AM,6:30 AM,6:30 AM - Communion Service
+159,"4:00 PM, 6:00 PM","8:00 AM, 10:00 AM, 12:00 PM",Noon Prayer and Communion Service,5:30 PM,"8:30 AM, Noon",Noon,Noon
+160,5:30 PM,"8:00 AM, 10:00 AM, 12:30 PM (Bilingual), 5:00 PM (Bilingual)",NA,5:30 PM,8:45 AM,5:30 PM (Bilingual),8:45 AM
+161,4:00 PM,9:00 AM,NA,9:30 AM,NA,9:30 AM,NA
+162,4:30 PM,9:30 AM,NA,8:30 AM,NA,8:30 AM,NA
+163,NA,NA,NA,NA,NA,NA,NA
+164,NA,NA,NA,NA,NA,NA,NA
+165,NA,NA,NA,NA,NA,NA,NA
+166,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 1:30 PM (Chin Mass)",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+167,NA,NA,NA,NA,NA,NA,7:15 AM
+168,5:00 PM,"8:00 AM at Enochsburg, 10:00 AM at St. Maurice",NA,NA,8:00 AM,8:00 AM,8:00 AM
+169,"{'Mass': '4:00 PM', 'Confession': '3:30 PM - 3:50 PM'}","8:00 AM, 10:00 AM, 12:00 PM",8:30 AM,5:30 PM,8:30 AM,5:30 PM,8:30 AM
+170,NA,NA,NA,NA,NA,NA,NA
+171,NA,9:00 AM,NA,4:30 PM,NA,6:00 PM,NA
+172,5:30 PM,10:30 AM,NA,8:30 AM,6:00 PM,8:30 AM,NA
+173,"4:00 PM (Eng), 7:00 PM (Spa)","10:00 AM (Bil), 12:00 PM (Spa)",8:30 AM,8:30 AM,"10:00 AM (Bil), 12:00 PM (Spa)",8:30 AM,8:30 AM
+174,4:30 PM,"8:30 AM, 11:15 AM",12:00 PM,6:00 PM,8:30 AM,8:30 AM,12:00 PM
+175,"{'Confession': '4:30 PM', 'Mass': '5:00 PM'}","{'Confession': ['7:00 AM', '8:45 AM'], 'Mass': ['7:30 AM', '9:15 AM', '11:00 AM (St. Jude, Spencer)']}","{'Confession': '8:00 AM', 'Mass': '8:30 AM'}","{'Confession': '5:00 PM', 'Mass': '5:30 PM'}","{'Confession': '5:30 PM (St. Jude, Spencer)', 'Mass': '6:00 PM (St. Jude, Spencer)'}","{'Confession': '5:00 PM', 'Mass': '5:30 PM'}","{'Confession': 'NA', 'Mass': 'NA'}"
+176,NA,"8:00 AM, 10:30 AM, 7:00 PM",NA,NA,NA,NA,NA
+177,4:00 PM,"11:00 AM, 9:00 AM (Vietnamese), 1:00 PM (Vietnamese)",9:00 AM,5:45 PM,5:45 PM,5:45 PM,5:45 PM
+178,NA,NA,NA,NA,NA,NA,NA
+179,"{'Confession': '4:30 PM', 'Mass': '5:00 PM'}","{'Confession': ['7:00 AM', '8:45 AM'], 'Mass': ['7:30 AM', '9:15 AM', '11:00 AM (St. Jude, Spencer)']}","{'Confession': '8:00 AM', 'Mass': '8:30 AM'}","{'Confession': '5:00 PM', 'Mass': '5:30 PM'}","{'Confession': '5:30 PM (St. Jude, Spencer)', 'Mass': '6:00 PM (St. Jude, Spencer)'}","{'Confession': '5:00 PM', 'Mass': '5:30 PM'}","{'Confession': 'NA', 'Mass': 'NA'}"
+180,5:30 PM,9:15 AM,NA,8:45 AM,8:45 AM,8:45 AM,8:45 AM
+181,4:30 PM,"7:30 AM, 10:30 AM",NA,6:15 PM,8:15 AM,8:15 AM,8:15 AM
+182,4:00 PM,"11:00 AM, 1:00 PM—Misa en Español",NA,NA,NA,9:00 AM,"9:00 AM (Except third Thursday, Mass at 11:00 AM)"
+183,5:00 PM,10:00 AM,8:00 AM,NA,5:00 PM,8:00 AM,8:00 AM
+184,4:00 PM,10:00 AM,NA,8:15 AM,12:00 PM,8:15 AM,NA
+185,4:30 PM,8:00 AM & 10:00 AM,NA,NA,NA,NA,NA
+186,NA,NA,NA,NA,NA,NA,NA
+187,4:00 PM,"{'English': '10:00 AM', 'Spanish': '12:00 PM'}",NA,8:15 AM,12:05 PM,8:15 AM,12:05 PM
+188,NA,NA,NA,NA,NA,NA,NA
+189,5:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",8:30 AM,8:30 AM,"8:30 AM, 6:00 PM",8:30 AM,NA
+190,"8:00 AM St. Michael (1st Saturday), 4:00 PM St. Michael, 5:30 PM St. Peter","7:30 AM St. Michael, 9:00 AM St. Peter, 10:30 AM St. Michael (Live Stream), 8:30 AM St. Michael (from additional sources)",NA,8:35 AM St. Michael,"7:30 AM HGA Oratory, 6:00 PM St. Peter","8:35 AM St. Michael, 8:35 AM HGA Oratory (1st Thursday), 6:00 PM (1st Thursday)",7:30 AM St. Michael
+191,"4:00 PM, 6:00 PM at St. Thomas, Fortville","8:30 AM, 11:00 AM",NA,6:00 PM,6:00 PM,"12:00 PM at St. Thomas, Fortville",8:30 AM
+192,"{'Anticipation': '5:00 PM', 'Spanish': '11:30 AM'}","8:00 AM, 10:30 AM, 1:00 PM (Spanish), 3:00 PM (Spanish), 5:00 PM (French, 2nd Sunday of each month)",9:00 AM,6:00 PM,"9:00 AM, 6:00 PM",6:00 PM,9:00 AM
+193,4:30 PM,"8:30 AM, 10:30 AM, 12:30 PM, 5:30 PM, 9:00 PM",12:15 PM,9:00 PM,12:15 PM,9:00 PM,12:15 PM
+194,5:00 PM,11:00 AM,"11:45 AM, 5:00 PM",NA,11:45 AM,5:30 PM,NA
+195,NA,"10:00 A.M., 2:00 P.M. (4th Sunday of the month - Filipino Mass)",NA,NA,NA,NA,NA
+196,8:00 AM,10:30 AM,8:00 AM,8:00 AM,12:00 PM,8:00 AM,6:30 PM
+197,"5:00 PM, First Saturday of the Month 9:00 AM, Holyday Vigil: 6:30 PM, Holydays: 9:00 AM and 6:30 PM","8:00 AM, 9:30 AM, 11:00 AM, Syro-Malabar Mass 1st Sunday of the Month 12:45 PM, Burmese Mass 3rd Sunday of the Month 1:00 PM",NA,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+198,5:30 PM,"7:30 AM, 9:15 AM, 11:30 AM",NA,7:30 AM,6:00 PM,8:45 AM,7:30 AM
+199,5:30 PM,9:15 AM,NA,8:45 AM,8:45 AM,8:45 AM,8:45 AM
+200,5:00 PM,"9:30 AM, 10:30 AM, 6:00 PM",NA,NA,NA,NA,NA
+201,5:30 PM,"8:00 AM, 10:30 AM",NA,5:30 PM,8:15 AM,8:15 AM,8:15 AM
+202,5:30 PM,10:45 AM,NA,NA,9:30 AM,NA,9:30 AM
+203,6:00 PM,NA,6:00 PM,NA,NA,12:00 PM,NA
+204,"8:30 AM, 4:00 PM","8:00 AM, 10:00 AM, 10:30 AM, 12:15 PM, 5:00 PM",NA,NA,NA,NA,NA
+205,4:00 PM,"8:00 AM, 10:00 AM, 12:30 PM (Spanish), 5:00 PM",12:10 PM,12:10 PM,12:10 PM,12:10 PM,12:10 PM
+206,8:10 AM,"4:00 PM, 7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM, 4:00 PM, 5:30 PM, 1:30 PM","6:45 AM, 8:10 AM, 12:10 PM","6:45 AM, 8:10 AM, 12:10 PM, 7:15 AM","6:45 AM, 8:10 AM, 12:10 PM, 1:00 PM","6:45 AM, 8:10 AM, 12:10 PM, 7:00 PM, 7:15 AM","6:45 AM, 8:10 AM, 12:10 PM"
+207,5:00 PM,"7:30 AM, 9:00 AM, 11:30 AM",9:00 AM,9:00 AM,6:15 PM,9:00 AM,9:00 AM
+208,"{'English': '4:00 PM', 'Spanish': '7:00 PM'}","7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM",NA,NA,7:00 PM,7:00 PM,7:00 PM
+209,"5:00 PM, 7:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM",7:00 PM,NA,7:00 PM,NA,7:00 PM
+210,"4:30 PM Mystery of Repentance, 5:30 PM Vigil Divine Liturgy","9:00 AM – 9:30 AM Mystery of Repentance, 10:00 AM Divine Liturgy (Livestreamed)",NA,NA,NA,NA,NA
+211,"4:00 PM, 6:00 PM Spanish","9:00 AM, 11:00 AM, 1:00 PM Spanish",8:00 AM,7:00 PM Spanish,8:00 AM,NA,5:00 PM
+212,NA,NA,NA,NA,NA,NA,NA
+213,"{'Daily': '9:00 AM', 'Weekend': '5:00 PM'}","8:30 AM, 10:30 AM, 12:00 PM, 1:00 PM (Spanish), 5:00 PM",9:00 AM,9:00 AM,"{'English': '9:00 AM', 'Spanish': '7:00 PM'}",9:00 AM,9:00 AM
+214,NA,NA,NA,NA,NA,NA,NA
+215,{'Chinese': '10:00 AM'},"{'Chinese': '10:30 AM', 'English': '2:00 PM'}",{'English': '12:00 PM'},{'English': '12:00 PM'},{'Chinese': '12:00 PM'},{'English': 'NA'},{'English': '7:00 PM'}
+216,"8:30 AM, 5:00 PM","7:00 AM (Español), 8:30 AM, 10:00 AM, 11:30 AM, 1:00 PM (Español), 5:30 PM","8:30 AM, 6:00 PM","8:30 AM, 6:00 PM","8:30 AM, 6:00 PM","8:30 AM, 6:00 PM","8:30 AM, 6:00 PM"
+217,NA,NA,NA,NA,NA,NA,NA
+218,NA,NA,NA,NA,NA,NA,NA
+219,NA,NA,NA,NA,NA,NA,NA
+220,NA,"5:30 PM, 8:00 AM, 10:00 AM, 11:45 AM",NA,NA,NA,NA,NA
+221,5:00 PM,"8:30 AM, 9:00 AM, 11:00 AM, 5:00 PM",8:30 AM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+222,4:30 PM,11:00 AM,NA,NA,12:15 PM,NA,NA
+223,"{'Vespers': '4:00 PM', 'Vigil': '5:00 PM'}","{'English': '9:00 AM', 'Ukrainian': '10:30 AM'}",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+224,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM, 5:00 PM",NA,7:00 PM,7:00 PM,7:00 PM,7:00 PM
+225,"4:30 PM, 5:00 PM","8:00 AM, 10:30 AM",NA,NA,NA,NA,NA
+226,"9:00 AM (Daily Mass), 5:00 PM (Vigil Mass)","7:30 AM (English), 9:00 AM (English), 11:30 AM (English), 5:30 PM (English), 1:30 PM (Indonesian), 3:30 PM (Spanish)",NA,NA,NA,NA,NA
+227,5:30 PM,9:00 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM,NA
+228,NA,NA,NA,NA,NA,NA,NA
+229,"4:00 PM, 9:00 AM, 5:00 PM","7:30 AM, 9:30 AM, 12:00 PM, 2:30 PM (esp), 5:00 PM",9:00 AM,9:00 AM,"9:00 AM, 7:00 PM (eng)",9:00 AM,"9:00 AM, 7:00 PM (esp)"
+230,5:30 PM,"9:00 AM, 11:30 AM (Spanish)",9:00 AM,9:00 AM,9:00 AM,NA,9:00 AM
+231,5:00 PM,"8:30 AM, 11:00 AM, 4:00 PM (College Student Mass)",12:10 PM,NA,12:10 PM,NA,12:10 PM
+232,NA,9:00 AM,NA,NA,NA,NA,NA
+233,NA,"8:00 AM, 9:30 AM, 11:00 AM",NA,12:00 PM,7:00 AM,12:00 PM,12:00 PM
+234,NA,11:15 AM - 12:30 PM,NA,NA,NA,NA,NA
+235,6:00 PM,7:30 AM | 10:00 AM | 11:45 AM,NA,7:30 PM,10:00 AM,7:30 PM,10:00 AM
+236,NA,NA,NA,NA,NA,NA,NA
+237,5:00 PM,9:00 AM and 12:00 PM,9:00 AM,12:15 PM,12:15 PM,NA,9:00 AM
+238,"{'Regular': '9:00 AM', 'Vigil': '4:00 PM'}",11:00 AM,9:00 AM,9:00 AM,9:00 AM,NA,7:00 PM
+239,NA,9:00 AM,NA,NA,NA,NA,NA
+240,NA,NA,NA,NA,NA,NA,NA
+241,"5:00 PM, 9:00 AM","7:15 AM, 8:45 AM, 10:45 AM (Live Streamed), 12:30 PM, 5:00 PM (Teen Mass), 7:00 PM (Spanish - Live Streamed), 8:00 AM, 10:00 AM, 12:00 PM","9:00 AM (Live Streamed), 12:10 PM","9:00 AM (Live Streamed), 12:10 PM, 7:00 PM (Spanish)","9:00 AM (Live Streamed), 7:00 PM","9:00 AM (Live Streamed), 12:10 PM","9:00 AM (Live Streamed), 12:10 PM"
+242,Please see weekly bulletin,"8:00 AM (Spanish), 10:30 AM (English), 1:00 PM (Spanish)",12:00 PM (English),NO Mass,6:00 PM (Spanish),9:00 AM (English),12:00 PM (English)
+243,"5:00 PM, 7:00 PM (Spanish)","7:00 AM, 9:00 AM, 11:00 AM, 12:30 PM, 2:00 PM (Spanish), 5:00 PM",8:30 AM,"8:30 AM, 6:00 PM","8:30 AM, 7:00 PM (Spanish)","8:30 AM, 6:00 PM","8:30 AM, 6:00 PM"
+244,"9:00 AM, 5:00 PM","7:30 AM, 9:00 AM, 11:00 AM, 1:00 PM, 5:00 PM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM"
+245,4:00 PM,"{'Spanish': '8:00 AM', 'English': '10:00 AM'}",10:00 AM,6:30 PM,10:00 AM,10:00 AM,10:00 AM
+246,"8:30 AM, 4:30 PM","7:30 AM, 10:00 AM, 12:15 PM, 2:00 PM Español, 4:30 PM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM"
+247,4:30 PM,"8:00 AM, 10:30 AM, 12:30 PM (Español), 5:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+248,"5:00 PM, 7:00 PM","8:00 AM, 10:00 AM, 12:00 PM",12:15 PM,12:15 PM,12:15 PM,12:15 PM,"12:15 PM, 7:00 PM"
+249,"7:00 AM, 9:00 AM","8:00 AM Low Mass, 10:30 AM High Mass, 1:00 PM Low Mass","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 7:00 PM"
+250,5:00 PM,"8:00 AM, 10:30 AM",9:00 AM,9:00 AM,9:00 AM,NA,9:00 AM
+251,NA,"4:00 PM, 8:00 AM, 10:00 AM, 12:30 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,NA
+252,"9:00 AM (Bilingual English and Spanish), 5:00 PM (English)",10:00 AM (Bilingual English and Spanish),"9:00 AM, 6:00 PM",NA,7:00 PM,7:00 PM (Spanish),"9:00 AM (English), 6:00 PM (English)"
+253,NA,NA,NA,NA,NA,NA,NA
+254,4:00 PM,"8:30 AM, 11:00 AM, 5:00 PM",8:30 AM,8:30 AM,"8:30 AM, 6:30 PM",8:30 AM,8:30 AM
+255,"{'Confessions': '5:30 PM', 'Great Vespers': '6:00 PM'}","{'Orthros': '10:00 AM', 'Divine Liturgy': '10:30 AM'}",NA,NA,{'Paraklesis Service': '7:00 PM'},NA,NA
+256,"4:30 PM (English), 6:00 PM (Español)","7:00 AM (Spanish), 9:00 AM (Spanish), 11:00 AM (Spanish), 1:00 PM (Spanish), 3:00 PM (Spanish), 5:00 PM (Spanish)",NA,"8:00 AM (Spanish), 9:00 AM (English)","8:00 AM (Spanish), 9:00 AM (English)","8:00 AM (Spanish), 9:00 AM (English), 6:00 PM (Spanish)","8:00 AM (Spanish), 9:00 AM (English), 6:00 PM (Spanish)"
+257,4:00 PM,"9:00 AM, 12:00 PM Spanish, 4:00 PM Spanish",NA,NA,7:00 PM Spanish,NA,NA
+258,NA,NA,NA,NA,NA,NA,NA
+259,"5:30 PM, 7:30 PM (Spanish)","8:00 AM, 9:30 AM (Spanish), 11:00 AM, 2:00 PM (Spanish), 5:00 PM",8:00 AM,8:00 AM,"8:00 AM, 6:30 PM (Spanish)",8:00 AM,8:00 AM
+260,"5:30 PM (English), 7:30 PM (Spanish), 9:00 AM (English)","7:30 AM (Spanish), 9:30 AM (English), 11:30 AM (Spanish), 2:00 PM (Spanish), 6:00 PM (Spanish)","9:00 AM (English), 7:30 PM (Spanish)",9:00 AM (English),"9:00 AM (English), 7:30 PM (Spanish)",9:00 AM (English),"9:00 AM (English), 7:30 PM (Spanish)"
+261,"5:00 PM Vigil, 7:00 PM Vigilia","7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM Misa en Español, 3:00 PM Misa en Español, 5:30 PM Life Teen Mass",NA,NA,NA,NA,NA
+262,"8:30 AM, 5:00 PM","7:30 AM, 8:30 AM, 10:00 AM, 11:30 AM, 1:00 PM Spanish, 5:00 PM, 6:30 PM Brazilian Mass","7:30 AM, 12:00 PM","7:30 AM, 12:00 PM","7:30 AM, 12:00 PM","7:30 AM, 12:00 PM","7:30 AM, 12:00 PM"
+263,5:00 PM,"8:00 AM, 10:00 AM, 12:30 PM, 2:30 PM (Spanish), 5:00 PM (Spanish)",NA,NA,NA,NA,NA
+264,5:00 PM,"8:00 AM, 10:45 AM, 7:15 AM, 10:00 AM",8:00 AM,8:00 AM,6:00 PM,8:00 AM,12:00 PM
+265,5:30 PM,"8:30 AM, 11:00 AM, 1:00 PM (Polish Mass), 4:00 PM (French/Creole Mass)",8:30 AM,8:30 AM,5:30 PM,8:30 AM,8:30 AM
+266,"4:00 PM Vigil at St. Mark’s, 6:00 PM at St. Mark’s (NCW), 6:00 PM Vigil at St. Dominic’s (Spanish), 7:30 PM at St. Dominic’s (NCW)","9:00 AM at St. Mark’s, 11:00 AM at St. Mark’s (Spanish)",NA,"9:00 AM at St. Mark’s, 6:00 PM at St. Dominic’s (Spanish)",9:00 AM at St. Mark’s,6:30 PM at St. Mark’s (Spanish),9:00 AM at St. Mark’s
+267,"4:00 PM English, 5:45 PM Español","9:00 AM English, 10:30 AM English (choir), 12:30 PM Español, 2:30 PM Español",12:00 PM,12:00 PM,2:00 PM @ St. Mary's School,12:00 PM,"12:00 PM English, 7:00 PM Español"
+268,5:00 PM,"8:30 AM (Divine Mercy Chaplet @8 AM), 12:00 PM Vietnamese",6:00 PM Bilingual,9:00 AM,6:00 PM Bilingual,9:00 AM,9:00 AM
+269,5:00 PM,"9:00 AM, 12:00 PM",9:30 AM,9:30 AM (Communion Service),7:00 PM,9:30 AM,9:30 AM
+270,NA,NA,NA,NA,NA,NA,NA
+271,"4:30 PM English, 6:30 PM Spanish","7:30 AM English, 9:00 AM Spanish, 11:00 AM English, 1:00 PM Spanish, 3:00 PM Vietnamese, 5:00 PM Youth Mass Bi-lingual",12:00 PM English,12:00 PM English,12:00 PM English,"9:00 AM English, 6:00 PM Spanish",9:00 AM English
+272,"9:00 AM, 4:00 PM","8:00 AM, 10:45 AM, 12:45 PM, 4:00 PM","9:00 AM, 6:30 PM","9:00 AM, 6:30 PM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM"
+273,5:00 PM,"8:00 AM, 9:30 AM, 11:15 AM, 1:15 PM in Spanish, 5:00 PM","{'Monday': '9:00 AM', 'Tuesday': '9:00 AM', 'Wednesday': ['9:00 AM', '7:30 PM in Spanish'], 'Thursday': '9:00 AM', 'Friday': '9:00 AM', 'Saturday': '9:00 AM'}","{'Monday': '9:00 AM', 'Tuesday': '9:00 AM', 'Wednesday': ['9:00 AM', '7:30 PM in Spanish'], 'Thursday': '9:00 AM', 'Friday': '9:00 AM', 'Saturday': '9:00 AM'}","{'Monday': '9:00 AM', 'Tuesday': '9:00 AM', 'Wednesday': ['9:00 AM', '7:30 PM in Spanish'], 'Thursday': '9:00 AM', 'Friday': '9:00 AM', 'Saturday': '9:00 AM'}","{'Monday': '9:00 AM', 'Tuesday': '9:00 AM', 'Wednesday': ['9:00 AM', '7:30 PM in Spanish'], 'Thursday': '9:00 AM', 'Friday': '9:00 AM', 'Saturday': '9:00 AM'}","{'Monday': '9:00 AM', 'Tuesday': '9:00 AM', 'Wednesday': ['9:00 AM', '7:30 PM in Spanish'], 'Thursday': '9:00 AM', 'Friday': '9:00 AM', 'Saturday': '9:00 AM'}"
+274,"9:00 AM, 5:00 PM (Vigil), 6:00 AM","10:00 AM, 12:00 PM",9:00 AM,"9:00 AM, 7:00 PM","9:00 AM, 7:00 PM","9:00 AM, 7:00 PM",9:00 AM
+275,5:00 PM,"8:00 AM, 10:00 AM, 12:30 PM","{'Tuesday': '12:15 PM', 'Wednesday': '7:00 PM', 'Thursday': '12:15 PM', 'Friday': '12:15 PM'}","{'Tuesday': '12:15 PM', 'Wednesday': '7:00 PM', 'Thursday': '12:15 PM', 'Friday': '12:15 PM'}","{'Tuesday': '12:15 PM', 'Wednesday': '7:00 PM', 'Thursday': '12:15 PM', 'Friday': '12:15 PM'}","{'Tuesday': '12:15 PM', 'Wednesday': '7:00 PM', 'Thursday': '12:15 PM', 'Friday': '12:15 PM'}","{'Tuesday': '12:15 PM', 'Wednesday': '7:00 PM', 'Thursday': '12:15 PM', 'Friday': '12:15 PM'}"
+276,NA,NA,NA,NA,NA,NA,NA
+277,4:30 PM,"7:30 AM, 9:00 AM, 10:45 AM, 12:15 PM, 5:00 PM","['6:45 AM', '8:30 AM', '12:00 PM on Friday', '8:30 AM on Saturday']","['6:45 AM', '8:30 AM', '12:00 PM on Friday', '8:30 AM on Saturday']","['6:45 AM', '8:30 AM', '12:00 PM on Friday', '8:30 AM on Saturday']","['6:45 AM', '8:30 AM', '12:00 PM on Friday', '8:30 AM on Saturday']","['6:45 AM', '8:30 AM', '12:00 PM on Friday', '8:30 AM on Saturday']"
+278,5:30 PM,"{'English': '10:00 AM', 'Spanish': '12:30 PM'}",NA,NA,NA,NA,NA
+279,NA,NA,NA,NA,NA,NA,NA
+280,5:00 PM,"8:30 AM, 11:00 AM, 1:00 PM, 5:00 PM","8:30 AM, 6:30 PM",8:30 AM (Communion Service),"8:30 AM, 6:30 PM",8:30 AM,"8:30 AM, 11:30 AM"
+281,"5:00 PM English, 7:00 PM Spanish","7:00 AM Spanish, 9:00 AM English, 11:00 AM English, 1:00 PM Spanish",9:00 AM English,9:00 AM English,9:00 AM English,9:00 AM English,9:00 AM English
+282,"{'Vigil': {'English': ['5:00 PM'], 'Spanish': ['7:00 PM']}}","{'English': ['8:00 AM', '10:00 AM (Livestream)', '12:00 PM', '5:00 PM'], 'Spanish': ['2:00 PM (Livestream)']}","{'English': ['12:00 PM'], 'Spanish': ['7:00 PM (December 9)']}",{'English': ['12:00 PM']},"{'English': ['12:00 PM (Seniors Mass)'], 'Spanish': ['8:00 PM (December 11)']}","{'English': ['12:00 PM'], 'Spanish': ['7:00 PM']}",{'English': ['12:00 PM']}
+283,4:30 PM,"7:45 AM, 9:30 AM, 11:30 AM, 5:00 PM",12:00 PM,12:00 PM,"9:00 AM, 7:00 PM",12:00 PM,12:00 PM
+284,4:00 PM,"9:00 AM, 12:00 PM, 3:00 PM",NA,NA,NA,NA,NA
+285,"{'Confessions': '4:30 PM', 'VigilMass': '5:00 PM'}","8:30 AM, 11:30 AM, 1:30 PM (Haitian Creole)",NA,NA,9:00 AM,NA,9:00 AM
+286,9:00 AM - In Person,"8:30 AM, 10:00 AM, 11:00 AM - In Person / Online",NA,NA,12:10 PM - In Person,12:10 PM - In Person,"12:10 PM - In Person, 12:00 PM"
+287,NA,"7:45 AM, 9:30 AM, 11:30 AM, 2:00 PM (Español), 5:00 PM",NA,6:30 PM (Español),6:30 PM,6:30 PM,NA
+288,5:00 PM,"9:30 AM, 11:30 AM",7:00 AM (Monday – Friday),7:00 AM (Monday – Friday),7:00 AM (Monday – Friday),7:00 AM (Monday – Friday),7:00 AM (Monday – Friday)
+289,5:00 PM,"8:00 AM, 10:30 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+290,NA,"8:00 AM, 12:00 PM",NA,NA,9:00 AM,9:00 AM,NA
+291,"{'Vigil': '5:00 PM', 'Daily': '8:15 AM'}","8:00 AM, 11:00 AM",8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+292,4:00 PM,"8:00 AM, 9:30 AM, 10:00 AM, 12:00 PM (Spanish)",NA,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+293,4:00 PM,"8:30 AM, 10:30 AM, 7:45 AM, 11:45 AM",8:15 AM (Communion Service),8:15 AM,8:15 AM,8:15 AM,8:15 AM
+294,4:00 PM,"8:30 AM, 11:00 AM",8:00 AM,12:00 PM,6:30 PM,8:00 AM,8:00 AM
+295,NA,NA,NA,NA,NA,NA,NA
+296,NA,"8:30 AM, 11:00 AM",NA,NA,NA,NA,NA
+297,5:30 PM,"9:30 AM, 12:00 PM, 5:30 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+298,"8:30 AM, 4:30 PM","8:30 AM, 10:30 AM, 2:00 PM",8:30 AM,5:30 PM,NA,5:30 PM,8:30 AM
+299,5:30 PM,"9:00 AM, 12:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+300,"{""Time"": ""4:00 PM"", ""Location"": ""St. Therese""}, {""Time"": ""5:30 PM"", ""Location"": ""Our Mother of Sorrows""}","{""Time"": ""9:00 AM"", ""Location"": ""St. Elizabeth""}, {""Time"": ""10:30 AM"", ""Location"": ""Our Mother of Sorrows""}, {""Time"": ""7:00 PM"", ""Location"": ""St. Elizabeth""}",NA,"{""Time"": ""8:00 AM"", ""Location"": ""Our Mother of Sorrows""}","{""Time"": ""8:00 AM"", ""Location"": ""Our Mother of Sorrows""}","{""Time"": ""8:00 AM"", ""Location"": ""Our Mother of Sorrows""}, {""Time"": ""5:30 PM"", ""Location"": ""St. Therese""}","{""Time"": ""8:00 AM"", ""Location"": ""Our Mother of Sorrows""}"
+301,5:30 PM,8:30 AM & 11:30 PM,8:30 AM,NA,8:30 AM,NA,8:30 AM
+302,4:30 PM,10:00 AM,No Mass,5:30 PM,5:30 PM,5:30 PM,5:30 PM
+303,5:00 PM,"9:00 AM, 11:00 AM",NA,8:30 AM,NA,NA,8:30 AM
+304,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+305,NA,8:30 AM,NA,NA,NA,8:30 AM,8:30 AM
+306,"3:00 PM, 4:00 PM","9:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+307,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 3:00 PM (Mass in Spanish)",6:00 PM,8:00 AM,"8:00 AM, All School Mass at 8:00 AM (when in session)",8:00 AM,8:00 AM
+308,NA,8:00 AM,NA,NA,6:30 PM,NA,NA
+309,4:30 PM,"9:00 AM, 10:30 AM",8:15 AM,6:00 PM,8:15 AM,8:15 AM,8:15 AM
+310,4:00 PM,10:00 AM,NA,11:00 AM,11:00 AM,11:00 AM,11:00 AM
+311,NA,NA,NA,NA,NA,NA,NA
+312,4:00 PM,"{'English': '9:30 AM', 'Spanish': '12:00 PM'}",11:30 AM,11:30 AM,11:30 AM,11:30 AM,NA
+313,NA,NA,"{'Tuesday': '8:15 AM', 'Wednesday': '8:15 AM', 'Thursday': '8:15 AM (Notre Dame Students Only)', 'Friday': '8:15 AM'}","{'Tuesday': '8:15 AM', 'Wednesday': '8:15 AM', 'Thursday': '8:15 AM (Notre Dame Students Only)', 'Friday': '8:15 AM'}","{'Tuesday': '8:15 AM', 'Wednesday': '8:15 AM', 'Thursday': '8:15 AM (Notre Dame Students Only)', 'Friday': '8:15 AM'}","{'Tuesday': '8:15 AM', 'Wednesday': '8:15 AM', 'Thursday': '8:15 AM (Notre Dame Students Only)', 'Friday': '8:15 AM'}","{'Tuesday': '8:15 AM', 'Wednesday': '8:15 AM', 'Thursday': '8:15 AM (Notre Dame Students Only)', 'Friday': '8:15 AM'}"
+314,4:00 PM,10:00 AM,NA,8:00 AM,NA,NA,8:00 AM
+315,"8:15 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 5:00 PM","['7:00 AM (Communion Service)', '8:15 AM', '12:00 PM']","['7:00 AM (Communion Service)', '8:15 AM', '12:00 PM']","['7:00 AM (Communion Service)', '8:15 AM', '12:00 PM']","['7:00 AM (Communion Service)', '8:15 AM', '12:00 PM']","['7:00 AM (Communion Service)', '8:15 AM', '12:00 PM']"
+316,4:00 PM,"8:30 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+317,NA,11:00 AM,NA,NA,NA,NA,NA
+318,"{'January to June': '6:00 PM at St. Mary', 'July to December': '6:00 PM at St. Theresa'}","{'St. Mary': '8:30 AM', 'St. Theresa': '10:30 AM'}",8:30 AM,NA,6:30 PM,NA,NA
+319,NA,NA,NA,NA,NA,NA,NA
+320,NA,9:00 AM,NA,12:00 PM,9:00 AM,NA,NA
+321,4:30 PM,7:30 AM | 9:30 AM | 11:30 AM,12:00 PM,12:00 PM,12:00 PM,NA,12:00 PM
+322,04:00 PM,NA,05:30 PM,05:30 PM,NA,NA,NA
+323,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+324,"4:00 PM, 8:30 AM, 10:30 AM","8:30 AM, 10:30 AM, 12:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,"8:30 AM, 10:30 AM, 12:00 PM"
+325,5:00 PM,"9:30 AM, 11:00 AM, 1:00 PM",12:00 PM,NA,NA,8:00 AM,NA
+326,8:30 AM,"4:00 PM, 8:00 AM, 11:30 AM, 7:00 PM",8:30 AM,8:30 AM,5:30 PM,8:30 AM,8:30 AM
+327,04:00 PM,11:00 AM,NA,NA,NA,NA,NA
+328,"{'January to June': '6:00 PM at St. Mary', 'July to December': '6:00 PM at St. Theresa'}","{'St. Mary': '8:30 AM', 'St. Theresa': '10:30 AM'}",NA,8:30 AM,NA,8:30 AM,NA
+329,NA,9:00 AM,NA,NA,NA,NA,NA
+330,4:00 PM - Maynard Campus,"9:00 AM, 11:00 AM - Sudbury Campus",5:30 PM - Sudbury Campus,12:10 PM - Maynard Campus,12:10 PM - Sudbury Campus,NA,NA
+331,4:00 PM,"8:00 AM, 10:00 AM",NA,NA,NA,NA,NA
+332,4:00 PM,"8:30 AM, 10:30 AM",8:00 AM,8:00 AM,NA,8:00 AM,8:00 AM
+333,12:05 PM,5:30 PM (Vigil),NA,12:05 PM,12:05 PM,12:05 PM,12:05 PM
+334,"{'Vigil': {'CTK': '4:00 PM', 'OLOL': '4:00 PM', 'SES': '4:30 PM'}, 'Daily': '9:00 AM'}","{'CTK': ['9:00 AM', '12:00 PM'], 'OLOL': ['8:00 AM', '11:00 AM'], 'SES': ['8:00 AM', '10:30 AM', '1:00 PM']}",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+335,4:00 PM,"8:00 AM, 10:00 AM",8:00 AM,8:00 AM,8:00 AM,NA,NA
+336,"{'Vigil': ['4:00 PM at St. Mary', '4:00 PM at Sacred Heart']}","9:00 AM at St. Ann, 11:00 AM at St. Ann, 8:00 AM at St. Mary, 10:00 AM at Sacred Heart, 6:00 PM at Sacred Heart, 12:00 PM Kenyan Mass in Swahili (except 1st Sunday of the month)",NA,NA,NA,NA,NA
+337,"{'Vigil': ['4:00 PM at Gate of Heaven Church', '4:30 PM at St. Augustine Chapel']}","8:00 AM at St Brigid Church, 9:00 AM at Gate of Heaven Church, 10:30 AM at St. Brigid Church, 12:00 PM at Gate of Heaven Church, 6:00 PM at St. Brigid Church (September - June 8, 2025)","7:00 AM at St. Brigid Church, 9:00 AM at Gate of Heaven Church","7:00 AM at St. Brigid Church, 9:00 AM at Gate of Heaven Church","7:00 AM at St. Brigid Church, 9:00 AM at Gate of Heaven Church","7:00 AM at St. Brigid Church, 9:00 AM at Gate of Heaven Church","7:00 AM at St. Brigid Church, 9:00 AM at Gate of Heaven Church"
+338,4:00 PM,"{'St. Zepherin Church': '5:30 PM', 'St. Ann Church': '10:30 AM'}",NA,NA,NA,NA,NA
+339,4:00 PM,"7:30 AM, 10:30 AM, 5:00 PM",NA,NA,6:00 PM,NA,NA
+340,NA,NA,NA,NA,NA,NA,NA
+341,9:00 AM,NA,NA,NA,NA,NA,12:00 PM
+342,NA,9:00 AM,NA,NA,NA,NA,NA
+343,"4:00 PM in Saint Ann Church, 6:00 PM in Our Lady of Good Voyage Church, 8:00 AM in Our Lady of Good Voyage Church, 11:30 AM on Second Saturday, 11:30 AM on Third Saturday","7:00 AM in Our Lady of Good Voyage Church, 8:15 AM in Saint Ann Church, 10:00 AM in Saint Joachim Church, 11:45 AM in Our Lady of Good Voyage Church","8:00 AM in Saint Joachim Church, 12:00 PM in Saint Ann Church, 5:30 PM in Our Lady of Good Voyage Church",No Masses Scheduled,5:30 PM in Our Lady of Good Voyage Church,8:00 AM in Our Lady of Good Voyage Church,8:00 AM in Our Lady of Good Voyage Church
+344,NA,NA,NA,NA,NA,NA,NA
+345,NA,NA,NA,NA,NA,NA,NA
+346,4:00 PM (3rd Saturday of each month),"9:00 AM, 12:00 PM",NA,9:00 AM,NA,9:00 AM,NA
+347,"4:00 PM @ IC, 4:00 PM @ HR (alternates monthly between Nativity & St. Ann)","8:30 AM @ Nativity, 9:00 AM @ IC, 10:00 AM @ St. Ann, 11:30 AM @ IC",NA,NA,NA,NA,NA
+348,"{'Mass': '9:00 AM', 'Vigil': '4:00 PM'}","{'English': '10:00 AM', 'Spanish': '12:00 PM'}",12:05 PM,12:05 PM,12:05 PM,7:00 PM,12:05 PM
+349,"{""Time"": ""4:00 PM"", ""Intentions"": ""sp. Mary Oczkowski from Jane Oczkowski sp. Stanis\u0142awa, Grzegorz, Lucyna, Eugeniusz Wierszycki from Matusiak and Ganko Families sp. Michael Janeiro, Sr. from Sue and Brian Dussault sp. Gerald Clark from Darlene Clark""}, {""Time"": ""4:00 PM"", ""Intentions"": ""sp. Maria Valente from Frank Panek sp. Mary Stepien from Family sp. Maryellen and Michael Sweeney from Marcia and Michael Crowley sp. Phillip Hatch from Mark Hatch""}","{""Time"": ""9:00 AM"", ""Intentions"": ""sp. Marianna Modzelewska from Basia, Jack and Mike sp. Andrzej Ciuksa""}, {""Time"": ""9:00 AM"", ""Intentions"": ""sp. Msgr. Stanis\u0142aw Kempa""}",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+350,"4:30 PM, 6:00 PM","8:30 AM, 10:30 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+351,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+352,"4:00 PM, 8:00 AM (Lower Chapel)","7:00 AM, 9:00 AM, 11:00 AM, 5:00 PM",6:30 AM,6:30 AM,6:30 AM,6:30 AM,6:30 AM
+353,4:00 P.M.,"{'English': ['7:30 A.M.', '11:00 A.M.', '5:00 P.M.'], 'Spanish': '1:00 P.M.', 'Portuguese': '9:00 A.M.'}",NA,7:30 A.M.,NA,NA,NA
+354,"09:00 AM - English (Religious Education), 04:00 PM - English (Sunday Liturgy), 06:00 PM - Neocatechumenate","08:30 AM - Português, 10:30 AM - English, 12:30 PM - Español, 06:00 PM - Español",09:00 AM - English (St. Jude novena),07:30 AM - English,"07:30 AM - English, 07:00 PM - Español",07:30 AM - English,"07:30 AM - English, 07:00 PM - Español"
+355,"4:00 PM Immaculate Conception, 5:00 PM St. James, 7:00 PM Immaculate Conception (Portuguese)","7:30 AM Immaculate Conception, 9:00 AM St. James, 9:00 AM Immaculate Conception (Portuguese), 11:00 AM Immaculate Conception, 6:30 PM Immaculate Conception (Portuguese)","9:00 AM Immaculate Conception, 7:00 PM Immaculate Conception (Portuguese)",8:00 AM (Portuguese),"9:00 AM Immaculate Conception, 6:30 PM St. James","7:00 AM St. James, 8:00 AM Immaculate Conception (Portuguese), 7:00 PM Immaculate Conception (Portuguese)",9:00 AM Immaculate Conception
+356,4:30 PM,9:30 AM,NA,NA,NA,8:00 AM,8:00 AM
+357,NA,NA,NA,NA,NA,NA,NA
+358,"09:00 AM, 5:00 PM, 7:00 PM","09:00 AM, 7:30 AM, 12:30 PM, 9:30 AM",NA,"09:00 AM, 6:30 PM - Santo Rosario, 7:00 PM - Eucaristia, 8:00 PM","09:00 AM, 6:30 PM - Santo Rosario, 7:00 PM - Eucaristia","09:00 AM, 6:30 PM - Santo Rosario, 7:00 PM - Eucaristía y Adoración, 7:30 PM","09:00 AM, 7:30 PM, 6:30 PM - Santo Rosario, 7:00 PM - Eucaristía (Sagrado Corazón de Jesús)"
+359,9:00 AM (Traditional Latin),"4:00 PM (Saturday Vigil), 7:30 AM, 9:00 AM, 11:00 AM (Traditional Latin), 5:30 PM (Traditional Latin)",NA,NA,NA,NA,NA
+360,NA,"9:00 AM, 11:30 AM, 5:00 PM",8:00 AM,"8:00 AM, 7:00 PM",8:00 AM,NA,8:00 AM
+361,NA,NA,NA,NA,NA,NA,NA
+362,7:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 7:00 PM",NA,NA,NA,NA,NA
+363,NA,"{'St. Anne': '4:00 PM (Saturday vigil), 7:30 AM', 'St. Pius X': '4:00 PM (Saturday vigil), 10:30 AM', 'Most Precious Blood': '9:00 AM English, 5:00 PM Haitian Creole'}",NA,NA,NA,NA,NA
+364,"{""Time"": ""4:00 PM"", ""Language"": ""English"", ""Parish"": ""Saint Theresa Parish""}, {""Time"": ""5:30 PM"", ""Language"": ""English"", ""Parish"": ""Most Precious Blood Parish""}","{""Time"": ""9:00 AM"", ""Language"": ""English"", ""Parish"": ""Most Precious Blood Parish""}, {""Time"": ""10:30 AM"", ""Language"": ""English"", ""Parish"": ""Saint Theresa Parish""}",NA,"{""Time"": ""9:00 AM"", ""Language"": ""English"", ""Parish"": ""Saint Theresa Parish""}","{""Time"": ""9:00 AM"", ""Language"": ""English"", ""Parish"": ""Most Precious Blood Parish""}","{""Time"": ""9:00 AM"", ""Language"": ""English"", ""Parish"": ""Saint Theresa Parish""}","{""Time"": ""9:00 AM"", ""Language"": ""English"", ""Parish"": ""Most Precious Blood Parish""}"
+365,4:00 PM,"9:00 AM, 11:00 AM",8:30 AM,8:30 AM,NA,NA,8:30 AM
+366,"8:30 AM (po polsku), 4:00 PM (po angielsku), 7:00 PM (po polsku)","8:00 AM (po polsku), 9:30 AM (po angielsku), 11:00 AM (po polsku)",NA,NA,NA,NA,NA
+367,NA,NA,NA,NA,NA,NA,NA
+368,5:00 PM,"9:00 AM, 11:30 AM",9:00 AM,NA,NA,NA,6:00 PM
+369,"{'St. Joseph': '4:00 PM', 'St. John the Evangelist': '5:30 PM'}","{'St. James': '7:30 AM', 'St. John the Evangelist': '9:00 AM', 'St. Joseph': '11:00 AM'}","{'Monday': '8:30 AM at St. John the Evangelist', 'Tuesday': '8:30 AM at St. Joseph', 'Wednesday': '12:05 PM at St. John the Evangelist', 'Thursday': '8:30 AM at St. James', 'Friday': '12:05 PM at St. Joseph'}","{'Monday': '8:30 AM at St. John the Evangelist', 'Tuesday': '8:30 AM at St. Joseph', 'Wednesday': '12:05 PM at St. John the Evangelist', 'Thursday': '8:30 AM at St. James', 'Friday': '12:05 PM at St. Joseph'}","{'Monday': '8:30 AM at St. John the Evangelist', 'Tuesday': '8:30 AM at St. Joseph', 'Wednesday': '12:05 PM at St. John the Evangelist', 'Thursday': '8:30 AM at St. James', 'Friday': '12:05 PM at St. Joseph'}","{'Monday': '8:30 AM at St. John the Evangelist', 'Tuesday': '8:30 AM at St. Joseph', 'Wednesday': '12:05 PM at St. John the Evangelist', 'Thursday': '8:30 AM at St. James', 'Friday': '12:05 PM at St. Joseph'}","{'Monday': '8:30 AM at St. John the Evangelist', 'Tuesday': '8:30 AM at St. Joseph', 'Wednesday': '12:05 PM at St. John the Evangelist', 'Thursday': '8:30 AM at St. James', 'Friday': '12:05 PM at St. Joseph'}"
+370,4:00 PM,"{'Saint Paul': ['7:30 AM', '9:30 AM'], 'Our Lady of Hope': '11:15 AM'}",NA,NA,NA,NA,NA
+371,NA,NA,NA,NA,NA,NA,NA
+372,4:00 PM,"7:00 AM (multilingual), 9:00 AM (FRENCH), 11:00 AM (ENGLISH), 1:00 PM (Haitian Creole/French)","['9:00 AM Daily in Haitian/Creole & French', 'Wednesdays: 9:00 AM (ENGLISH), 5:00 PM (Haitian Creole/French)']","['9:00 AM Daily in Haitian/Creole & French', 'Wednesdays: 9:00 AM (ENGLISH), 5:00 PM (Haitian Creole/French)']","['9:00 AM Daily in Haitian/Creole & French', 'Wednesdays: 9:00 AM (ENGLISH), 5:00 PM (Haitian Creole/French)']","['9:00 AM Daily in Haitian/Creole & French', 'Wednesdays: 9:00 AM (ENGLISH), 5:00 PM (Haitian Creole/French)']","['9:00 AM Daily in Haitian/Creole & French', 'Wednesdays: 9:00 AM (ENGLISH), 5:00 PM (Haitian Creole/French)']"
+373,NA,NA,NA,NA,NA,NA,NA
+374,4:30 PM,"7:30 AM, 8:45 AM, 11:00 AM",NA,NA,"7:00 AM, 9:00 AM",9:00 AM,9:00 AM
+375,NA,9:00 AM,NA,NA,NA,NA,NA
+376,"6:30 PM, 8:30 PM","10:00 AM, 12:00 PM, 12:30 PM, 6:00 PM",['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM']
+377,4:00 PM,"7:30 AM, 9:30 AM, 5:30 PM",NA,NA,NA,NA,NA
+378,4:00 PM,"7:30 AM, 9:00 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+379,5:00 PM,"10:00 AM, 6:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+380,NA,NA,NA,NA,NA,NA,NA
+381,4:00 PM,"{'8:30 AM': 'English', '10:00 AM': 'English'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+382,"4:00 PM in English - Lower Church, 7:00 PM in Spanish - Lower Church","8:00 AM in English - Lower Church, 10:00 AM in English - Upper Church, 12:00 PM in Spanish - Upper Church, 5:15 PM in English - Lower Church",NA,NA,NA,NA,NA
+383,NA,10:00 AM,9:00 AM,9:00 AM,NA,NA,9:00 AM
+384,"8:00 AM, 4:00 PM","7:30 AM, 10:00 AM",7:30 AM,7:00 PM,7:30 AM,7:30 AM,7:30 AM
+385,NA,NA,NA,NA,NA,NA,NA
+386,4:00 PM,"8:30 AM, 10:00 AM, 12:00 PM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM",9:00 AM (Only when announced),"7:00 AM, 9:00 AM"
+387,"4:00 PM - Saint Agnes, 5:30 PM - Saint Rose","8:00 AM - Saint Rose, 9:30 AM - Saint Rose, 11:00 AM - Saint Agnes, 6:00 PM - Saint Rose",NA,NA,NA,NA,9:00 AM - Saint Rose
+388,4:00 PM,"7:30 AM, 9:30 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+389,NA,NA,9:00 AM,NA,NA,NA,NA
+390,9:00 AM,"8:00 AM, 11:30 AM, 6:15 PM",NA,NA,NA,9:00 AM,NA
+391,4:00 PM,"9:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,NA,NA
+392,4:00 PM,"7:00 AM, 10:00 AM, 11:30 AM, 4:00 PM","6:00 AM, 7:00 AM, 12:05 PM","6:00 AM, 7:00 AM, 12:05 PM","6:00 AM, 7:00 AM, 12:05 PM","6:00 AM, 7:00 AM, 12:05 PM, 5:15 PM","6:00 AM, 7:00 AM, 12:05 PM"
+393,5:30 PM (Bilingual),"{'English': '9:15 AM', 'Portuguese': '10:30 AM'}",NA,6:00 PM (Bilingual),NA,NA,NA
+394,4:00 PM,"7:30 AM, 11:00 AM, 9:30 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+395,4:00 PM,"9:30 AM, 11:00 AM",NA,10:30 AM,NA,7:30 PM,NA
+396,NA,10:30 AM,NA,NA,NA,NA,NA
+397,4:00 PM,"8:00 AM, 9:30 AM, 10:00 AM (St. Joseph Church), 11:30 AM, 5:30 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+398,"4:00 PM, 6:00 PM","9:00 AM, 11:00 AM, 1:00 PM",7:00 PM,7:00 PM,7:00 PM,7:00 PM,7:00 PM
+399,4:00 PM,"{'Vietnamese': '9:00 AM', 'English': '11:00 AM'}",NA,NA,"{'English': '9:00 AM', 'Vietnamese': '6:30 PM'}",9:00 AM,"{'English': '9:00 AM', 'Vietnamese': '6:30 PM'}"
+400,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,NA
+401,"5:00 PM, 10:00 AM, 11:30 AM","8:00 AM, 9:30 AM, 11:30 AM, 6:00 PM, 1:30 PM",NA,NA,8:00 AM,8:00 AM,8:00 AM
+402,5:00 PM,"7:00 AM, 9:30 AM, 11:00 AM",NA,NA,NA,NA,NA
+403,"{'St Francis of Assisi': '5:30 PM', 'St Clare': '4:00 PM'}","{'St Francis of Assisi': '9:00 AM, 11:30 AM', 'St Clare': '7:45 AM, 10:15 AM, 6:00 PM'}","{'St Francis of Assisi': '7:00 AM', 'St Clare': '8:00 AM'}",NA,NA,NA,"{'St Francis of Assisi': '7:00 AM', 'St Clare': 'NA'}"
+404,11:00 AM,"11:00 AM, 8:00 PM",NA,NA,NA,NA,NA
+405,"7:00 AM, 4:00 PM","8:00 AM, 10:00 AM, 12:00 PM (Spanish), 5:00 PM","7:00 AM, 9:00 AM, 5:30 PM, 7:00 PM Spanish",7:00 AM,7:00 AM,7:00 AM,"7:00 AM, 7:00 PM (Spanish)"
+406,NA,NA,NA,NA,NA,NA,NA
+407,"9:00 AM, 12:00 PM, 4:00 PM, 5:30 PM en español","8:00 AM, 9:15 AM, 10:30 AM, 11:45 AM, 1:15 PM en español, 4:00 PM, 5:30 PM","8:00 AM, 12:05 PM, 4:45 PM","8:00 AM, 12:05 PM, 4:45 PM","8:00 AM, 12:05 PM, 4:45 PM","8:00 AM, 12:05 PM, 4:45 PM","8:00 AM, 12:05 PM, 4:45 PM"
+408,"4:00 PM - St Mary, 4:00 PM - St Francis, 3:30 PM - St Mary (Christmas Eve)","8:00 AM - St Mary, 9:30 AM - St Francis, 11:00 AM - St Mary, 6:00 PM - St Catherine Chapel",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+409,"9:00 AM - Mass - St. James, 4:00 PM - Mass - St. James, 7:00 PM - Mass - St. James (Vietnamese)","8:30 AM - Mass - St. James, 10:00 AM - Mass - St. John the Baptist, 11:30 AM - Mass - St. James (Spanish), 11:45 AM - Mass - St. John the Baptist (Brazilian)",9:00 AM - Mass - St. John the Baptist,9:00 AM - Mass - St. James,"9:00 AM - Mass - St. John the Baptist, 7:00 PM - Mass - St. James (Spanish)",9:00 AM - Mass - St. James,"9:00 AM - Mass - St. John the Baptist, 7:00 PM - Mass - St. James (Spanish)"
+410,{'Vigil': '4:00 PM'},"7:00 AM, 10:00 AM, 5:00 PM",6:45 AM,6:45 AM,6:45 AM,6:45 AM,6:45 AM
+411,NA,9:00 AM Children's Christmas Pageant Mass,NA,NA,NA,NA,NA
+412,9:00 AM,NA,NA,NA,NA,NA,NA
+413,NA,NA,NA,NA,NA,NA,NA
+414,NA,"8:30 AM Mass in Mandarin, 10:00 AM Mass in Chinese, 11:45 AM Mass in English",NA,NA,NA,NA,NA
+415,NA,NA,NA,NA,NA,NA,NA
+416,"4:00 PM, St. John the Evangelist, 5:30 PM, St. Margaret","7:30 AM, St. Mary Star of the Sea, 9:00 AM, St. Margaret, 10:15 AM, St. Mary Star of the Sea, 12:00 PM, St. John the Evangelist","9:00 AM, St. John the Evangelist","7:00 AM, St. Mary Star of the Sea","9:00 AM, St. John the Evangelist","7:00 AM, St. Mary Star of the Sea","9:00 AM, St. John the Evangelist"
+417,4:00 PM,"9:00 AM, 11:00 AM, 4:30 PM (Creole)",12:10 PM,12:10 PM,12:10 PM,NA,7:00 AM (Communion Service)
+418,"4:00 PM, 10:00 AM, 1:00 PM","9:30 AM, 10:30 AM, 1:30 PM",7:00 PM (Solemnity of the Immaculate Conception),NA,"9:00 AM, 12:00 PM",NA,NA
+419,"{'Vigil': '4:00 PM', 'Daily': '8:00 AM'}","8:00 AM, 10:00 AM, 6:30 PM","9:00 AM, 7:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM
+420,5:00 PM,"7:30 AM, 9:00 AM, 12:00 PM, 5:00 PM",NA,NA,NA,NA,NA
+421,NA,NA,9:00 AM,NA,NA,NA,NA
+422,NA,"9:00 AM, 4:00 PM",12:10 PM,12:10 PM,12:10 PM,12:10 PM,12:10 PM
+423,5:30 PM,"7:30 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,6:30 PM
+424,5:30 PM,NA,NA,NA,NA,NA,NA
+425,"{'6:00 PM': 'Spanish', '8:00 PM': 'Neocatechumenate'}","{'8:00 AM': 'Spanish', '10:00 AM': 'English', '11:30 AM': 'Spanish', '6:00 PM': 'Spanish'}",7:00 PM,7:00 AM,7:00 AM,7:00 AM,7:00 PM
+426,4:00 PM,"7:30 AM, 9:00 AM, 10:30 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+427,NA,NA,NA,NA,NA,NA,NA
+428,"4:00 PM, 5:30 PM, 9:00 AM","7:30 AM, 9:00 AM (Family Liturgy), 11:00 AM, 5:30 PM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM","6:45 AM, 9:00 AM"
+429,"8:00 AM, 12:00 PM, 4:00 PM","8:00 AM, 10:00 AM, 12:00 PM","8:00 AM, 12:00 PM, 5:30 PM","8:00 AM, 12:00 PM, 5:30 PM","8:00 AM, 12:00 PM, 5:30 PM","8:00 AM, 12:00 PM, 5:30 PM","8:00 AM, 12:00 PM, 5:30 PM"
+430,4:00 PM,"8:00 AM, 9:30 AM, 11:30 AM, 5:00 PM",8:00 AM,8:00 AM,"8:00 AM, 5:30 PM",8:00 AM,NA
+431,8:00 AM,"8:00 AM, 10:00 AM (Live Streamed), 1:00 PM (Nigerian Mass – Live Streamed)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+432,"{'Vigil': '4:00 PM', 'Morning': '9:00 AM'}","{'St. Monica': ['9:00 AM', '12:00 PM'], 'St. Lucy': '10:30 AM'}",9:00 AM,NA,9:00 AM,NA,9:00 AM
+433,4:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 5:00 PM (Life Teen Mass)",NA,NA,NA,NA,NA
+434,4:00 PM,"7:30 AM, 10:30 AM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+435,"{'Vigil': ['5:00 PM', '7:30 PM']}","7:30 AM, 9:30 AM, 11:30 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+436,"3:30 PM - St Mary (Christmas Eve), 4:00 PM - St Mary, 4:00 PM - St Francis","8:00 AM - St Mary, 9:30 AM - St Francis, 11:00 AM - St Mary, 6:00 PM - St Catherine Chapel",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+437,4:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",NA,NA,9:00 AM,9:00 AM,9:00 AM
+438,5:30 PM,"7:30 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,"{'morning': '9:00 AM', 'evening': '6:30 PM'}"
+439,4:00 PM,"{'English': ['8:00 AM', '10:00 AM'], 'Portuguese': ['9:15 AM', '11:30 AM'], 'Brazilian': '11:30 AM'}","['Wednesday: 9:00 AM', 'Thursday: 9:00 AM', 'Friday: 9:00 AM', 'Saturday: 9:00 AM']","['Wednesday: 9:00 AM', 'Thursday: 9:00 AM', 'Friday: 9:00 AM', 'Saturday: 9:00 AM']","['Wednesday: 9:00 AM', 'Thursday: 9:00 AM', 'Friday: 9:00 AM', 'Saturday: 9:00 AM']","['Wednesday: 9:00 AM', 'Thursday: 9:00 AM', 'Friday: 9:00 AM', 'Saturday: 9:00 AM']","['Wednesday: 9:00 AM', 'Thursday: 9:00 AM', 'Friday: 9:00 AM', 'Saturday: 9:00 AM']"
+440,"7:00 AM, 4:00 PM","7:00 AM, 9:00 AM, 11:00 AM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+441,"{'Daily': '9:00 AM', 'Vigil': '4:00 PM'}","8:00 AM, 10:00 AM, 12:00 PM, 5:00 PM, 9:00 AM (Logan Airport Terminal C), 11:00 AM (Holy Rosary Chapel)",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+442,9:00 AM,"8:00 AM, 10:00 AM, 12:00 PM, 5:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+443,04:00 PM - English,10:15 AM,09:00 AM,"12:00 PM - Español, 09:00 AM - English, 07:00 PM - Español",09:00 AM - Español,09:00 AM - English,09:00 AM - English
+444,7:00 AM,"7:00 AM, 8:30 AM, 10:00 AM, 12:30 PM, 3:00 PM, 5:30 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+445,"{'4:00 PM': 'Santa Misa Español (Chapel)', '6:00 PM': 'Santa Misa Español (Chapel)-Camino Neocatecumenal', '8:00 PM': 'Santa Misa Español (Chapel)-Camino Neocatecumenal'}","{'8:00 AM': 'Santa Misa Español', '10:00 AM': 'Holy Mass in Vietnamese (Chapel)', '12:00 PM': 'Santa Misa Español (Upper Church)'}",NA,6:00 PM Bilingual,6:00 PM Español,"6:00 PM English, 7:30 PM Vietnamese",6:00 PM Español
+446,NA,NA,NA,NA,NA,NA,NA
+447,"9:00 AM, 5:00 PM (Vigil)","7:30 AM, 9:30 AM, 11:00 AM, 5:00 PM (during Academic Term)","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM"
+448,"4:00 PM, 5:00 PM, 11:00 AM - 2:00 PM, after 5:30 PM","9:00 AM Family Mass, 11:30 AM Live Stream, 5:00 PM",NA,NA,NA,NA,NA
+449,4:00 PM,"7:30 AM, 9:15 AM, 11:30 AM, 5:00 PM",NA,NA,NA,NA,NA
+450,"4:00 PM English, 7:00 PM Spanish","9:00 AM English, 10:30 AM Spanish, 12:30 PM Spanish",8:00 AM,8:00 AM,"8:00 AM, 7:00 PM Spanish",8:00 AM,8:00 AM
+451,4:00 PM,10:00 AM,9:00 AM,9:00 AM,NA,NA,9:00 AM
+452,"4:00 PM, 7:00 PM","8:30 AM, 11:30 AM, 9:30 AM, 7:00 PM",7:00 AM,NA,7:00 PM,NA,7:00 AM
+453,"8:30 AM @ St. John Chrysostom, 4:00 PM @ St. John Chrysostom, 4:30 PM @ St. Theresa of Avila","7:30 AM @ St. John Chrysostom, 9:30 AM @ St. John Chrysostom, 8:00 AM @ St. Theresa of Avila, 10:00 AM @ St. Theresa of Avila",NA,NA,NA,NA,NA
+454,NA,NA,NA,NA,NA,NA,NA
+455,4:00 PM,"7:30 AM, 9:00 AM, 12:00 PM, 10:30 AM (St. Basil Chapel)",NA,NA,NA,NA,NA
+456,5:00 PM,"8:30 AM, 10:30 AM, 1:00 PM",6:30 PM,NA,6:30 PM,9:00 AM,NA
+457,NA,"{'St. Margaret Church': ['4:30 PM', '8:00 AM', '12:00 PM'], 'St. Malachy Church': ['4:00 PM', '10:00 AM']}",NA,NA,NA,NA,NA
+458,NA,NA,NA,NA,NA,NA,NA
+459,{'St. Dorothy Church': '4:00 PM'},"{'St. Thomas Church': '8:00 AM & Noon', 'St. Dorothy Church': '10:00 AM'}",NA,NA,NA,NA,NA
+460,NA,"8:30 AM at Sacred Heart Church, 10:00 AM at St. John the Baptist",NA,NA,NA,NA,NA
+461,"8:00 AM, 5:00 PM","6:00 AM, 7:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+462,5:00 PM,"8:00 AM, 10:00 AM",7:00 AM,7:00 AM,6:30 PM,7:00 AM,7:00 AM
+463,NA,NA,NA,NA,NA,NA,NA
+464,NA,NA,NA,NA,NA,NA,NA
+465,"{'Morning': '7:00 AM', 'Vigil': '5:00 PM'}","9:00 AM, 11:00 AM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+466,"8:00 AM, 5:00 PM","7:00 AM, 8:00 AM, 9:15 AM, 10:45 AM, 12:15 PM, 5:30 PM","6:30 AM, 8:00 AM, 12:00 PM","6:30 AM, 8:00 AM, 12:00 PM","6:30 AM, 8:00 AM, 12:00 PM","6:30 AM, 8:00 AM, 12:00 PM","6:30 AM, 8:00 AM, 12:00 PM"
+467,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 5:30 PM","6:30 AM, 8:00 AM",6:30 AM,6:30 AM,6:30 AM,"6:30 AM, 8:00 AM"
+468,NA,NA,NA,NA,NA,NA,NA
+469,"8:15 AM, 5:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 6:00 PM","7:00 AM, 8:15 AM","7:00 AM, 8:15 AM","7:00 AM, 8:15 AM, 8:15 AM (Blessed Teresa of Calcutta Church)","7:00 AM, 8:15 AM, 8:15 AM (St. Rose Philippine Duchesne Church)","7:00 AM, 8:15 AM"
+470,"8:00 AM, 5:00 PM (Vigil)","8:00 AM, 10:00 AM, 12:00 PM, 5:00 PM","7:00 AM, 8:00 AM, 12:05 PM","7:00 AM, 8:00 AM, 12:05 PM","7:00 AM, 8:00 AM, 12:05 PM","7:00 AM, 8:00 AM, 12:05 PM","7:00 AM, 8:00 AM, 12:05 PM"
+471,NA,9:00 AM,NA,NA,NA,NA,NA
+472,"8:00 AM, 5:00 PM","8:00 AM, 9:45 AM, 11:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+473,4:00 PM,"8:30 AM, 10:00 AM",8:00 AM,NA,NA,NA,8:00 AM
+474,"4:00 PM, 5:30 PM","7:00 AM, 8:30 AM, 10:15 AM, 12:00 PM, 2nd and 4th Sunday: Immediately following noon Mass","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM, 8:00 AM (School Mass)","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM"
+475,5:00 PM,"7:30 AM, 9:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+476,5:00 PM,"7:30 AM, 9:00 AM, 11:00 AM",6:30 AM,6:30 AM,6:30 AM,8:00 AM,8:00 AM
+477,8:00 AM,"5:00 PM (Saturday Vigil), 7:30 AM, 9:30 AM (includes Children's Liturgy), 11:30 AM, 5:00 PM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:30 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+478,5:00 PM,"8:00 AM, 10:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+479,"5:00 PM, 8:00 AM (Daily)","7:00 AM, 8:30 AM, 10:15 AM, 12:00 PM, 5:00 PM",6:30 AM,"6:30 AM, 5:30 PM",6:30 AM,6:30 AM,6:30 AM
+480,NA,NA,NA,NA,NA,NA,NA
+481,"{'Vigil': '4:15 PM', 'First Saturday': '8:00 AM'}","{'Morning': ['7:00 AM', '10:00 AM']}",NA,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+482,"8:00 AM, 4:00 PM","7:30 AM, 10:00 AM",8:00 AM,8:00 AM,"8:00 AM, 6:30 PM",8:00 AM,8:00 AM
+483,NA,NA,NA,NA,NA,NA,NA
+484,5:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+485,8:15 AM,"6:30 AM, 8:00 AM, 10:00 AM","6:30 AM, 12:15 PM","6:30 AM, 12:15 PM","6:30 AM, 12:15 PM","6:30 AM, 12:15 PM","6:30 AM, 12:15 PM"
+486,"{'Our Lady - Festus': '5:00 PM', 'Good Shepherd - Hillsboro': '4:00 PM'}","{'Our Lady - Festus': '9:00 AM', 'Good Shepherd - Hillsboro': '8:30 AM & 10:00 AM', 'Sacred Heart - Crystal City': '7:30 AM & 11:00 AM'}",NA,NA,NA,NA,NA
+487,NA,NA,NA,NA,NA,NA,NA
+488,"{'Morning': '8:00 AM', 'Evening': '5:00 PM'}",8:00 AM & 10:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+489,4:30 PM,"8:30 AM, 10:30 AM (LIVE STREAMED), 11:00 AM",7:30 AM,7:30 AM,8:00 AM,7:30 AM,7:30 AM
+490,8:00 AM,10:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+491,"4:00 PM, 5:00 PM","7:00 AM, 10:30 AM, 5:00 PM",7:30 AM,7:30 AM,7:30 AM,"7:30 AM, 9:35 AM (School), 5:30 PM",7:30 AM
+492,4:00 PM,"8:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:15 AM,8:00 AM,8:00 AM
+493,NA,9:00 AM,NA,NA,NA,NA,NA
+494,5:00 PM,"8:00 AM, 10:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+495,"8:15 AM, 5:00 PM","7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM"
+496,8:00 AM,"{'English': '7:45 AM', 'Vietnamese': '9:30 AM'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+497,"8:15 AM, 5:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 6:00 PM","7:00 AM, 8:15 AM","7:00 AM, 8:15 AM","7:00 AM, 8:15 AM, 8:15 AM (Blessed Teresa of Calcutta Church)","7:00 AM, 8:15 AM, 8:15 AM (St. Rose Philippine Duchesne Church)","7:00 AM, 8:15 AM"
+498,5:00 PM,"8:00 AM, 10:00 AM, 5:00 PM, 2:00 PM (Spanish Mass)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+499,4:30 PM,"7:00 AM, 9:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+500,4:30 PM (EN),"8:00 AM (EN), 10:00 AM (PL)","['8:00 AM (Mon-Thur EN)', '7:00 PM (Fri PL)']","['8:00 AM (Mon-Thur EN)', '7:00 PM (Fri PL)']","['8:00 AM (Mon-Thur EN)', '7:00 PM (Fri PL)']","['8:00 AM (Mon-Thur EN)', '7:00 PM (Fri PL)']","['8:00 AM (Mon-Thur EN)', '7:00 PM (Fri PL)']"
+501,4:30 PM,"7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+502,9:30 AM,10:00 AM,NA,11:30 AM,NA,NA,NA
+503,"4:30 PM, 8:00 AM (Daily Mass)","7:00 AM, 9:00 AM, 11:00 AM, 11:00 AM (Mass is Celebrated in Italian)","6:30 AM, 12:00 PM","6:30 AM, 12:00 PM, 5:30 PM","6:30 AM, 12:00 PM, 8:00 AM, 5:30 PM","6:30 AM, 12:00 PM, 5:30 PM","6:30 AM, 12:00 PM"
+504,4:00 PM,"7:00 AM, 9:00 AM, 10:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+505,5:00 PM,"7:30 AM, 10:00 AM",8:00 AM Communion Service (St. Norbert),8:00 AM Mass (St. Angela Merici),8:00 AM Mass (St. Norbert),8:00 AM Mass (St. Angela Merici),8:00 AM Mass (St. Angela Merici)
+506,"7:30 AM, 8:45 AM, 4:30 PM","7:30 AM, 9:00 AM, 11:00 AM, 5:30 PM","6:45 AM, 7:30 AM, 5:30 PM","6:45 AM, 7:30 AM, 5:30 PM","6:45 AM, 7:30 AM, 5:30 PM","6:45 AM, 7:30 AM, 5:30 PM","6:45 AM, 7:30 AM, 8:30 AM, 5:30 PM"
+507,4:00 PM,11:00 AM,NA,NA,NA,8:00 AM,8:00 AM
+508,{'Vigil': '4:00 PM'},"{'Day': ['7:30 AM', '10:00 AM']}",6:30 AM,6:30 AM,6:30 AM,6:30 AM,6:30 AM
+509,4:00 PM,"8:00 AM, 10:00 AM",NA,NA,NA,NA,NA
+510,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 5:30 PM",6:30 AM,6:30 AM,6:30 AM,6:30 AM,6:30 AM
+511,5:00 PM,"7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM",8:15 AM (Monday - Saturday),8:15 AM (Monday - Saturday),8:15 AM (Monday - Saturday),8:15 AM (Monday - Saturday),8:15 AM (Monday - Saturday)
+512,5:00 PM,"7:30 AM, 9:00 AM, 10:30 AM",NA,NA,NA,NA,NA
+513,"8:00 AM – Spanish, 11:00 AM","8:00 AM – Spanish, 9:00 AM – English, 11:00 AM – Spanish, 6:00 PM – Spanish",6:00 PM – Spanish,6:00 PM – Spanish,6:00 PM – Spanish,NA,6:00 PM – Spanish
+514,"8:00 AM, 5:00 PM","7:00 AM, 8:00 AM, 9:00 AM, 10:00 AM, 11:00 AM, 12:30 PM (Spanish)","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM, 6:15 PM (Spanish)","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+515,NA,NA,NA,NA,NA,NA,NA
+516,4:00 PM,"7:30 AM, 9:30 AM, 11:30 AM",NA,NA,NA,NA,NA
+517,"8:00 AM, 4:00 PM","7:00 AM, 9:00 AM, 10:30 AM, 12:30 PM (Spanish Mass)","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM","7:00 AM, 8:00 AM"
+518,"8:15 AM, 5:00 PM","6:30 AM, 8:00 AM, 9:45 AM, 11:30 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM"
+519,"4:00 PM Roman Catholic, 5:15 PM Maronite Catholic","8:00 AM Roman Catholic, 10:30 AM Roman Catholic",8:00 AM Roman Catholic,"8:00 AM Roman Catholic, 6:00 PM Maronite Catholic",8:00 AM Roman Catholic,"8:00 AM Roman Catholic, 6:00 PM Maronite Catholic",8:00 AM Roman Catholic
+520,NA,NA,NA,NA,NA,NA,NA
+521,NA,NA,NA,NA,NA,NA,NA
+522,"8:00 AM, 5:00 PM","7:00 AM, 8:00 AM, 9:00 AM, 10:00 AM, 11:00 AM, 12:30 PM (Spanish)","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM, 6:15 PM (Spanish)","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+523,5:15 PM,"8:00 AM, 10:30 AM, 4:30 PM, 8:00 PM",NA,NA,NA,NA,NA
+524,"5:00 PM, 7:00 AM, 4:30 PM","6:30 AM, 9:00 AM, 10:00 AM, 5:30 PM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM"
+525,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+526,5:00 PM,NA,NA,8:00 AM,NA,8:00 AM,NA
+527,NA,7:30 AM,NA,NA,8:00 AM,NA,NA
+528,NA,NA,NA,NA,NA,NA,NA
+529,NA,"{'Even Months': '8:00 AM', 'Odd Months': '10:00 AM'}",NA,8:15 AM,NA,8:00 AM,NA
+530,NA,NA,8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+531,"4:00 PM, 8:15 AM, 5:00 PM","7:30 AM, 9:30 AM, 12:00 PM (1st Sunday of the month - Filipino Mass)","6:30 AM, 8:15 AM",6:30 AM,"6:30 AM, 8:15 AM",6:30 AM,"6:30 AM, 8:15 AM"
+532,4:30 PM,"7:00 AM, 9:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+533,NA,NA,NA,NA,NA,NA,NA
+534,NA,NA,NA,NA,NA,NA,NA
+535,NA,NA,NA,NA,NA,NA,NA
+536,5:00 PM,"7:00 AM, 8:45 AM, 10:30 AM, 12:15 PM","6:30 AM, 8:00 AM, 1:30 PM, 7:00 PM",NA,NA,NA,NA
+537,5:00 PM,"7:30 AM, 9:00 AM, 10:30 AM",NA,NA,NA,NA,NA
+538,NA,NA,NA,NA,NA,NA,NA
+539,8:00 AM,"4:30 PM (Saturday), 7:00 AM, 8:30 AM, 10:00 AM, 11:30 AM, 12:45 PM, 4:30 PM",6:30 AM,"6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+540,4:30 PM,"7:30 AM, 10:00 AM",NA,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+541,5:00 PM,10:30 AM,NA,NA,NA,6:30 AM,6:30 AM
+542,NA,NA,NA,NA,NA,NA,NA
+543,NA,2:00 PM,NA,NA,NA,NA,NA
+544,"8:00 AM, 4:30 PM","7:30 AM, 9:30 AM, 11:30 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+545,4:30 PM,"8:00 AM, 10:00 AM",6:30 AM,6:30 AM,"6:30 AM, 8:15 AM (School Year)",6:30 AM,6:30 AM
+546,NA,NA,NA,NA,NA,NA,NA
+547,NA,7:30 AM,NA,NA,8:00 AM,NA,NA
+548,NA,11:00 AM,NA,NA,NA,NA,NA
+549,NA,NA,NA,NA,NA,NA,NA
+550,NA,NA,NA,NA,NA,NA,NA
+551,4:00 PM,"8:00 AM, 10:00 AM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+552,"8:15 AM, 4:00 PM","7:30 AM, 9:30 AM, 12:00 PM (Filipino Mass)","6:30 AM, 8:15 AM",6:30 AM,"6:30 AM, 8:15 AM",6:30 AM,"6:30 AM, 8:15 AM"
+553,"8:00 AM, 5:00 PM (Vigil)","7:00 AM, 9:00 AM, 11:00 AM, 5:00 PM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM","6:30 AM, 8:00 AM"
+554,NA,NA,8:00 AM,NA,NA,NA,NA
+555,5:00 PM,"8:00 AM, 10:00 AM livestream, 5:00 PM",NA,NA,NA,NA,NA
+556,"5:00 PM, 3:30 PM - 4:45 PM, 10:00 AM","7:00 AM, 8:00 AM, 9:00 AM, 10:00 AM, 11:00 AM, 12:30 PM (Spanish), 8:00 PM","6:30 AM, 8:00 AM, NA",NA,"9:30 AM, NA",NA,NA
+557,4:30 PM,"8:00 AM, 10:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+558,4:30 PM,9:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+559,"8:15 AM, 5:00 PM","6:30 AM, 8:00 AM, 9:45 AM, 11:30 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM","6:15 AM, 8:15 AM"
+560,5:00 PM,9:00 AM,7:00 AM,7:00 AM,6:30 PM,7:00 AM,7:00 AM
+561,"8:00 AM (Only on the 1st Saturday of the Month), 5:00 PM","7:30 AM, 9:30 AM, 11:00 AM, 10:00 AM - 10:50 AM",NA,NA,NA,NA,NA
+562,NA,8:00 AM,NA,NA,NA,NA,NA
+563,5:00 PM,"7:30 AM, 9:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+564,"8:00 AM, 4:30 PM","7:00 AM, 9:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM","6:00 AM, 8:00 AM"
+565,4:30 PM,9:00 AM & 11:00 AM,12:05 PM,12:05 PM,12:05 PM,12:05 PM,12:05 PM
+566,4:00 PM,"10:00 AM, 12:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+567,"8:00 AM, 5:00 PM (Vigil)","6:00 AM, 8:30 AM, 10:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+568,4:30 PM (Vigil),"{'7:30 AM': '7:30 AM', '9:30 AM': '9:30 AM'}",7:00 AM,8:00 AM (only during the school year),7:00 AM,7:00 AM,7:00 AM
+569,5:00 PM,9:30 AM,NA,NA,12:05 PM,NA,NA
+570,"08:00 AM, 5:00 PM (Vigil)","6:00 AM, 8:30 AM, 10:30 AM",08:00 AM,08:00 AM,08:00 AM,08:00 AM,08:00 AM
+571,"4:00 PM, 5:00 PM, 5:30 PM, 8:30 AM, 9:00 AM","7:30 AM, 9:00 AM, 10:00 AM, 11:00 AM, 12:00 PM, 11:15 AM Latin Mass",NA,NA,NA,NA,NA
+572,7:30 PM,"8:00 AM, 9:00 AM, 10:30 AM, 12:00 PM","7:30 AM, 9:00 AM","7:30 AM, 9:00 AM","7:30 AM, 9:00 AM","7:30 AM, 9:00 AM","7:30 AM, 9:00 AM"
+573,5:30 PM Vigil Mass (Bilingual),"9:30 AM Spanish, 11:00 AM English, 12:30 PM Spanish, 6:00 PM Jazz Mass (English)","12:00 PM English, 7:00 PM Spanish","12:00 PM English, 7:00 PM Spanish","12:00 PM English, 7:00 PM Spanish","12:00 PM English, 7:00 PM Spanish","12:00 PM English, 7:00 PM Spanish"
+574,"5:00 PM, 12:15 PM","8:30 AM, 10:30 AM, 9:00 AM, 10:30 AM (Slovak), 12:00 PM, 6:00 PM",,9:00 AM,,,
+575,NA,NA,NA,NA,NA,NA,NA
+576,5:00 PM,"8:30 AM, 10:00 AM, 12:00 PM, 6:00 PM, 8:00 PM",6:30 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+577,4:00 PM,"8:00 AM, 11:00 AM",9:00 AM,9:00 AM,7:00 PM,9:00 AM,NA
+578,,"5:30 PM (Saturday), 8:00 AM, 11:00 AM, 8:30 PM (Last Sunday Mass in Manhattan)","8:00 AM (Monday to Friday), 12:10 PM (Monday to Saturday)","1:10 PM (Messe en français, Tuesday, September - June)",,,
+579,NA,NA,NA,NA,NA,NA,NA
+580,"7:00 AM, 5:15 PM","7:30 AM, 9:00 AM, 10:00 AM, 11:00 AM, 5:15 PM","7:00 AM, 12:15 PM",5:30 PM,"7:00 AM, 12:15 PM",5:30 PM,"7:00 AM, 12:15 PM"
+581,"12:00 PM, 4:30 PM","8:30 AM, 10:00 AM, 12:00 PM, 1:30 PM (Spanish), 5:30 PM","8:30 AM, 12:00 PM, 5:30 PM","8:30 AM, 12:00 PM, 5:30 PM","8:30 AM, 12:00 PM, 5:30 PM","8:30 AM, 12:00 PM, 5:30 PM","8:30 AM, 12:00 PM, 5:30 PM"
+582,4:00 PM,"9:00 AM, 12:00 PM, 6:00 PM, 8:00 AM, 9:30 AM (Polish - 1st Sunday of the Month), 11:00 AM",8:00 AM (Rosary at 7:30 AM) except Thursdays at 7:00 PM,8:00 AM (Rosary at 7:30 AM) except Thursdays at 7:00 PM,8:00 AM (Rosary at 7:30 AM) except Thursdays at 7:00 PM,8:00 AM (Rosary at 7:30 AM) except Thursdays at 7:00 PM,8:00 AM (Rosary at 7:30 AM) except Thursdays at 7:00 PM
+583,NA,NA,NA,NA,NA,NA,NA
+584,NA,NA,NA,NA,NA,NA,NA
+585,NA,NA,NA,NA,7:00 PM,NA,7:00 PM
+586,5:30 PM,9:30 AM,9:00 AM,NA,9:00 AM,NA,9:00 AM
+587,"9:00 AM, 4:00 PM, 5:30 PM","8:00 AM, 9:15 AM, 10:30 AM, 12:00 PM, 1:00 PM, 2:30 PM","['7:00 AM', '9:00 AM']","['7:00 AM', '9:00 AM']","['7:00 AM', '9:00 AM']","['7:00 AM', '9:00 AM']","['7:00 AM', '9:00 AM']"
+588,NA,NA,NA,NA,NA,NA,NA
+589,5:00 PM,"7:30 AM, 10:00 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+590,"8:30 AM, 5:30 PM","8:00 AM, 10:00 AM, 12:00 PM","8:30 AM, 12:00 PM","8:30 AM, 12:00 PM","8:30 AM, 12:00 PM","8:30 AM, 12:00 PM","8:30 AM, 12:00 PM"
+591,4:00 PM,"8:00 AM, 9:30 AM (Family Mass), 11:00 AM (Our Lady of Victory), 12:00 PM, 6:00 PM (Our Lady of Victory)",NA,NA,NA,NA,NA
+592,4:00 PM,"4:00 PM, 5:30 PM, 8:00 AM, 9:30 AM, 11:00 AM (livestreamed), 12:30 PM, 7:00 PM",NA,NA,NA,NA,NA
+593,5:00 PM,"8:00 AM (Sacred Hearts), 10:00 AM (Our Saviour), 12:00 PM (Sacred Hearts), 5:00 PM (Our Saviour)",7:45 AM,7:45 AM,7:45 AM,7:45 AM,7:45 AM
+594,"5:30 PM, 7:15 PM Spanish","8:30 AM, 10:00 AM, 11:30 AM, 4:00 PM Spanish, 5:30 PM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM"
+595,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM",9:30 AM (Monday to Saturday),9:30 AM (Monday to Saturday),9:30 AM (Monday to Saturday),9:30 AM (Monday to Saturday),9:30 AM (Monday to Saturday)
+596,"5:00 PM, 7:00 PM (Spanish), 8:30 AM","8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM (Korean), 7:00 PM (Folk Group)","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM"
+597,"8:00 AM, 12:10 PM, 5:10 PM (Sunday Vigil)","8:30 AM, 11:00 AM (High Mass), 12:30 PM, 5:00 PM (Spanish), 7:00 PM",NA,NA,NA,NA,NA
+598,NA,"10:00 AM (English), 12:00 PM (Spanish), 2:00 PM (French)",NA,12:00 PM (English-in the Church),7:30 PM (Spanish-in the Church),12:00 PM (English-in the Church),7:30 PM (Spanish-in the Church)
+599,"4:00 PM, 5:30 PM, 8:00 AM","7:30 AM, 9:30 AM, 11:00 AM (Family Mass), 12:30 PM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM","7:00 AM, 9:00 AM"
+600,"5:00 PM, 6:30 PM","8:00 AM, 10:00 AM, 12:00 PM, 6:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,"8:00 AM, 7:30 PM"
+601,NA,NA,NA,NA,NA,NA,NA
+602,9:15 AM (Spanish),"9:45 AM, 12:30 PM, 3:00 PM",8:30 AM,6:00 PM,"8:30 AM, 7:00 PM (Spanish)",6:00 PM,8:30 AM
+603,"12:00 PM, 5:00 PM (Vigil)","7:30 AM, 9:00 AM, 10:30 AM, 11:45 AM, 1:00 PM, 5:00 PM","6:30 AM, 8:30 AM","6:30 AM, 8:30 AM","6:30 AM, 8:30 AM","6:30 AM, 8:30 AM","6:30 AM, 8:30 AM"
+604,NA,NA,NA,NA,NA,NA,NA
+605,5:30 PM,"9:30 AM, 11:30 AM",NA,NA,9:00 AM,9:00 AM,9:00 AM
+606,"8:00 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 3:00 PM, 6:00 PM",NA,NA,NA,NA,NA
+607,"{'Vigil Mass': '5:00 PM English', 'Confession': '3:30 PM'}","{'Masses': ['9:00 AM English', '11:00 AM Español', '1:00 PM Español']}",NA,NA,NA,NA,NA
+608,5:30 PM,"8:00 AM, 10:00 AM at St. Charles, 10:00 AM at Resurrection, 12:00 PM Spanish at Resurrection",NA,NA,NA,7:00 PM Spanish at Resurrection,NA
+609,NA,10:00 AM,NA,NA,NA,NA,NA
+610,NA,10:30 AM,NA,NA,NA,NA,NA
+611,"5:00 PM, 7:00 PM, 9:00 AM (First Saturday of the Month)","8:30 AM, 10:00 AM (Family Mass), 11:30 AM, 1:30 PM, 3:30 PM, 5:00 PM (Vigil), 7:00 PM (Vigil)","9:00 AM, 12:00 PM, 7:00 PM","9:00 AM, 12:00 PM, 7:00 PM","9:00 AM, 12:00 PM, 7:00 PM","9:00 AM, 12:00 PM, 7:00 PM","9:00 AM, 12:00 PM, 7:00 PM"
+612,NA,"9:00 AM, 11:00 AM, 12:30 PM en español",NA,NA,NA,NA,NA
+613,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM, 1:00 PM in Spanish",8:00 AM and 12:10 PM,8:00 AM and 12:10 PM,8:00 AM and 12:10 PM,8:00 AM and 12:10 PM,8:00 AM and 12:10 PM
+614,11:00 AM,"4:00 PM, 5:15 PM, 8:00 AM, 9:15 AM (Korean), 10:00 AM (en Español), 11:00 AM, 12:30 PM, 5:00 PM","['7:30 AM', '12:00 PM', '5:30 PM']","['7:30 AM', '12:00 PM', '5:30 PM']","['7:30 AM', '12:00 PM', '5:30 PM']","['7:30 AM', '12:00 PM', '5:30 PM']","['7:30 AM', '12:00 PM', '5:30 PM']"
+615,"12:05 PM, 5:00 PM (Vigil), 10:00 AM, 11:00 AM, 1:00 PM, 3:00 PM, 6:30 PM","9:00 AM (Family Mass), 11:30 AM, 5:00 PM",NA,NA,NA,NA,NA
+616,"8:30 AM, 5:30 PM","8:00 AM, 9:30 AM, 11:00 AM, 11:00 AM, 7:30 PM","8:30 AM, 12:10 PM, 5:30 PM","8:30 AM, 12:10 PM, 5:30 PM","8:30 AM, 12:10 PM, 5:30 PM","8:30 AM, 12:10 PM, 5:30 PM","8:30 AM, 12:10 PM, 5:30 PM"
+617,"{'Regular': '12:00 PM', 'Anticipated': '5:00 PM'}","{'Regular': ['9:00 AM', '11:00 AM', '4:00 PM'], 'Evening Prayer': '3:15 PM'}",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+618,"{'St. Joan of Arc': '5:15 PM', 'Our Lady of Mt. Carmel': '4:00 PM'}","{'St. Joan of Arc': '11:15 AM', 'Our Lady of Mt. Carmel': '10:00 AM'}","{'St. Joan of Arc': '9:00 AM', 'Our Lady of Mt. Carmel': '8:00 AM'}",{'Our Lady of Mt. Carmel': '8:00 AM'},"{'St. Joan of Arc': '9:00 AM', 'Our Lady of Mt. Carmel': '8:00 AM'}",{'Our Lady of Mt. Carmel': '8:00 AM'},{'St. Joan of Arc': '9:00 AM'}
+619,NA,9:00 AM,"9:00 AM, 12:15 PM, 7:00 PM (Spanish)",NA,NA,NA,NA
+620,"8:00 AM, 4:00 PM, 7:00 PM Spanish","7:30 AM, 9:00 AM Portuguese, 9:00 AM Spanish, 11:00 AM, 11:00 AM Polish, 11:00 AM Spanish, 12:30 PM, 1:00 PM Spanish, 5:00 PM Spanish",NA,NA,NA,NA,NA
+621,NA,NA,NA,NA,NA,NA,NA
+622,5:30 PM,"9:00 AM, 11:30 AM, 6:00 PM",12:10 PM,12:10 PM,12:10 PM,12:10 PM,12:10 PM
+623,5:30 PM,"7:00 AM, 9:00 AM, 10:15 AM, 11:30 AM, 1:00 PM",NA,NA,NA,NA,NA
+624,"8:00 AM, 12:15 PM, 4:00 PM","8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM, 6:00 PM","7:00 AM, 12:15 PM","7:00 AM, 12:15 PM","7:00 AM, 12:15 PM","7:00 AM, 12:15 PM","7:00 AM, 12:15 PM"
+625,"5:00 PM, 7:30 PM Mass en Español","8:00 AM, 9:30 AM, 11:00 AM, 12:30 PM Mass en Español, 5:30 PM",NA,NA,NA,NA,NA
+626,"4:30 PM, 5:45 PM","7:30 AM, 9:00 AM, 10:30 AM, 12:00 PM, 5:30 PM","7:00 AM, 9:00 AM",NA,NA,NA,"7:00 AM, 9:00 AM"
+627,"8:30 AM, 5:15 PM","7:30 AM, 9:00 AM, 11:00 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+628,"8:20 AM, 9:00 AM, 5:00 PM","8:30 AM, 10:00 AM, 12:00 PM","8:20 AM, 9:00 AM","8:20 AM, 9:00 AM","8:20 AM, 9:00 AM","8:20 AM, 9:00 AM","8:20 AM, 9:00 AM"
+629,4:00 PM,"8:30 AM, 10:00 AM, 11:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+630,NA,NA,NA,NA,NA,NA,NA
+631,"12:00 PM, 5:30 PM Vigil Mass, 1st Saturday of the month - Family Mass with pizza [Oct - June]","8:00 AM, 10:00 AM with Cantor and Organ, 1st & 3rd Sundays - Children's Liturgy of the Word, 2nd & 4th Sundays - Mass with Children's Choir, 12:00 PM - Traditional Mass with Adult Choir [Sept - June], 5:00 PM - Contemporary Mass with Music Ensemble",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+632,"7:45 AM - Vietnamese Mass, 7:00 PM - Spanish Mass","8:00 AM - English Mass, 9:30 AM - Spanish Mass, 11:30 AM - English Mass, 1:30 PM - Vietnamese Mass","8:30 AM - Spanish Mass, 12:00 PM - English Mass","8:30 AM - Spanish Mass, 12:00 PM - English Mass","8:30 AM - Spanish Mass, 12:00 PM - English Mass","8:30 AM - Spanish Mass, 12:00 PM - English Mass, 7:00 PM - Círculo","8:30 AM - Spanish Mass, 12:00 PM - English Mass"
+633,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 6:00 PM",NA,NA,NA,NA,NA
+634,"8:30 AM, 5:00 PM","8:00 AM, 10:00 AM (Choir), 12:30 PM (Spanish; Coro Hispano), 5:00 PM (Young Adult Mass & OSP)","7:30 AM, 12:10 PM","7:30 AM, 12:10 PM","7:30 AM, 12:10 PM","7:30 AM, 12:10 PM","7:30 AM, 12:10 PM"
+635,NA,NA,NA,NA,NA,NA,NA
+636,4:00 PM,"8:00 AM, 9:30 AM (Family Mass), 11:00 AM (Our Lady of Victory), 12:00 PM, 6:00 PM (Our Lady of Victory)",NA,NA,NA,NA,NA
+637,"8:00 AM - 9:00 AM (English), 5:00 PM - 6:00 PM (English), 7:00 PM - 8:00 PM (Spanish)","7:30 AM - 8:30 AM (Spanish), 8:30 AM - 9:30 AM (English), 10:00 AM - 11:00 AM (Spanish), 11:30 AM - 12:30 PM (English), 12:45 PM - 1:45 PM (Spanish), 5:00 PM - 6:00 PM (English)","7:30 AM - 8:30 AM (Spanish), 7:00 PM - 8:00 PM (English)","7:30 AM - 8:30 AM (Spanish), 9:00 AM - 10:00 AM (English)","7:30 AM - 8:30 AM (Spanish), 7:00 PM - 8:00 PM (English)","7:30 AM - 8:30 AM (Spanish), 7:00 PM - 8:00 PM (English)","7:30 AM - 8:30 AM (Spanish), 7:00 PM - 8:00 PM (English)"
+638,"9:00 AM, 5:00 PM","8:00 AM, 9:15 AM, 10:30 AM, 12:00 PM","8:00 AM, 11:30 AM","8:00 AM, 11:30 AM","8:00 AM, 11:30 AM","8:00 AM, 11:30 AM","8:00 AM, 11:30 AM"
+639,NA,NA,NA,NA,NA,NA,NA
+640,NA,NA,NA,NA,NA,NA,NA
+641,"8:00 AM, 7:00 PM","8:00 AM, 9:00 AM, 11:00 AM","8:00 AM, 6:00 PM","8:00 AM, 6:00 PM","8:00 AM, 6:00 PM","8:00 AM, 6:00 PM","8:00 AM, 6:00 PM"
+642,"{'Morning': '9:00 AM', 'Evening': '6:00 PM'}","{'8:30 AM': 'Polish', '10:00 AM': 'English', '11:30 AM': 'Polish'}",NA,9:00 AM,9:00 AM,9:00 AM,7:00 PM
+643,4:00 PM,"7:30 AM, 9:00 AM (St. Nicholas Chapel), 10:30 AM, 12:30 PM, 5:00 PM",NA,NA,NA,NA,NA
+644,5:00 PM,"10:00 AM, 12:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+645,NA,NA,NA,NA,NA,NA,NA
+646,7:30 PM,"9:00 AM, 11:00 AM",NA,NA,NA,7:30 PM,7:30 PM
+647,NA,9:00 AM,NA,NA,NA,NA,NA
+648,5:00 PM,"8:00 AM, 11:30 AM, 9:45 AM at St. Patrick, Walters",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+649,NA,"{'Silent Adoration': '9:00 AM', 'Holy Qurbana': '9:30 AM', 'CCD': '11:20 AM - 12:30 PM'}",NA,NA,NA,NA,6:00 PM
+650,"5:00 PM - Mass, 6:30 PM - Misa (Spanish)","7:30 AM - Misa (Spanish), 10:00 AM - Misa (Spanish), 12:00 PM - Mass, 1:30 PM - Misa (Spanish), 3:15 PM - Misa (Spanish)",6:30 PM - Misa (Spanish),6:30 PM - Misa (Spanish),6:30 PM - Misa (Spanish),6:30 PM - Misa (Spanish),6:30 PM - Misa (Spanish)
+651,4:30 PM,11:00 AM,4:30 PM,4:30 PM,4:30 PM,4:30 PM,4:30 PM
+652,NA,11:00 AM,NA,NA,NA,NA,NA
+653,5:00 PM,"9:00 AM, 11:30 AM",NA,9:00 AM,12:00 PM,7:00 PM,9:00 AM
+654,5:00 PM,"8:30 AM, 12:30 PM",NA,NA,NA,NA,NA
+655,4:00 PM,"{'Regular': '10:45 AM', 'Spanish': '12:30 PM'}",NA,8:00 AM,NA,8:30 AM,8:30 AM
+656,NA,NA,NA,NA,NA,NA,NA
+657,"6:00 AM - Low Mass, 8:00 AM - Low Mass","8:00 AM - Low Mass, 10:30 AM - High Mass, 5:30 PM - Low Mass","6:00 AM - Low Mass, 8:00 AM - Low Mass","6:00 AM - Low Mass, 8:00 AM - Low Mass","6:00 AM - Low Mass, 8:00 AM - Low Mass","6:00 AM - Low Mass, 8:00 AM - Low Mass","6:00 AM - Low Mass, 8:00 AM - Low Mass, 6:00 PM - Low Mass"
+658,5:00 PM,"9:00 AM, 11:30 AM",6:00 PM,12:00 PM,12:00 PM,9:00 AM,NA
+659,NA,10:30 AM,NA,NA,NA,5:30 PM,NA
+660,"4:00 PM, 7:00 PM (Spanish)","8:30 AM, 11:00 AM, 5:00 PM, 1:00 PM (Spanish), 3:00 PM (Spanish), 7:00 PM (Spanish)",7:30 AM,8:30 AM,8:30 AM,"8:30 AM, 6:30 PM (Spanish)",8:30 AM
+661,4:00 PM,"8:00 AM, 10:00 AM, 12:00 PM Spanish, 4:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+662,5:00 PM,"8:00 AM, 10:30 AM",NA,7:00 AM,5:30 PM,12:00 PM,12:00 PM
+663,5:00 PM,"7:30 AM, 10:00 AM, 12:15 PM (Spanish)",NA,5:30 PM,5:30 PM,5:30 PM,7:30 AM
+664,"8:45 AM, 5:00 PM","10:00 AM, 12:00 PM, 3:00 PM",8:15 AM,8:15 AM,"8:15 AM, 6:00 PM",8:15 AM,8:15 AM
+665,NA,NA,NA,NA,NA,NA,NA
+666,NA,NA,NA,NA,NA,NA,NA
+667,5:00 PM,9:00 AM,NA,NA,12:00 PM,NA,NA
+668,5:00 PM,"8:30 AM, 11:00 AM, 5:00 PM, 6:00 PM",NA,NA,NA,NA,NA
+669,5:00 PM,"8:30 AM, 10:30 AM, 12:30 PM",NA,6:00 PM,7:30 AM,7:30 AM,7:30 AM
+670,NA,NA,11:35 AM,11:35 AM,11:35 AM,11:35 AM,11:35 AM
+671,NA,11:00 AM,"6:30 AM, 12:10 PM",NA,NA,6:30 PM,NA
+672,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+673,"12:05 PM, 5:00 PM","8:00 AM, 9:30 AM, 11:00 AM, 12:30 PM, 3:15 PM, 5:00 PM","12:05 PM, 5:15 PM","12:05 PM, 5:15 PM","12:05 PM, 5:15 PM","12:05 PM, 5:15 PM","12:05 PM, 5:15 PM"
+674,5:30 PM,"7:00 AM, 9:00 AM, 11:00 AM, 12:30 PM, 2:00 PM, 2:00 PM (Español)",8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+675,5:00 PM English,"8:00 AM Spanish, 10:00 AM English, 12:00 PM Spanish, 6:00 PM Spanish",NA,8:30 AM Bilingual,"8:30 AM Bilingual, 7:00 PM Bilingual",8:30 AM Bilingual,8:30 AM Bilingual
+676,"{'English': '5:00 PM', 'Español': '6:30 PM'}","{'English': ['7:15 AM', '10:30 AM'], 'Español': ['8:30 AM', '12:30 PM', '2:30 PM', '6:00 PM']}","{'English': '8:30 AM', 'Español': '6:00 PM'}","{'English': '8:30 AM', 'Español': '6:00 PM'}","{'English': '8:30 AM', 'Español': '6:00 PM'}","{'English': '8:30 AM', 'Español': '6:00 PM'}","{'English': '8:30 AM', 'Español': '6:00 PM'}"
+677,8:30 AM,"10:30 AM English, 1:30 PM Nigerian Mass (every 2nd Sunday)",NA,"12:00 PM English, 7:00 PM Vietnamese (1st Tuesday)",12:00 PM Spanish,7:30 PM English,"12:00 PM English, 8:30 PM Spanish"
+678,4:00 PM,10:00 AM,NA,5:00 PM,7:00 AM,7:00 AM,7:00 AM
+679,5:00 PM,"8:00 AM, 10:30 AM","['Tuesday 9:00 AM', 'Thursday 9:00 AM', 'Friday 9:00 AM Spanish']","['Tuesday 9:00 AM', 'Thursday 9:00 AM', 'Friday 9:00 AM Spanish']","['Tuesday 9:00 AM', 'Thursday 9:00 AM', 'Friday 9:00 AM Spanish']","['Tuesday 9:00 AM', 'Thursday 9:00 AM', 'Friday 9:00 AM Spanish']","['Tuesday 9:00 AM', 'Thursday 9:00 AM', 'Friday 9:00 AM Spanish']"
+680,"5:00 PM, 7:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM",NA,NA,NA,NA,NA
+681,5:00 PM,"8:00 AM, 11:00 AM",NA,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+682,"5:00 PM, 7:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM",NA,NA,NA,NA,NA
+683,5:30 PM Spanish,"7:30 AM Spanish, 9:30 AM English, 12:00 PM Spanish, 5:00 PM Bilingual",6:30 PM Spanish,6:30 PM Spanish,6:30 PM Spanish,6:30 PM Spanish,6:30 PM Spanish
+684,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM (Español), 5:00 PM",8:15 AM,8:15 AM,8:15 AM,8:15 AM,7:00 PM (Español)
+685,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM, 3:00 PM Spanish, 5:00 PM",NA,NA,NA,NA,NA
+686,NA,"{'Spanish': ['7:00 AM', '11:00 AM', '1:00 PM'], 'English': '9:00 AM'}",NA,NA,NA,7:00 PM,NA
+687,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM"
+688,NA,9:00 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+689,5:00 PM,"7:30 AM, 10:00 AM",NA,NA,NA,NA,NA
+690,5:00 PM,"9:00 AM, 10:30 AM, 12:00 PM (English Mass)","{'Tuesday': '7:00 PM', 'Wednesday': '7:00 PM', 'Thursday': '7:00 PM', 'Friday': '10:00 AM'}","{'Tuesday': '7:00 PM', 'Wednesday': '7:00 PM', 'Thursday': '7:00 PM', 'Friday': '10:00 AM'}","{'Tuesday': '7:00 PM', 'Wednesday': '7:00 PM', 'Thursday': '7:00 PM', 'Friday': '10:00 AM'}","{'Tuesday': '7:00 PM', 'Wednesday': '7:00 PM', 'Thursday': '7:00 PM', 'Friday': '10:00 AM'}","{'Tuesday': '7:00 PM', 'Wednesday': '7:00 PM', 'Thursday': '7:00 PM', 'Friday': '10:00 AM'}"
+691,4:30 PM,"{'English': '9:30 AM', 'Spanish': '12:00 PM'}",No Mass,7:00 PM (Spanish),9:00 AM,9:00 AM,9:00 AM
+692,"8:15 AM English, 5:00 PM English","7:30 AM Spanish, 10:00 AM English, 12:00 PM Spanish, 2:30 PM Spanish, 5:00 PM English, 7:00 PM Spanish Lifeteen Mass",8:15 AM English,8:15 AM English,"8:15 AM English, 7:00 PM Spanish",8:15 AM English,8:15 AM English
+693,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM Spanish, 5:00 PM",8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+694,"6:00 PM, 11:00 AM - 1:00 PM, 5:15 PM - 5:45 PM","9:00 AM, 11:00 AM, 10:00 AM (only on the first weekend of May and the third weekend of September)",NA,8:00 AM,8:00 AM,8:00 AM,"6:15 PM - 6:45 PM, 7:00 PM"
+695,9:00 AM,"8:00 AM, 9:30 AM, 11:15 AM, 12:30 PM, 2:00 PM",NA,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+696,"7:00 PM, 8:30 PM","8:00 AM, 10:00 AM",7:00 PM,NA,7:00 PM,7:00 PM,7:00 PM
+697,5:00 PM (Vigil Mass - English),"9:00 AM (Mass - English), 11:00 AM (Mass - Spanish)",NA,NA,NA,NA,NA
+698,6:00 pm,"7:00 am, 9:00 am, 11:00 am, 4:00 pm, 6:00 pm",NA,NA,NA,NA,NA
+699,5:00 PM,"9:00 AM, 11:00 AM, 5:00 PM",8:00 AM,NA,8:30 AM,NA,8:00 AM
+700,NA,9:00 AM,9:00 AM,NA,9:00 AM,NA,9:00 AM
+701,NA,NA,NA,NA,NA,NA,NA
+702,5:00 PM,"8:00 AM, 10:00 AM, 12:30 PM (Spanish)",NA,7:00 PM,7:15 AM,7:15 AM,8:15 AM
+703,5:00 PM,"{'Spanish': '8:00 AM', 'English': '9:30 AM', 'Spanish_2': '11:00 AM'}","9:00 AM (Tuesday, Wednesday, Thursday & Friday)","9:00 AM (Tuesday, Wednesday, Thursday & Friday)","9:00 AM (Tuesday, Wednesday, Thursday & Friday)","9:00 AM (Tuesday, Wednesday, Thursday & Friday)","9:00 AM (Tuesday, Wednesday, Thursday & Friday)"
+704,NA,NA,NA,NA,NA,NA,NA
+705,6:30 PM,"8:00 AM, 10:30 AM",NA,NA,9:00 AM,9:00 AM,9:00 AM
+706,"{'Vigil': '5:00 PM', '1st Saturday': '8:40 AM'}","9:00 AM, 11:00 AM, 5:00 PM",8:40 AM,8:40 AM,"{'Morning': '8:40 AM', 'Evening': '6:30 PM'}",8:40 AM,8:40 AM
+707,NA,NA,NA,NA,NA,NA,NA
+708,5:00 PM,"8:00 AM, 10:30 AM",NA,9:00 AM,6:00 PM,9:00 AM,9:00 AM
+709,4:30 PM,"8:30 AM, 11:00 AM",NA,NA,NA,NA,NA
+710,4:00 PM,"8:00 AM, 10:00 AM, 1:00 PM (In Spanish)",NA,NA,9:00 AM,9:00 AM,6:30 PM
+711,"{'Vigil': ['11:00 AM - St. John Vianney - Darrington', '4:00 PM - Immaculate Conception - Arlington']}",8:00 AM,12:00 PM,6:00 PM,NA,9:00 AM,NA
+712,5:00 PM,"9:00 AM, 11:00 AM, 1:00 PM",NA,12:15 PM,NA,"12:15 PM, 7:00 PM",NA
+713,NA,11:00 AM,NA,NA,6:00 PM,8:00 AM,NA
+714,NA,NA,NA,NA,NA,NA,NA
+715,"4:00 PM St. Rose in Longview, 5:00 PM St. Catherine in Cathlamet, 6:00 PM St. Joseph in Kalama","8:30 AM St. Mary in Castle Rock, 10:30 AM Immaculate Heart of Mary in Kelso, 9:00 AM St. Rose in Longview, 11:00 AM St. Rose in Longview, 6:00 PM Santa Rosa en Español",9:00 AM St. Joseph in Kalama,12:15 PM Immaculate Heart of Mary in Kelso,"8:30 AM St. Mary in Castle Rock, 8:30 AM St. Rose in Longview",8:30 AM St. Rose in Longview,"8:30 AM St. Rose in Longview, 12:15 PM Immaculate Heart of Mary in Kelso"
+716,5:00 PM,8:30 AM,NA,NA,9:00 AM,NA,NA
+717,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,NA,6:00 PM,9:00 AM,9:00 AM
+718,5:00 PM,9:30 AM,NA,9:30 AM,9:30 AM,9:30 AM,9:30 AM
+719,,"10:00 AM, 5:00 PM, 7:00 PM, 9:00 PM",,,9:00 PM,,
+720,"8:00 AM, 10:00 AM (First Saturdays)","7:00 AM, 8:30 AM, 10:30 AM (High Mass), 1:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,"7:30 PM, 12:10 PM (First Fridays)"
+721,5:00 PM,9:00 AM,9:00 AM,9:00 AM,5:30 PM,9:00 AM,9:00 AM
+722,"4:00 PM - Our Lady of Good Counsel, 4:00 PM - Our Lady Queen of Heaven",NA,NA,NA,"9:00 AM - Holy Disciples, 9:00 AM - Our Lady Queen of Heaven, 9:30 AM - SS Cosmas & Damian, 6:00 PM - Our Lady of Good Counsel",NA,NA
+723,NA,NA,NA,NA,NA,NA,NA
+724,"8:00 AM, 5:00 PM","8:30 AM, 10:30 AM, 12:30 PM",NA,6:00 PM,NA,6:00 PM,6:00 PM
+725,"5:00 PM, 9:00 AM (First Saturday of every month)","9:00 AM, 11:00 AM",NA,NA,6:00 PM,9:00 AM,9:00 AM
+726,5:00 PM,1:00 PM,NA,NA,NA,9:00 AM,NA
+727,5:00 PM,"9:00 AM, 10:30 AM",9:00 AM,9:00 AM,"9:00 AM, 6:30 PM",9:00 AM,9:00 AM
+728,4:00 PM,"8:30 AM, 11:00 AM",NA,NA,9:00 AM,9:00 AM,9:00 AM
+729,"9:00 AM, 5:00 PM","7:30 AM, 9:00 AM, 11:00 AM",7:30 AM,7:30 AM,7:30 AM,7:30 AM,9:00 AM
+730,5:00 PM,"8:30 AM, 11:00 AM",NA,NA,NA,NA,NA
+731,4:30 PM (English),"7:45 AM (Vietnamese), 9:45 AM (English), 4:00 PM (Vietnamese)",NA,NA,NA,NA,NA
+732,"{'St. Gabriel': '5:00 PM', 'Prince of Peace': 'No Mass', 'St. Nicholas': '5:00 PM'}","{'St. Gabriel': '9:00 AM', 'Prince of Peace': '9:00 AM English', 'St. Nicholas': '9:00 AM'}",{'St. Nicholas': '9:00 AM'},{'St. Gabriel': '11:00 AM Communion Service'},{'St. Nicholas': '11:00 AM'},"{'St. Nicholas': '9:00 AM & 6:00 PM', 'Prince of Peace': '10:00 AM English'}",{'St. Nicholas': '11:00 AM'}
+733,NA,NA,"12:10 PM, 7:00 PM",NA,NA,NA,NA
+734,5:00 PM,8:30 AM,NA,NA,9:30 AM,NA,9:30 AM (School Mass)
+735,5:00 PM,"8:30 AM, 10:30 AM, 12:15 PM",NA,NA,9:00 AM,9:00 AM,9:00 AM
+736,5:00 PM,"9:00 AM, 11:00 AM, 5:00 PM",NA,NA,NA,NA,NA
+737,5:30 PM,"9:00 AM, 12:00 PM",9:00 AM,NA,6:00 PM,9:00 AM,9:00 AM
+738,NA,9:30 AM,NA,NA,NA,NA,9:00 AM
+739,"{'Daily': '9:00 AM', 'Vigil': '5:00 PM'}","8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM (Spanish), 10:00 AM (Korean - Fabian Hall)",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+740,NA,"10:00 AM (Bilingual), 8:00 AM, 12:00 PM, 2:00 PM, 5:00 PM, 7:00 PM (Saturday)",NA,NA,NA,NA,NA
+741,4:30 PM (English),"7:45 AM (Vietnamese), 9:45 AM (English), 4:00 PM (Vietnamese)",NA,NA,NA,NA,NA
+742,"8:30 AM, 4:00 PM",11:00 AM,NA,8:30 AM,NA,NA,NA
+743,5:00 PM,9:00 AM,8:00 AM,8:00 AM,8:00 AM,NA,NA
+744,NA,10:30 AM,NA,6:00 PM,NA,NA,9:00 AM
+745,NA,NA,NA,NA,NA,NA,NA
+746,5:00 PM,11:00 AM,NA,9:00 AM,5:30 PM,NA,8:45 AM
+747,5:00 PM,NA,NA,NA,NA,NA,NA
+748,5:00 PM,"{'English': ['7:30 AM', '9:00 AM', '10:30 AM', '5:00 PM'], 'Spanish': ['12:00 PM', '1:30 PM']}",8:00 AM,8:00 AM,"{'English': '8:45 AM', 'Spanish': '7:00 PM'}",8:00 AM,8:00 AM
+749,5:00 PM,"8:00 AM, 9:30 AM",NA,NA,9:30 AM,9:30 AM,9:30 AM
+750,5:00 PM,"8:00 AM, 10:00 AM",NA,NA,9:00 AM,6:00 PM,9:00 AM
+751,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM (Spanish)",NA,NA,NA,NA,NA
+752,5:00 PM,"8:00 AM, 10:00 AM",8:00 AM,NA,8:45 AM,8:00 AM,8:00 AM
+753,6:00 PM,10:00 AM,9:00 AM,NA,6:00 PM,NA,9:00 AM
+754,5:00 PM,"8:00 AM, 10:00 AM, 12:30 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+755,"5:00 PM, 7:00 PM (Español)","7:45 AM (Español), 11:15 AM",10:30 AM,NA,6:00 PM,NA,NA
+756,5:00 PM,10:30 AM,NA,NA,NA,NA,NA
+757,6:00 PM,"10:30 AM, 1:00 PM Espanol",10:30 AM W&C,NA,6:00 PM,10:30 AM,10:30 AM
+758,5:00 PM,"8:00 AM, 10:00 AM, 12:01 PM, 3:30 PM",NA,"12:00 PM, 6:00 PM",12:00 PM,12:00 PM,12:00 PM
+759,5:00 PM (Vigil),"9:00 AM, 11:00 AM, 12:30 PM (Español)",7:30 AM,7:30 AM,"7:30 AM, 6:00 PM (Español)",7:30 AM,8:30 AM
+760,5:00 PM,"8:00 AM, 10:00 AM",9:00 AM,9:00 AM,NA,9:00 AM,9:00 AM
+761,5:30 PM,"9:00 AM, 1:00 PM, 4:30 PM",NA,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+762,5:00 PM,10:30 AM,"{'Wednesday': '8:30 AM', 'Friday': '8:30 AM'}","{'Wednesday': '8:30 AM', 'Friday': '8:30 AM'}","{'Wednesday': '8:30 AM', 'Friday': '8:30 AM'}","{'Wednesday': '8:30 AM', 'Friday': '8:30 AM'}","{'Wednesday': '8:30 AM', 'Friday': '8:30 AM'}"
+763,5:00 PM,9:00 AM,9:00 AM,9:00 AM,10:30 AM,NA,9:00 AM
+764,NA,NA,NA,NA,NA,NA,NA
+765,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+766,"5:00 PM, 5:30 PM","9:00 AM, 11:30 AM, 5:30 PM",9:00 AM,9:00 AM,9:00 AM,6:30 PM,"9:00 AM, 7:30 PM (Spanish Mass celebrated the first Friday of every Month)"
+767,5:00 PM,"8:30 AM, 10:30 AM",NA,NA,NA,NA,NA
+768,NA,NA,NA,NA,NA,NA,NA
+769,"{'Vigil': [{'Time': '11:00 AM', 'Location': 'St. John Vianney – Darrington'}, {'Time': '4:00 PM', 'Location': 'Immaculate Conception – Arlington'}]}",8:00 AM,12:00 PM,6:00 PM,NA,9:00 AM,NA
+770,NA,9:00 AM,NA,NA,NA,NA,NA
+771,NA,10:30 AM,NA,6:00 PM,NA,NA,9:00 AM
+772,NA,"8:30 AM, 10:30 AM, 5:00 PM",9:00 AM (MQP),6:00 PM (SJ),9:00 AM (SJ),9:00 AM (OLOS),9:00 AM (MQP)
+773,"{'St. Joseph': {'English': '5:00 PM', 'Spanish': '7:00 PM'}}","{'St. Joseph': {'English': '11:00 AM'}, 'St. Peter': {'English': '8:30 AM'}}",{'St. Peter': {'English': '9:00 AM'}},NA,{'St. Joseph': {'Spanish': '6:00 PM'}},{'St. Joseph': {'English': '9:00 AM'}},{'St. Joseph': {'English': '9:00 AM'}}
+774,NA,"9:00 AM, 11:00 AM, 5:30 PM",NA,NA,NA,NA,NA
+775,9:00 AM,"7:00 AM Low Mass, 8:30 AM Low Mass, 10:30 AM Sung Mass, 1:00 PM Low Mass",8:00 AM,8:00 AM,8:00 AM,8:00 AM,"8:00 AM, 6:30 PM"
+776,NA,"9:00 AM, 11:30 AM (Spanish), 5:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,NA
+777,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,NA,9:00 AM,9:00 AM,9:00 AM
+778,5:00 PM,10:00 AM,NA,12:10 PM,NA,12:10 PM,12:10 PM
+779,5:00 PM,"8:00 AM, 9:45 AM, 12:00 PM","{'Tuesday': '8:00 AM', 'Wednesday': '7:30 PM', 'Thursday': '8:00 AM', 'Friday': '7:30 PM', 'Saturday': '10:00 AM'}","{'Tuesday': '8:00 AM', 'Wednesday': '7:30 PM', 'Thursday': '8:00 AM', 'Friday': '7:30 PM', 'Saturday': '10:00 AM'}","{'Tuesday': '8:00 AM', 'Wednesday': '7:30 PM', 'Thursday': '8:00 AM', 'Friday': '7:30 PM', 'Saturday': '10:00 AM'}","{'Tuesday': '8:00 AM', 'Wednesday': '7:30 PM', 'Thursday': '8:00 AM', 'Friday': '7:30 PM', 'Saturday': '10:00 AM'}","{'Tuesday': '8:00 AM', 'Wednesday': '7:30 PM', 'Thursday': '8:00 AM', 'Friday': '7:30 PM', 'Saturday': '10:00 AM'}"
+780,"5:00 PM, 9:00 AM","8:30 AM, 10:30 AM",9:00 AM,NA,6:00 PM,9:00 AM,9:00 AM
+781,NA,"8:30 AM, 10:00 AM","8:30 AM, 5:00 PM",8:00 AM,8:00 AM,"8:00 AM, 8:30 AM (when school in session)",8:00 AM
+782,NA,NA,NA,NA,NA,NA,NA
+783,9:00 AM (First Saturday of the month),8:30 AM,NA,6:00 PM,9:00 AM,9:00 AM,9:00 AM
+784,5:00 PM,"{'Spanish': '8:00 AM', 'English': '10:30 AM'}",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+785,"9:30 AM (Daily - Not Vigil, 1st Saturday is a Healing Mass)","{'En Español': '8:30 AM', 'In English': '11:00 AM'}",12:00 PM (Occasional),12:00 PM,5:30 PM,12:00 PM,12:00 PM (1st Friday only)
+786,"4:00 PM St. Rose in Longview, 5:00 PM St. Catherine in Cathlamet, 6:00 PM St. Joseph in Kalama","8:30 AM St. Mary in Castle Rock, 10:30 AM Immaculate Heart of Mary in Kelso, 9:00 AM St. Rose in Longview, 11:00 AM St. Rose in Longview, 6:00 PM Santa Rosa en Español",9:00 AM St. Joseph in Kalama,12:15 PM Immaculate Heart of Mary in Kelso,"8:30 AM St. Mary in Castle Rock, 8:30 AM St. Rose in Longview",8:30 AM St. Rose in Longview,"8:30 AM St. Rose in Longview, 12:15 PM Immaculate Heart of Mary in Kelso"
+787,5:00 PM,"8:00 AM, 9:30 AM",NA,NA,9:30 AM,9:30 AM,9:30 AM
+788,"9:00 AM St. Mary – Marysville (First Saturday of the month), 11:00 AM St. John Vianney Darrington, 4:00 PM Immaculate Conception Arlington, 6:00 PM St. Cecilia Stanwood","8:00 AM Immaculate Conception Arlington, 8:00 AM St. Mary Marysville, 10:00 AM St. Cecilia Stanwood, 10:00 AM St. Mary Marysville, 12:00 PM (Spanish) St. Mary Marysville","9:00 AM St. Cecilia Stanwood, 12:00 PM Immaculate Conception Arlington",6:00 PM Immaculate Conception Arlington,"10:30 AM St. Mary Marysville, 6:00 PM St. Cecilia Stanwood","9:00 AM Immaculate Conception Arlington, 6:00 PM St. Mary Marysville","9:00 AM St. Cecilia Stanwood, 10:30 AM St. Mary Marysville"
+789,NA,"9:00 AM, 11:00 AM, 5:30 PM",NA,7:00 AM,NA,NA,7:00 AM
+790,NA,NA,NA,NA,NA,NA,NA
+791,5:00 PM,"8:00 AM, 10:00 AM",NA,NA,NA,NA,NA
+792,"{'Vigil': '5:00 PM', 'Morning': '9:00 AM'}","7:00 AM, 9:00 AM, 11:00 AM, 1:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,9:00 AM
+793,5:00 PM,"8:00 AM, 10:00 AM",9:00 AM,NA,6:00 PM,9:00 AM,9:00 AM
+794,"{'Morning': '7:45 AM', 'Vigil': '5:00 PM'}","{'Regular': ['9:00 AM', '11:00 AM'], 'Chinese': '1:00 PM'}",8:30 AM,7:45 AM,7:45 AM,7:45 AM,7:45 AM
+795,5:00 PM,"9:00 AM, 11:00 AM",9:00 AM,NA,NA,"9:00 AM, 6:00 PM",9:00 AM
+796,NA,NA,NA,NA,NA,NA,NA
+797,"06:00 PM - Special Mass, 09:30 AM - Rosary (First Saturday)","08:00 AM - Morning Mass, 09:30 AM - Student Mass, 11:00 AM - Main Mass",NA,07:30 PM,10:00 AM,07:30 PM,10:00 AM
+798,4:00 PM,8:30 AM,NA,6:00 PM,NA,8:10 AM,NA
+799,5:30 PM,8:30 AM; 10:30 AM,NA,NA,NA,NA,NA
+800,NA,NA,NA,NA,NA,NA,NA
+801,NA,8:00 AM,NA,NA,NA,NA,NA
+802,5:00 PM,"9:00 AM, 11:00 AM, 5:00 PM",9:00 AM (Tuesday - Friday),9:00 AM (Tuesday - Friday),9:00 AM (Tuesday - Friday),9:00 AM (Tuesday - Friday),9:00 AM (Tuesday - Friday)
+803,NA,NA,NA,NA,NA,NA,NA
+804,5:00 PM,"8:30 AM, 10:30 AM",8:30 AM,6:00 PM,8:30 AM,8:30 AM,8:30 AM
+805,NA,NA,NA,NA,NA,NA,NA
+806,NA,NA,NA,NA,NA,NA,NA
+807,"{'Polish': '6:00 PM', 'English': 'NA'}","{'Polish': '11:00 AM', 'English': '9:00 AM, 5:00 PM'}","{'Polish': 'NA', 'English': '9:00 AM'}","{'Polish': 'NA', 'English': '9:00 AM'}","{'Polish': '7:00 PM', 'English': 'NA'}",NA,"{'Polish': '7:00 PM', 'English': 'NA'}"
+808,"8:30 AM, 4:00 PM, 6:00 PM","7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM, 4:00 PM",11:00 AM,11:00 AM,11:00 AM,11:00 AM,11:00 AM
+809,NA,6:30 AM,NA,NA,NA,NA,NA
+810,4:00 PM,9:30 AM,9:15 AM,NA,9:15 AM,NA,9:15 AM
+811,9:00 AM,"8:00 AM, 10:00 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+812,NA,"{""Date"": ""December 8"", ""Time"": ""10:30 AM - 11:30 AM""}, {""Date"": ""December 15"", ""Time"": ""10:30 AM - 11:30 AM""}, {""Date"": ""December 22"", ""Time"": ""10:30 AM - 11:30 AM""}, {""Date"": ""December 29"", ""Time"": ""10:30 AM - 11:30 AM""}",NA,"{""Date"": ""December 24"", ""Time"": ""5:00 PM - 6:00 PM""}, {""Date"": ""December 31"", ""Time"": ""5:00 PM - 7:00 PM""}","{""Date"": ""December 25"", ""Time"": ""10:30 AM - 11:30 AM""}","{""Date"": ""December 26"", ""Time"": ""6:00 PM - 7:00 PM""}","{""Date"": ""December 20"", ""Time"": ""6:00 PM - 7:00 PM""}, {""Date"": ""December 27"", ""Time"": ""6:00 PM - 7:00 PM""}"
+813,"8:00 AM, 4:30 PM","8:00 AM, 9:30 AM, 11:00 AM, 7:00 PM",7:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+814,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM",NA,NA,NA,NA,NA
+815,NA,NA,NA,NA,NA,NA,NA
+816,"5:30 PM, 10:00 AM, 12:00 PM, 3:00 PM","7:30 AM, 9:00 AM, 11:30 AM, 5:30 PM, 10:15 AM","8:00 AM, 5:30 PM, 7:00 PM, 6:30 PM","8:00 AM, 5:30 PM, 4:00 PM, 4:00 PM in Trinity Hall, 5:45 PM, 7:30 PM, 9:30 PM, 11:30 PM - Lessons & Carols, Midnight Mass","8:00 AM, 5:30 PM, 9:30 AM, 11:30 AM","8:00 AM, 5:30 PM","8:00 AM, 5:30 PM, 8:45 AM"
+817,"5:30 PM, 5:00 PM","9:00 AM, 11:00 AM, 6:00 PM (Candlelight), 8:30 AM, 10:30 AM, 5:30 PM","7:30 AM, 7:10 AM, 8:00 AM","6:30 PM, 6:10 PM, 7:00 PM","7:30 AM, 7:10 AM, 8:00 AM","6:30 PM (Latin), 6:10 PM, 7:15 PM","7:30 AM, 7:10 AM, 8:00 AM"
+818,4:30 PM,"8:00 AM, 10:45 AM, 5:00 PM",Eucharistic Service at 8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+819,NA,9:00 AM,NA,NA,NA,NA,NA
+820,5:00 PM (Sunday Vigil),"7:30 AM, 9:00 AM (Family Mass), 10:30 AM, 12:00 PM",NA,NA,NA,NA,NA
+821,5:00 PM,"{'Morning': '8:00 AM', 'Late Morning': '11:00 AM'}",8:00 AM,8:00 AM,NA,8:00 AM,8:00 AM
+822,"9:00 AM, 5:00 PM (English), 7:00 PM (Spanish)","7:30 AM, 9:00 AM, 10:45 AM, 12:30 PM, 5:00 PM, French Sunday Mass: 12:15 PM (No French Mass the 5th Sundays of the month), 1st Saturday of the month 4:30 PM in the Parish Center","6:30 AM, 9:00 AM (English)","6:30 AM, 9:00 AM (English)","6:30 AM, 9:00 AM (English)","6:30 AM, 9:00 AM (English)","6:30 AM, 9:00 AM (English)"
+823,"5:00 PM, 7:30 PM (Neocatechumenal Way)","8:30 AM, 10:00 AM, 11:30 AM, 1:00 PM (French, every 1st Sunday)",9:00 AM,9:00 AM,"9:00 AM, 7:00 PM",9:00 AM,9:00 AM
+824,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 2:00 PM Korean, 5:00 PM (1st Sunday of the Month)",NA,NA,NA,NA,NA
+825,4:30 PM,10:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM,NA
+826,5:30 PM,"8:00 AM, 10:45 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+827,"{'3:00 PM': 'Kính Lòng Thương Xót Chúa', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Lễ Vọng Chúa Nhật'}","{'7:30 AM': 'Thánh Lễ', '9:00 AM': 'Thánh Lễ', '11:00 AM': 'Thánh Lễ'}","{'6:00 PM': 'Lân Chuỗi Mân Côi', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Thánh Lễ'}","{'6:00 PM': 'Lân Chuỗi Mân Côi', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Thánh Lễ'}","{'6:00 PM': 'Lân Chuỗi Mân Côi', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Thánh Lễ'}","{'6:00 PM': 'Lân Chuỗi Mân Côi', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Thánh Lễ'}","{'6:00 PM': 'Lân Chuỗi Mân Côi', '6:30 PM': 'Chầu Thánh Thể', '7:00 PM': 'Thánh Lễ'}"
+828,4:00 PM,9:00 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+829,NA,"10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+830,4:00 PM,"8:30 AM, 11:00 AM",NA,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+831,"4:00 PM, 7:30 AM","7:30 AM, 9:00 AM, 10:30 AM, 12:30 PM, 2:00 PM",9:00 AM,9:00 AM,10:00 AM,9:00 AM,9:00 AM
+832,4:30 PM,"6:30 AM, 8:00 AM, 10:30 AM",NA,8:00 AM,7:00 PM,8:00 AM,8:00 AM
+833,"9:00 AM, 5:00 PM","7:00 AM, 9:00 AM, 12:00 PM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+834,6:00 PM,"7:30 AM, 9:45 AM, 11:00 AM, 12:30 PM, 5:00 PM","{'Tuesday': '7:30 PM', 'Friday': '7:30 PM', 'Wednesday': '9:30 AM', 'Thursday': '9:30 AM'}","{'Tuesday': '7:30 PM', 'Friday': '7:30 PM', 'Wednesday': '9:30 AM', 'Thursday': '9:30 AM'}","{'Tuesday': '7:30 PM', 'Friday': '7:30 PM', 'Wednesday': '9:30 AM', 'Thursday': '9:30 AM'}","{'Tuesday': '7:30 PM', 'Friday': '7:30 PM', 'Wednesday': '9:30 AM', 'Thursday': '9:30 AM'}","{'Tuesday': '7:30 PM', 'Friday': '7:30 PM', 'Wednesday': '9:30 AM', 'Thursday': '9:30 AM'}"
+835,4:30 PM,"8:15 AM, 11:15 AM, 3:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+836,"7:30 AM, 5:00 PM","7:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 5:00 PM","6:30 AM, 5:00 PM","6:30 AM, 5:00 PM","6:30 AM, 5:00 PM","6:30 AM, 8:30 AM"
+837,5:00 PM,"8:00 AM, 10:30 AM",NA,NA,NA,NA,NA
+838,NA,7:30 AM,NA,NA,NA,NA,NA
+839,5:30 PM,"8:00 AM, 11:30 AM",NA,NA,NA,NA,NA
+840,"5:00 PM, 7:00 PM","7:30 AM, 10:30 AM, 12:30 PM",NA,9:00 AM,NA,NA,NA
+841,4:00 PM,"8:30 AM, 11:00 AM, 1:00 PM",9:00 AM,9:00 AM,6:30 PM,9:00 AM,7:00 PM
+842,4:30 PM,"8:30 AM, 10:30 AM, 12:30 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+843,5:00 PM,"8:00 AM, 10:45 AM, 1:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+844,"8:00 AM, 5:00 PM (Vigil)","7:00 AM, 9:00 AM, 11:30 AM",NA,NA,NA,NA,NA
+845,5:00 PM,"8:00 AM, 10:00 AM",NA,8:00 AM,8:00 AM,NA,8:00 AM
+846,4:00 PM,"9:00 AM, 11:00 AM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,NA
+847,"5:30 PM Vigil, 8:30 AM (First Saturday)","8:30 AM, 10:30 AM, 12:00 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM","8:00 AM, 12:10 PM"
+848,6:30 PM,10:30 AM,NA,12:00 PM,NA,NA,NA
+849,4:00 PM,"8:30 AM, 11:00 AM, 1:15 PM (2nd Sunday in Igbo), 1:15 PM (3rd Sunday in French)",10:00 AM,NA,NA,10:00 AM,NA
+850,4:00 PM (Folk Music),"8:00 AM, 11:00 AM (Gospel Music)",['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM'],['8:00 AM']
+851,NA,NA,NA,NA,NA,NA,NA
+852,"9:00 AM, 5:00 PM Vigil, 7:00 PM (Misa en español)","7:00 AM, 9:00 AM, 5:00 PM, 8:00 AM (Messe en Français), 10:30 AM, 12:00 PM, 1:30 PM, 6:30 PM (Misa en español)","6:30 AM, 9:00 AM",7:00 PM,"6:30 AM, 9:00 AM","6:30 AM, 9:00 AM, 7:00 PM (Messe en Français)","6:30 AM, 9:00 AM, 7:00 PM (Misa en español)"
+853,5:00 PM,"{'Traditional': '9:00 AM', 'Gospel': '12:00 PM'}",NA,NA,NA,NA,NA
+854,NA,NA,NA,NA,NA,NA,NA
+855,5:30 PM,"7:30 AM, 9:30 AM, 11:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+856,NA,NA,NA,NA,NA,NA,NA
+857,"4:00 PM, 7:00 PM","8:00 AM, 9:45 AM, 11:30 AM, 1:30 PM, 6:00 PM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+858,8:00 AM,10:00 AM,NA,NA,6:00 PM,NA,NA
+859,5:00 PM,"7:00 AM, 8:30 AM, 10:00 AM, 11:30 AM, 1:00 PM, 6:00 PM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM","6:30 AM, 9:00 AM"
+860,4:00 PM,10:00 AM,NA,NA,NA,NA,NA
+861,NA,NA,NA,NA,NA,NA,NA
+862,5:00 PM,"8:00 AM, 10:30 AM",NA,8:15 AM,5:30 PM,8:15 AM,8:15 AM
+863,NA,NA,NA,NA,8:00 AM,NA,NA
+864,"{'Holy Cross': '4:30 PM', 'St. Alphonsus': '5:00 PM'}","{'St. Alphonsus': '8:30 AM', 'Holy Cross': '8:30 AM', 'St. John the Evangelist': '10:30 AM', 'Holy Cross Bristol': '10:30 AM'}",NA,NA,NA,NA,NA
+865,NA,NA,NA,NA,NA,NA,NA
+866,"7:00 AM, 5:15 PM","9:15 AM, 11:30 AM",NA,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+867,"4:30 PM - 5:30 PM, 8:00 AM, 5:00 PM","7:30 AM - 8:30 AM, 9:30 AM - 10:30 AM, 8:30 AM, 10:30 AM","6:30 AM - 7:00 AM, 12:00 PM - 12:30 PM, 8:00 AM","6:30 AM, 8:00 AM","8:10 AM, 12:00 PM - 12:30 PM, 8:00 AM","8:00 AM, 12:10 PM","8:00 AM, 12:00 PM - 12:30 PM"
+868,"5:00 PM, 8:00 AM","8:00 AM, 10:00 AM, 12:00 PM, 7:30 AM, 9:30 AM, 11:30 AM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,6:00 PM
+869,5:00 PM,10:00 AM,NA,NA,NA,7:00 AM,NA
+870,NA,NA,NA,NA,NA,NA,NA
+871,NA,9:00 AM,8:00 AM,NA,Noon,NA,8:00 AM
+872,8:30 AM,11:00 AM,NA,8:30 AM,NA,8:30 AM,NA
+873,"8:00 AM, 4:30 PM","8:00 AM, 10:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM","7:00 AM, 12:00 PM"
+874,4:00 PM,9:00 AM,9:00 AM,NA,9:00 AM,NA,NA
+875,NA,NA,NA,NA,NA,NA,NA
+876,NA,9:00 AM,8:00 AM,NA,12:00 PM,NA,8:00 AM
+877,4:30 PM,"8:00 AM, 10:30 AM",8:15 AM,8:15 AM,NA,NA,NA
+878,4:30 PM (at St. Francis of Assisi),10:30 AM,NA,NA,NA,NA,NA
+879,4:00 PM,10:30 AM,NA,4:00 PM,NA,NA,NA
+880,4:00 PM - 5:00 PM,"8:00 AM - 9:00 AM, 10:30 AM - 11:30 AM",NA,NA,NA,NA,NA
+881,4:00 PM,10:30 AM,8:00 AM,NA,8:45 AM,NA,NA
+882,4:00 PM,"8:00 AM, 10:30 AM",8:00 AM,5:30 PM,12:00 PM,8:00 AM,12:00 PM
+883,"4:00 pm, 5:30 pm","9:00 am, 10:30 am",8:00 am,8:00 am,8:00 am,8:00 am,6:00 pm
+884,NA,9:00 AM,8:30 AM at St. Sebastian Church,"{'When School is in Session': '8:15 AM at St. Catherine Church', 'When School is Not in Session': '8:30 AM at St. Catherine Church'}","{'When School is in Session': '8:15 AM at St. Sebastian Church', 'When School is Not in Session': '8:30 AM at St. Sebastian Church'}",No Mass,8:30 AM at St. Catherine Church
+885,NA,"8:00 AM, 10:00 AM (Odd Sundays)",NA,NA,NA,NA,NA
+886,4:00 PM,9:00 AM,No Mass,5:15 PM,9:00 AM,5:15 PM,9:00 AM
+887,"8:30 AM, 5:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 6:00 PM","6:30 AM, 9:00 AM, 6:00 PM","6:30 AM, 8:30 AM","6:30 AM, 8:30 AM","6:30 AM, 9:00 AM","6:30 AM, 8:30 AM"
+888,"4:30 PM - St. Mary, 5:00 PM - St. Charles, 5:30 PM - St. Joseph","7:30 AM - St. Mary, 8:00 AM - St. Charles, 9:00 AM - St. Joseph, 10:30 AM - St. Mary, 11:00 AM - St. Charles (Spanish)",8:30 AM - St. Mary,8:30 AM - St. Charles,8:30 AM - St. Joseph,"8:30 AM - St. Charles, 6:30 PM - St. Charles (Spanish)",8:30 AM - St. Mary
+889,4:00 PM,"8:30 AM, 10:30 AM",8:00 AM (St. Romans Parish),8:00 AM,8:00 AM,8:00 AM,8:00 AM
+890,4:00 PM,9:30 AM,8:00 AM (Communion Service),NA,5:30 PM (changing to 8:00 AM on December 4th),4:00 PM,8:00 AM
+891,NA,NA,NA,NA,NA,NA,NA
+892,NA,"9:30 AM at St. Columbkille, 7:30 AM at Holy Family (12/1), 9:30 AM at St. John the Baptist (12/8), 7:30 AM at Holy Family (12/15), 9:30 AM at St. John the Baptist (12/22), 7:30 AM at Holy Family (12/29)",NA,NA,NA,NA,NA
+893,"8:30 AM, 4:00 PM","7:30 AM, 9:30 AM, 11:00 AM","8:30 AM, 6:00 PM","8:15 AM Mother of Perpetual Help, 8:30 AM","8:30 AM, 6:30 PM",8:30 AM,8:30 AM
+894,4:30 PM at Holy Cross Chapel,"8:15 AM at St. Mary's Chapel-RL, 10:00 AM at Holy Cross Chapel",5:30 PM at St. Rose Chapel,No Mass,8:00 AM at St. Mary's Chapel-RL,9:00 AM at St. Rose Chapel,No Mass
+895,4:30 PM,"7:30 AM, 9:00 AM, 11:00 AM",8:30 AM,6:30 AM,8:30 AM,6:30 AM,8:30 AM
+896,NA,NA,NA,NA,NA,NA,NA
+897,NA,8:30 AM,NA,9:00 AM,NA,NA,NA
+898,5:00 PM,"8:30 AM, 10:45 AM","['Tuesday: 8:00 AM', 'Wednesday: 8:00 AM', 'Thursday: 8:00 AM', 'Friday: 8:00 AM']","['Tuesday: 8:00 AM', 'Wednesday: 8:00 AM', 'Thursday: 8:00 AM', 'Friday: 8:00 AM']","['Tuesday: 8:00 AM', 'Wednesday: 8:00 AM', 'Thursday: 8:00 AM', 'Friday: 8:00 AM']","['Tuesday: 8:00 AM', 'Wednesday: 8:00 AM', 'Thursday: 8:00 AM', 'Friday: 8:00 AM']","['Tuesday: 8:00 AM', 'Wednesday: 8:00 AM', 'Thursday: 8:00 AM', 'Friday: 8:00 AM']"
+899,"8:00 AM, 5:00 PM","8:00 AM, 10:15 AM",7:45 AM,7:45 AM,8:30 AM,7:45 AM,NA
+900,4:30 PM,"8:00 AM, 10:00 AM, 6:00 PM",8:00 AM,7:00 AM,7:00 AM,7:00 AM,7:00 AM
+901,NA,NA,NA,NA,NA,NA,NA
+902,4:30 PM,"8:30 AM, 10:30 AM Español, 6:15 PM",7:45 AM - 8:15 AM,7:45 AM - 8:15 AM,7:45 AM - 8:15 AM,NA,NA
+903,NA,NA,No Mass,6:00 PM,8:30 AM,8:30 AM,8:30 AM
+904,NA,10:00 AM,NA,NA,NA,NA,NA
+905,4:30 PM,9:30 AM,NA,8:30 AM,NA,NA,8:30 AM
+906,NA,NA,NA,NA,NA,NA,NA
+907,NA,NA,NA,NA,NA,NA,NA
+908,4:00 PM,"8:00 AM, 9:30 AM, 11:00 AM",7:30 AM,No Mass,5:30 PM,8:00 AM,8:00 AM
+909,4:30 PM,8:00 AM / 10:00 AM,NA,7:45 AM,7:45 AM,7:45 AM,8:30 AM
+910,"8:00 AM, 4:00 PM","7:00 AM (Spanish Mass), 7:15 AM, 8:00 AM, 8:30 AM, 9:00 AM, 10:00 AM, 10:00 AM, 10:00 AM, 11:00 AM, 12:00 PM (Spanish Mass), 5:00 PM",7:00 AM,7:00 AM,"7:00 AM, 12:00 PM, 6:00 PM","5:00 AM, 7:00 AM","7:00 AM, 12:00 PM, 6:30 PM (Spanish)"
+911,4:00 PM (Sept. - March),7:30 AM,NA,5:00 PM,7:45 AM,7:45 AM,7:45 AM
+912,NA,NA,NA,NA,NA,NA,NA
+913,"5:00 PM, 8:00 AM","8:00 AM, 10:00 AM, 12:00 PM, 7:30 AM, 9:30 AM, 11:30 AM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,6:00 PM
+914,4:30 PM,9:30 AM,NA,NA,7:00 AM,7:00 AM,7:00 AM
+915,"4:30 PM - St. Mary, 5:00 PM - St. Charles, 5:30 PM - St. Joseph","7:30 AM - St. Mary, 8:00 AM - St. Charles, 9:00 AM - St. Joseph, 10:30 AM - St. Mary, 11:00 AM - St. Charles (Spanish)",8:30 AM - St. Mary,8:30 AM - St. Charles,8:30 AM - St. Joseph,"8:30 AM - St. Charles, 6:30 PM - St. Charles (Spanish)",8:30 AM - St. Mary
+916,5:15 PM,"9:00 AM, 11:00 AM, 1:00 PM (Spanish)",5:15 PM,5:15 PM,5:15 PM,5:15 PM,5:15 PM
+917,4:00 PM,8:00 AM,NA,NA,NA,NA,NA
+918,4:30 PM,"8:15 AM, 10:30 AM",NA,NA,8:00 AM,NA,8:00 AM
+919,4:00 PM,7:30 AM & 10:30 AM,6:00 PM,NA,8:00 AM & 6:00 PM,NA,8:00 AM
+920,4:30 PM,"8:00 AM, 10:30 AM, 1:00 PM (Spanish)",NA,NA,NA,NA,NA
+921,"{'1st': 'NA', '2nd': '4:00 PM', '3rd': 'NA', '4th': '4:00 PM'}",9:00 AM,NA,NA,6:45 AM,6:45 AM,7:00 AM (First Friday only)
+922,NA,NA,NA,NA,NA,NA,NA
+923,"{'Regular': '4:00 PM', 'Spanish': '5:00 PM'}","{'8:30 AM': 'St. Helen', '8:30 AM (Spanish)': 'San Alejandro', '10:30 AM': 'St. Helen', '11:30 AM (Spanish)': 'San Alejandro'}",8:15 AM,8:15 AM,"{'Regular': '8:15 AM', 'Spanish': '6:30 PM'}",8:15 AM,8:15 AM
+924,4:00 PM,"{'8:00 AM': 'St. Thomas Aquinas', '9:30 AM': 'St. John the Baptist'}",8:00 AM,NA,NA,8:00 AM,NA
+925,NA,NA,No Mass,6:00 PM,8:30 AM,8:30 AM,8:30 AM
+926,"8:00 AM, 4:30 PM","8:30 AM, 10:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+927,4:30 PM,"8:30 AM, 10:30 AM, 5:00 PM","9:00 AM, 6:00 PM",9:00 AM,8:30 AM,8:00 AM,8:30 AM
+928,4:00 PM,"8:30 AM, 10:30 AM",8:00 AM & 6:30 PM,8:00 AM,6:00 PM,8:00 AM,8:00 AM
+929,4:00 PM,8:00 AM & 10:30 AM,NA,8:30 AM,5:00 PM,8:30 AM,8:30 AM
+930,"4:30 PM - St. Mary, 5:00 PM - St. Charles, 5:30 PM - St. Joseph","7:30 AM - St. Mary, 8:00 AM - St. Charles, 9:00 AM - St. Joseph, 10:30 AM - St. Mary, 11:00 AM - St. Charles (Spanish)","{'Monday': '8:30 AM - St. Mary', 'Tuesday': '8:30 AM - St. Charles', 'Wednesday': '8:30 AM - St. Joseph', 'Thursday': ['8:30 AM - St. Charles', '6:30 PM - St. Charles (Spanish)'], 'Friday': '8:30 AM - St. Mary', '1st Saturday': '8:30 AM - St. Mary'}","{'Monday': '8:30 AM - St. Mary', 'Tuesday': '8:30 AM - St. Charles', 'Wednesday': '8:30 AM - St. Joseph', 'Thursday': ['8:30 AM - St. Charles', '6:30 PM - St. Charles (Spanish)'], 'Friday': '8:30 AM - St. Mary', '1st Saturday': '8:30 AM - St. Mary'}","{'Monday': '8:30 AM - St. Mary', 'Tuesday': '8:30 AM - St. Charles', 'Wednesday': '8:30 AM - St. Joseph', 'Thursday': ['8:30 AM - St. Charles', '6:30 PM - St. Charles (Spanish)'], 'Friday': '8:30 AM - St. Mary', '1st Saturday': '8:30 AM - St. Mary'}","{'Monday': '8:30 AM - St. Mary', 'Tuesday': '8:30 AM - St. Charles', 'Wednesday': '8:30 AM - St. Joseph', 'Thursday': ['8:30 AM - St. Charles', '6:30 PM - St. Charles (Spanish)'], 'Friday': '8:30 AM - St. Mary', '1st Saturday': '8:30 AM - St. Mary'}","{'Monday': '8:30 AM - St. Mary', 'Tuesday': '8:30 AM - St. Charles', 'Wednesday': '8:30 AM - St. Joseph', 'Thursday': ['8:30 AM - St. Charles', '6:30 PM - St. Charles (Spanish)'], 'Friday': '8:30 AM - St. Mary', '1st Saturday': '8:30 AM - St. Mary'}"
+931,4:00 PM,9:30 AM,NA,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+932,NA,NA,NA,NA,NA,NA,NA
+933,4:00 PM,"8:00 AM, 10:30 AM",8:15 AM,8:15 AM,8:15 AM,NA,8:15 AM
+934,NA,NA,NA,NA,NA,NA,NA
+935,4:30 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+936,4:00 PM,10:00 AM,NA,8:00 AM,NA,5:00 PM,NA
+937,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+938,"4:00 PM, 5:30 PM","8:00 AM, 10:00 AM",NA,NA,NA,NA,NA
+939,4:00 PM,"8:00 AM, 11:00 AM, 5:00 PM",8:15 AM,NA,8:15 AM,NA,8:15 AM
+940,5:00 PM,"8:00 AM, 10:30 AM","['Tuesday 8:00 AM', 'Wednesday 8:00 AM']","['Tuesday 8:00 AM', 'Wednesday 8:00 AM']","['Tuesday 8:00 AM', 'Wednesday 8:00 AM']","['Tuesday 8:00 AM', 'Wednesday 8:00 AM']","['Tuesday 8:00 AM', 'Wednesday 8:00 AM']"
+941,"5:00 PM, 8:15 AM","10:00 AM, 11:30 AM in Spanish, 12:00 PM in Spanish",NA,8:15 AM,7:00 PM in Spanish,8:45 AM,NA
+942,4:00 PM,"8:30 AM, 10:30 AM, 7:00 PM",NA,NA,NA,NA,NA
+943,5:00 PM,"9:00 AM, 11:00 AM, 7:00 PM",NA,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+944,"{'English': '4:00 PM', 'Spanish': '6:00 PM'}","{'English': ['8:00 AM', '10:00 AM'], 'Spanish': ['12:00 PM', '2:00 PM']}",8:00 AM,8:00 AM,"{'when school is in session': '9:30 AM', 'when school is not in session': '8:00 AM'}",8:00 AM,8:00 AM
+945,4:00 PM,"8:30 AM, 10:30 AM, 12:30 PM (Vietnamese)",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+946,4:00 PM,"7:30 AM, 9:00 AM, 11:00 AM",8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+947,4:00 PM,"{'First': '8:00 AM', 'Second': '10:30 AM'}",8:00 AM,8:00 AM,9:00 AM,8:00 AM,8:00 AM
+948,"{""Time"": ""4:00 PM"", ""Location"": ""St. Mary\u2019s, Lomira""}","{'1st, 3rd & 5th': '8:00 AM', '2nd & 4th': '8:00 AM'}",Time varies week to week. Please check the bulletin.,Time varies week to week. Please check the bulletin.,"{""Time"": ""7:00 AM"", ""Location"": ""St. Mary\u2019s, Lomira""}",Time varies week to week. Please check the bulletin.,"{""Time"": ""8:30 AM"", ""Location"": ""St. Mary\u2019s, Lomira""}"
+949,NA,8:30 AM,NA,NA,NA,NA,NA
+950,"4:30 PM - 5:30 PM, 8:00 AM, 5:00 PM","7:30 AM - 8:30 AM, 9:30 AM - 10:30 AM, 8:30 AM, 10:30 AM","6:30 AM - 7:00 AM, 12:00 PM - 12:30 PM, 8:00 AM","8:00 AM, 6:30 AM","8:10 AM, 12:00 PM - 12:30 PM, 8:00 AM","8:00 AM, 12:10 PM","8:00 AM, 12:00 PM - 12:30 PM"
+951,4:00 PM,"7:00 AM, 9:30 AM",NA,NA,6:00 PM,NA,NA
+952,4:00 PM,"{'1st, 3rd & 5th': '7:30 AM', '2nd': '7:30 AM', '4th': '7:30 AM', 'Every Sunday': '9:00 AM'}",NA,8:30 AM,NA,8:30 AM,NA
+953,4:00 PM,10:00 AM,NA,7:45 AM,NA,7:45 AM,7:45 AM (When school is not in session)
+954,4:00 PM,8:00 AM & 10:00 AM,5:30 PM,8:15 AM,NA,8:15 AM,8:15 AM
+955,NA,"9:00 AM English, 10:30 AM Hmong (1st & 3rd wk) & Karenni (2nd wk), 12:00 PM Karen (1st & 2nd wk)",NA,NA,NA,NA,NA
+956,"8:00 AM, 5:00 PM","8:00 AM, 10:15 AM",7:45 AM,7:45 AM,8:30 AM,7:45 AM,NA
+957,NA,8:30 AM & 5:00 PM,8:30 AM,NA,NA,NA,NA
+958,9:00 AM,10:30 AM,NA,5:15 PM,NA,12:00 PM,12:00 PM
+959,4:30 PM,"7:15 AM, 9:00 AM, 11:30 AM","7:00 AM Mass, 12:05 PM Mass","7:00 AM Mass, 12:05 PM Mass, 4:00 PM Mass at Three Holy Women-St. Rita","7:00 AM Mass, 12:05 PM Mass","7:00 AM Mass, 12:05 PM Mass","7:00 AM Mass, 12:05 PM Mass"
+960,"{""Time"": ""4:00 PM"", ""Location"": ""St. Casimir""}","{""Time"": ""10:00 AM"", ""Location"": ""St. Casimir""}",NA,NA,NA,NA,NA
+961,NA,NA,NA,NA,NA,NA,NA
+962,4:00 PM,"8:00 AM, 10:30 AM",NA,NA,9:30 AM,NA,NA
+963,"4:00 PM, 8:30 AM","7:00 AM, 10:00 AM, 12:00 PM",7:15 AM,5:45 PM,7:15 AM,7:15 AM,7:15 AM
+964,4:30 PM,"{'St. Cloud': '7:30 AM', 'St. Mary': '9:00 AM', 'St. John': '10:30 AM'}",NA,NA,NA,NA,NA
+965,4:30 PM at Holy Cross Chapel,"8:15 AM at St. Mary's Chapel-RL, 10:00 AM at Holy Cross Chapel",5:30 PM at St. Rose Chapel,No Mass,8:00 AM at St. Mary's Chapel-RL,9:00 AM at St. Rose Chapel,No Mass
+966,"{'Mass': '3:00 PM', 'Confessions': '4:00 PM (English), 6:30 PM (Spanish)'}","{'Spanish': ['7:30 AM', '12:00 PM'], 'English': '9:30 AM'}",NA,8:15 AM,"{'Adoration': '5:00 PM', 'Mass': '6:00 PM'}",8:15 AM,8:15 AM
+967,5:00 PM,"9:30 AM, 7:00 PM",NA,NA,NA,NA,NA
+968,NA,"8:30 AM St. Patrick (English), 10:00 AM Guadalupe (English), 10:30 AM San Patricio (Español), 12:30 PM Guadalupe (Español), 5:00 PM San Patricio (Español)",NA,NA,NA,NA,NA
+969,4:00 PM,"8:30 AM, 10:30 AM, 12:00 PM, 6:00 PM",NA,NA,6:00 PM,NA,NA
+970,5:00 PM,"9:00 AM, 11:30 AM (Spanish), 5:00 PM",NA,NA,8:00 AM,8:00 AM,8:00 AM
+971,NA,8:45 AM,NA,NA,NA,6:00 PM,8:30 AM
+972,4:00 PM,10:00 AM,NA,NA,NA,NA,NA
+973,8:00 AM,"{'Morning': ['8:00 AM', '10:30 AM'], 'Night': '7:00 PM'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+974,5:00 PM,"7:30 AM, 10:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+975,4:30 PM,"8:00 AM, 10:30 AM",8:00 AM,NA,8:00 AM,NA,8:00 AM
+976,NA,NA,NA,NA,NA,NA,NA
+977,6:30 PM,8:30 AM,NA,NA,6:30 PM,NA,8:00 AM
+978,NA,10:00 AM,NA,NA,NA,9:00 AM,NA
+979,4:30 PM,10:30 AM,NA,8:00 AM,8:00 AM,8:15 AM,8:00 AM
+980,"8:15 AM, 4:30 PM","8:30 AM, 11:00 AM, 5:30 PM",NA,7:00 AM,"7:00 AM, 8:00 PM",8:15 AM,8:15 AM
+981,NA,NA,NA,NA,NA,NA,NA
+982,NA,"9:00 AM English, 10:30 AM Hmong (1st & 3rd wk) & Karenni (2nd wk), 12:00 PM Karen (1st & 2nd wk)",NA,NA,NA,NA,NA
+983,5:00 PM,9:30 AM,5:30 PM,NA,8:00 AM,NA,8:00 AM
+984,4:30 PM,9:00 AM,NA,NA,NA,NA,NA
+985,4:30 PM,"9:00 AM, 10:30 AM",NA,7:45 AM,7:45 AM,7:45 AM,7:45 AM
+986,8:30 AM,8:00 AM,NA,6:00 PM,7:00 AM,8:30 AM,7:00 AM
+987,4:00 PM,"8:15 AM, 10:30 AM",No Mass,No Mass,8:30 AM,No Mass,8:30 AM
+988,NA,NA,NA,NA,NA,NA,NA
+989,4:30 PM,9:30 AM,NA,NA,NA,8:15 AM,NA
+990,"9:00 AM (Low Mass), 4:00 PM (Saturday English Mass)","8:00 AM (Low Mass with organ), 10:00 AM (High Mass), 12:00 Noon (Low Mass)","12:00 Noon (Low Mass), 6:00 PM",12:00 Noon (Low Mass),12:00 Noon (Low Mass),12:00 Noon (Low Mass),6:30 PM (Low Mass)
+991,4:30 PM,"8:30 AM, 10:30 AM",NA,6:00 PM,8:00 AM,8:00 AM,8:00 AM
+992,4:30 PM,"{'North Lake': '9:00 AM', 'Monches': '11:00 AM'}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+993,4:30 PM,8:30 AM,NA,8:00 AM,6:00 PM,8:00 AM,8:00 AM
+994,NA,NA,NA,NA,NA,NA,NA
+995,4:00 PM at SVP-West Site,"7:30 AM at SVP-East Site, 9:00 AM at STP – Streamed via Facebook Live, 10:30 AM at SVP-West Site","6:25 AM at SVP-East Site, 12:15 PM at STP","8:00 AM at SVP-West Site, 8:45 AM in the Chapel at STP","6:25 AM at SVP-East Site, 6:00 PM in the Chapel at STP",12:00 PM at SVP-West Site,6:25 AM at SVP-East Site
+996,4:00 PM,"{'Morning': '8:30 AM', 'Late': '10:30 AM'}",8:00 AM,8:00 AM,5:45 PM,NA,8:00 AM
+997,5:30 PM,8:00 AM,NA,NA,8:00 AM,NA,8:00 AM
+998,"4:30 PM | St. Thomas, 4:00 PM | St. Clare","8:00 AM | St. Thomas, 9:30 AM | St. Clare, 11:15 AM | St. Thomas, 6:00 PM | St. Thomas",NA,8:00 AM | St. Thomas,5:30 PM | St. Clare,8:00 AM | St. Thomas,8:00 AM | St. Clare
+999,"{""Time"": ""3:30 PM"", ""Location"": ""Three Holy Women""}, {""Time"": ""4:30 PM"", ""Location"": ""Holy Rosary""}","{""Time"": ""8:30 AM"", ""Location"": ""St. Hedwig""}, {""Time"": ""10:30 AM"", ""Location"": ""St. Rita""}",NA,NA,NA,NA,NA
+1000,4:15 PM,10:30 AM,8:30 AM,NA,8:30 AM,6:00 PM,8:30 AM
+1001,4:00 PM - West Church,"7:30 AM - East Church, 10:30 AM - West Church",6:25 AM - East Church,12:00 PM - West Church,6:25 AM - East Church,12:00 PM - West Church,6:25 AM - East Church
+1002,NA,NA,NA,NA,NA,NA,NA
+1003,"7:30 AM (Vietnamese), 9:00 AM (English), 4:30 PM (English)","8:00 AM (English), 10:00 AM (English), 6:00 PM (Vietnamese), 11:30 AM","6:30 AM, 7:30 AM, 6:00 PM (Vietnamese)","6:30 AM, 7:30 AM, 6:00 PM (Vietnamese)","6:30 AM, 7:30 AM, 6:00 PM (Vietnamese)","6:30 AM, 7:30 AM, 6:00 PM (Vietnamese)","6:30 AM, 7:30 AM, 6:00 PM (Vietnamese)"
+1004,"4:30 PM, 8:00 AM","7:30 AM, 9:00 AM, 11:00 AM",12:00 PM,12:00 PM,12:00 PM,12:00 PM,12:00 PM
+1005,6:00 PM,8:00 AM & 11:30 AM; 9:30 AM & 1:00 PM,NA,8:15 AM & 6:45 PM,8:15 AM & 6:00 PM,8:15 AM,8:15 AM
+1006,NA,"{'English': ['Saturday, 5:00 pm', 'Sunday, 8:30 am'], 'Espanol': ['Saturday, 7:00 pm', 'Sunday, 6:30 am', '10:30 am', '12:30 pm', '2:30 pm', '5:00 pm']}",NA,NA,NA,NA,NA
+1007,4:30 PM,"8:30 AM, 10:30 AM",NA,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+1008,NA,"8:30 am, 12:30 pm (Spanish)",6:45 am,6:45 am,NA,6:45 am,6:45 am
+1009,4:30 PM,"8:00 AM, 10:30 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1010,"7:00 AM, 4:30 PM","8:30 AM, 10:30 AM, 12:30 PM, 6:30 PM","7:00 AM, 12:10 PM, 5:30 PM","7:00 AM, 12:10 PM, 5:30 PM","7:00 AM, 12:10 PM, 5:30 PM","7:00 AM, 12:10 PM, 5:30 PM","7:00 AM, 12:10 PM, 5:30 PM"
+1011,4:30 PM,"8:00 AM, 10:30 AM",NA,NA,NA,NA,NA
+1012,4:30 PM,"7:30 AM, 10:00 AM, Noon",NA,NA,NA,NA,NA
+1013,5:00 PM,"8:00 AM, 10:00 AM, 4:00 PM",9:00 AM,9:00 AM (Tuesday – Friday),NA,NA,"9:00 AM, 6:00 PM"
+1014,"5:00 PM, 7:00 PM (Spanish)","8:00 AM, 10:00 AM, 12:30 PM (Spanish)",8:00 AM,NA,"8:00 AM, 6:00 PM (Spanish)",NA,"8:00 AM, 6:00 PM (Spanish)"
+1015,5:30 PM,"8:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+1016,NA,"{'Saturday (Anticipatory)': '4:00 PM', 'Sunday': ['7:00 AM', '8:30 AM', '10:00 AM', '12:00 PM', '5:00 PM']}",NA,NA,NA,NA,NA
+1017,5:00 PM,"7:30 AM, 9:00 AM, 10:30 AM, 8:30 AM - 12:00 PM",NA,8:00 AM,5:15 PM,8:00 AM,NA
+1018,"{'English': '4:00 PM', 'Spanish': '7:00 PM'}","{'English': ['8:00 AM', '10:00 AM'], 'Spanish': ['12:00 PM', '2:00 PM', '5:00 PM']}",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+1019,{'Anticipatory': '4:00 PM'},"8:00 AM, 9:30 AM, 11:00 AM (Bilingual)",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+1020,4:00 PM,"8:00 AM, 10:30 AM (Bilingual), 12:30 PM (Spanish)",NA,6:30 PM (Spanish),6:30 PM (Spanish),6:30 PM (Spanish),NA
+1021,NA,NA,NA,NA,NA,NA,NA
+1022,NA,NA,NA,NA,NA,NA,NA
+1023,4:00 PM,"7:00 AM, 8:30 AM, 10:00 AM (Latin), 12:00 PM, 2:00 PM (Español), 5:10 PM",NA,NA,NA,NA,NA
+1024,4:30 PM,"8:00 AM, 10:30 AM, 12:30 PM (En Español)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1025,5:00 PM,"8:30 AM, 5:00 PM (Bilingual Mass)",12:10 PM,5:00 PM,12:10 PM,12:10 PM,12:10 PM
+1026,4:00 PM,"{'Matins': '7:30 AM', 'Divine Liturgy': '9:00 AM'}",NA,NA,NA,NA,NA
+1027,NA,"8:00 AM English, 9:30 AM Spanish, 11:00 AM Spanish",NA,9:00 AM Spanish,9:00 AM Spanish,9:00 AM Spanish,9:00 AM English
+1028,"{'English': '5:00 PM', 'Spanish': '7:00 PM'}","{'English': ['7:30 AM (incense free)', '9:00 AM', '11:00 AM'], 'Spanish': ['1:00 PM', '5:00 PM']}",NA,NA,NA,NA,NA
+1029,"8:30 AM, 5:00 PM","8:00 AM, 10:00 AM, 12:00 PM",8:30 AM,8:30 AM,"8:30 AM, 5:45 PM",8:30 AM,8:30 AM
+1030,4:30 PM,"7:30 AM, 9:00 AM, 10:45 AM",NA,8:30 AM,"8:30 AM, 5:30 PM",8:30 AM,8:30 AM
+1031,8:00 AM,"{'English': ['8:00 AM', '11:00 AM'], 'Spanish': '2:00 PM'}",7:30 AM,7:30 AM,7:30 AM,7:30 AM,7:30 AM
+1032,"4:00 PM, 6:00 PM","7:00 AM, 8:30 AM, 10:00 AM, 12:00 PM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1033,"9:30 AM, 4:30 PM","7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM","7:00 AM, 9:30 AM","7:00 AM, 9:30 AM","7:00 AM, 9:30 AM","7:00 AM, 9:30 AM","7:00 AM, 9:30 AM"
+1034,4:00 PM,8:00 AM & 10:00 AM,8:10 AM,8:10 AM,8:10 AM,8:10 AM,8:10 AM
+1035,NA,NA,NA,NA,NA,NA,NA
+1036,NA,NA,NA,NA,NA,NA,NA
+1037,5:00 PM,"6:30 AM, 8:00 AM, 10:00 AM, 11:30 AM, 1:00 PM, 2:30 PM",NA,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1038,NA,NA,NA,NA,NA,NA,NA
+1039,4:30 PM (Anticipatory),"8:00 AM, 10:00 AM, 12:00 PM, 6:00 PM",NA,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1040,9:00 AM,"{""Location"": ""St. Paul's (Idaho Springs)"", ""Time"": ""8:30 AM""}, {""Location"": ""St. Mary of the Assumption (Central City)"", ""Time"": ""11:00 AM""}",9:00 AM,6:00 PM,9:00 AM,NA,12:10 PM
+1041,4:00 PM,"7:00 AM, 9:00 AM, 11:00 AM",NA,NA,NA,NA,NA
+1042,{'Low Mass': ['8:30 AM']},"{'Low Mass': ['6:30 AM', '8:00 AM', '9:30 AM', '1:00 PM'], 'High Mass': ['11:00 AM']}",{'Daily': ['8:30 AM']},{'Daily': ['8:30 AM']},{'Daily': ['8:30 AM']},{'Daily': ['8:30 AM']},"{'Daily': ['8:30 AM', '7:00 PM']}"
+1043,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM, 2:00 PM",7:00 PM,9:00 AM,9:00 AM,7:00 PM,NA
+1044,5:30 PM,"8:00 AM, 9:30 AM, 11:30 AM (St. Elizabeth at Buffalo Creek)",NA,8:30 AM,6:00 PM (St. Elizabeth - Buffalo Creek),8:30 AM,8:30 AM
+1045,5:00 PM,"{'English': '9:00 AM', 'Spanish': '11:30 AM'}",NA,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+1046,"4:00 PM - St. Bernard, Fraser, 5:00 PM - St. Anne, Grand Lake, 5:30 PM - St. Bernard, Fraser","7:00 AM - St. Bernard, Fraser, 9:30 AM - Our Lady of the Snow, Granby, 10:00 AM - St. Peter, Kremmling, 12:00 PM - St. Anne, Grand Lake (July Only), 1:00 PM - St. Ignatius, Walden, 6:00 PM - Our Lady of the Snow, Granby (Spanish)","8:30 AM - St. Anne, Grand Lake","7:30 AM - Our Lady of the Snow, Granby, 7:00 PM - Our Lady of the Snow, Granby (Spanish)","8:30 AM - St. Bernard, Fraser",NA,"7:10 PM - St. Peter, Kremmling (Bilingual)"
+1047,4:00 PM,"8:00 AM, 10:00 AM, 5:00 PM",9:00 AM,9:00 AM,9:00 AM,9:00 AM,9:00 AM
+1048,8:00 AM English,"7:30 AM English, 9:30 AM English, 11:30 AM English, 1:30 PM Spanish, 5:00 PM English, 7:00 PM Spanish","6:30 AM English, 12:10 PM English","6:30 AM English, 12:10 PM English, 6:30 PM Spanish","6:30 AM English, 12:10 PM English, 6:30 PM Spanish","6:30 AM English, 12:10 PM English, 6:30 PM Spanish","6:30 AM English, 12:10 PM English, 6:30 PM Spanish"
+1049,5:00 PM,"8:00 AM, 10:00 AM, 12:00 PM",NA,NA,NA,NA,NA
+1050,4:00 PM,"7:30 AM, 9:00 AM, 11:00 AM, 5:30 PM","['Monday – Friday: 6:30 AM, 8:00 AM, 12:15 PM', 'Saturday: 8:30 AM']","['Monday – Friday: 6:30 AM, 8:00 AM, 12:15 PM', 'Saturday: 8:30 AM']","['Monday – Friday: 6:30 AM, 8:00 AM, 12:15 PM', 'Saturday: 8:30 AM']","['Monday – Friday: 6:30 AM, 8:00 AM, 12:15 PM', 'Saturday: 8:30 AM']","['Monday – Friday: 6:30 AM, 8:00 AM, 12:15 PM', 'Saturday: 8:30 AM']"
+1051,{'Anticipatory': '5:30 PM'},"{'8:30 AM': 'English', '10:00 AM': 'Spanish', '11:30 AM': 'English'}",NA,NA,NA,NA,NA
+1052,"8:00 AM, 5:00 PM","7:00 AM, 9:00 AM, 12:00 PM Spanish",12:00 PM,5:30 PM,12:00 PM,12:00 PM,12:00 PM
+1053,5:00 PM,"8:00 AM, 9:30 AM, 10:00 AM, 1:00 PM (Spanish), 6:00 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM"
+1054,4:30 PM,"8:00 AM, 10:00 AM, 12:30 PM",7:30 AM,12:00 PM,NA,NA,7:30 AM
+1055,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM, 4:30 PM",NA,NA,NA,NA,NA
+1056,"{'St. Andrew the Apostle': '5:00 PM', 'St. John the Evangelist': 'All Saturday anticipatory masses are at St. Andrew'}","{'St. Andrew the Apostle': '8:00 AM', 'St. John the Evangelist': {'English': '10:30 AM', 'Spanish': '1:00 PM'}}",NA,{'St. John the Evangelist': '5:30 PM'},{'St. John the Evangelist': '8:00 AM'},{'St. Andrew the Apostle': '5:30 PM'},{'St. Andrew the Apostle': '8:00 AM'}
+1057,4:30 PM,"7:30 AM - Spanish, 9:30 AM - English, 11:30 AM - Spanish, 1:30 PM - Spanish, 5:00 PM - Spanish",NA,NA,NA,NA,NA
+1058,NA,NA,NA,NA,NA,NA,NA
+1059,6:00 PM,10:30 AM,NA,NA,NA,NA,NA
+1060,"8:00 AM, 4:00 PM (Anticipatory), 7:00 PM (Spanish)","8:00 AM, 10:30 AM, 1:00 PM (Spanish)",NA,"8:00 AM, 7:00 PM (Spanish)",8:00 AM,8:00 AM,8:00 AM
+1061,"10:00 AM, 1:00 PM, 4:00 PM",NA,NA,NA,NA,NA,8:30 AM
+1062,NA,"8:30 AM, 12:30 PM (Spanish)",6:45 AM,6:45 AM,NA,6:45 AM,6:45 AM
+1063,NA,"9:30 AM (English), 11:45 AM (Español)",NA,NA,NA,NA,NA
+1064,NA,9:00 AM,12:15 PM,12:15 PM,12:15 PM,12:15 PM,12:15 PM
+1065,NA,NA,NA,NA,NA,NA,NA
+1066,5:30 PM,"9:00 AM, 10:30 AM",12:10 PM,12:10 PM,12:10 PM,12:10 PM,12:10 PM
+1067,NA,NA,NA,NA,NA,NA,NA
+1068,4:00 PM,"8:00 AM (Vietnamese), 10:00 AM (English), 12:00 PM (Spanish), 1:00 PM (Airport Interfaith Chapel), 6:00 PM (Bilingual)",8:30 AM,8:30 AM,7:00 PM (Spanish),"8:30 AM, 6:00 PM (Vietnamese)",5:30 PM
+1069,5:00 PM,"7:30 AM, 10:00 AM",NA,NA,NA,NA,NA
+1070,"{'Daily': '8:15 AM', 'Anticipated': '4:00 PM'}","8:00 AM, 10:00 AM, Noon (Spanish)",8:15 AM,8:15 AM,8:15 AM,8:15 AM,8:15 AM
+1071,8:30 AM,"7:30 AM, 9:00 AM, 11:30 AM, 5:30 PM",8:30 AM,8:30 AM,"8:30 AM, 5:30 PM",8:30 AM,8:30 AM
+1072,NA,NA,NA,NA,NA,NA,NA
+1073,4:00 PM,"8:00 AM, 10:00 AM, 4:00 PM, 10:30 AM",NA,NA,NA,NA,NA
+1074,"4:00 PM (English), 7:00 PM (Neocatechumenal Mass)","8:00 AM (Spanish), 10:00 AM (English), 12:30 PM (Spanish)",9:00 AM (English),"9:00 AM (English), 6:00 PM (Spanish)",9:00 AM (English),9:00 AM (English),9:00 AM (English)
+1075,"4:00 PM (December 7 only), 5:00 PM, 6:30 PM (Spanish)","7:00 AM, 8:30 AM, 10:30 AM, 12:30 PM (Spanish), 4:00 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM","8:15 AM, 12:10 PM, 6:00 PM (Spanish)","8:15 AM, 12:10 PM"
+1076,NA,NA,NA,NA,NA,NA,NA
+1077,"4:00 PM, 9:00 AM","8:00 AM, 10:00 AM, 11:30 AM (Traditional Latin Mass), 5:00 PM",8:30 AM,"8:00 AM, 5:30 PM","8:00 AM, 5:30 PM","8:00 AM, 8:00 PM (Candlelight)","8:00 AM, 8:30 AM"
+1078,6:00 PM,"9:00 AM (Inglés), 11:00 AM (Español), 1:00 PM (Español), 6:00 PM (Español)",NA,NA,NA,NA,NA
+1079,"4:00 PM, 8:00 AM","7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM","7:00 AM, 12:10 PM","7:00 AM, 12:10 PM","7:00 AM, 8:15 AM, 12:10 PM, 5:30 PM, 7:00 PM","7:00 AM, 9:30 AM, 12:10 PM","7:00 AM, 12:10 PM, 8:15 AM"
+1080,4:00 pm,"7:30 am, 9:15 am, & 11:00 am",NA,NA,NA,NA,NA
+1081,6:30 PM,"{'8:00 AM': 'English', '10:00 AM': 'Polish', '12:00 PM': 'Polish'}",NA,NA,NA,NA,NA
+1082,5:00 PM,"7:00 AM, 9:00 AM, 11:00 AM",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1083,NA,"7:00 AM, 10:30 AM, 12:30 PM",NA,NA,7:30 PM,NA,10:30 AM
+1084,5:00 PM,"8:30 AM, 10:30 AM",NA,NA,NA,NA,NA
+1085,5:00 PM,"7:30 AM, 9:00 AM, 11:15 AM",8:30 AM (Communion Service),8:30 AM,8:30 AM,8:30 AM,8:30 AM
+1086,5:00 PM,"7:30 AM, 9:00 AM, 11:30 AM",8:30 AM,8:30 AM,8:30 AM,8:30 AM,8:30 AM
+1087,5:30 PM,"7:30 AM, 10:00 AM, 5:30 PM, 7:00 PM (Primer Sábado del Mes en Español)",5:30 PM,8:00 AM,8:00 AM,8:00 AM,No Mass
+1088,6:00 PM,10:00 AM (Live stream),9:00 AM,8:00 AM (Communion Service),9:00 AM,9:00 AM,9:00 AM
+1089,"8:15 AM, 4:30 PM","7:30 AM, 9:30 AM, 11:30 AM, 5:00 PM","6:30 AM, 8:15 AM","6:30 AM, 8:15 AM","6:30 AM, 8:15 AM","6:30 AM, 8:15 AM","6:30 AM, 8:15 AM"
+1090,"{'St. Mary of the Crown': '6:30 PM (Spanish)', 'St. Vincent': '4:30 PM (English)'}","{'St. Mary of the Crown': '8:30 AM (English)', 'St. Vincent': ['10:30 AM (English)', '12:30 PM (Spanish)']}",NA,{'St. Mary of the Crown': '7:30 AM'},{'St. Vincent': '7:30 AM'},"{'St. Mary of the Crown': '7:30 AM', 'St. Vincent': 'NA'}",{'St. Vincent': '7:30 AM'}
+1091,NA,"9:00 AM English, 12:00 PM Spanish, 2:00 PM Spanish",6:00 PM Spanish,NA,NA,NA,6:00 PM Spanish
+1092,"9:00 AM, 4:00 PM","7:00 AM, 9:00 AM, 11:00 AM, 6:00 PM","7:00 AM, 12:10 PM, 6:00 PM",12:10 PM,12:10 PM,12:10 PM,12:10 PM
+1093,11:30 AM,11:00 AM,NA,6:00 PM,6:00 PM,6:00 PM,6:30 PM
+1094,NA,NA,NA,NA,NA,NA,NA
+1095,"{'Daily': '7:30 AM', 'Anticipated': {'English': '4:00 PM', 'Spanish': '5:30 PM'}}","{'English': '9:00 AM', 'Spanish': ['10:30 AM', '12:00 PM', '2:00 PM']}",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1096,NA,NA,NA,NA,NA,NA,NA
+1097,"4:00 PM, 5:30 PM, 7:30 AM","7:00 AM, 8:30 AM, 10:30 AM, 12:30 PM, 5:30 PM","6:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 9:00 AM, 11:00 AM","6:30 AM, 9:00 AM, 11:00 AM"
+1098,5:00 PM,"9:30 AM, 11:30 AM",7:30 AM,NA,7:30 AM,7:30 AM,7:30 AM
+1099,5:00 PM,"7:00 AM, 10:00 AM, 12:00 PM (Spanish)",8:00 AM,8:00 AM,8:00 AM,8:00 AM,8:00 AM
+1100,NA,"8:30 AM Divine Liturgy in English, 10:30 AM Divine Liturgy in Ukrainian",NA,NA,NA,NA,NA
